@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "apps": {
+    "dictum": { "status": "beta" },
+    "textum": { "status": "beta" },
+    "cliplark": { "status": "beta" },
+    "shotlark": { "status": "beta" },
+    "note-calc": { "status": "beta" }
+  }
+}
