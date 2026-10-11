@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Dictum</title>
+    <item>
+      <title>Dictum 0.3.0</title>
+      <pubDate>Sun, 11 Oct 2026 12:59:40 -0000</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.3.0 · 2026-10-11</h2><h3>Добавлено</h3><ul><li>Обновления: раз в день Dictum проверяет, нет ли новой версии, и показывает её вместе с новостями — ставится одной кнопкой. Во время записи окно не появится, подождёт. Проверить вручную — меню Dictum → «Проверить обновления…»; выключить — Настройки → О программе.</li></ul><h3>Изменено</h3><ul><li>Новый стиль плашки «Карандаш»: смелая линия от руки с плавными перепадами толщины; карандашом нарисованы и сообщения на плашке — значок, текст и кнопки. Вместо прежних «Пера» и «Карандаша» — у кого они были выбраны, включится новый. Выбрать стиль — в Настройках → Общие → Плашка записи.</li></ul>
+]]></description>
+      <enclosure url="https://github.com/kvp5359-lab/updates/releases/download/dictum-0.3.0/Dictum-0.3.0.zip" length="16261552" type="application/octet-stream" sparkle:edSignature="Gb5Wd0msiSrwVFdps25G980O3HNvHaKjKaNVpiTTWI2EgSSzi4IRm7nxZT/jcM9bxH74lb7V4XG/zYgjbrY+DA=="/>
+    </item>
+  </channel>
+</rss>
