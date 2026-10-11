@@ -1,0 +1,16 @@
+{
+  "version": "0.3.0",
+  "notes": "Версия 0.3.0 · 2026-10-11\nДобавлено:\n• Обновления сами: раз в день Note Calc проверяет новую версию и показывает, что в ней нового, а ставит только с твоего согласия. Проверить вручную — меню Note Calc → «Проверить обновления…» или Настройки → Справка; там же можно выключить автопроверку.\nИзменено:\n• Подсказки и тексты — на «ты», как в других моих приложениях.",
+  "notes_en": "Version 0.3.0 · 2026-10-11\nAdded:\n• Updates on their own: once a day Note Calc looks for a new version and shows what's new in it, but installs it only when you agree. To check by hand — Note Calc menu → “Check for Updates…” or Settings → Help; the automatic check can be turned off there too.\nChanged:\n• Hints and texts in Russian now speak to you informally, like my other apps.",
+  "pub_date": "2026-10-11T14:58:29Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbGRxRkhyVnhUYnBnY0Q3eVRPS3B3SkFmaTNCQTRUalR5NDFUYWRsKzMvQ0tnNzZubzQvaDJscHl4SWJURzlLanZDZENvNm1GY1J0VCtvMFAyekpjTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzMwNzA5CWZpbGU6Tm90ZS1DYWxjLTAuMy4wLmFwcC50YXIuZ3oKc2s4NU9qV0ZGaHoycmloUWF4L1dPWlc4YjMrQVdwY3Yzbzhvd1h0eVFrb1MyOENrS3VWRzRHSWVnUEw1azNMdE80TkFlaGY2OXlBVnRLdUtHb3REREE9PQo=",
+      "url": "https://github.com/kvp5359-lab/updates/releases/download/note-calc-0.3.0/Note-Calc-0.3.0.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbGRxRkhyVnhUYnBnY0Q3eVRPS3B3SkFmaTNCQTRUalR5NDFUYWRsKzMvQ0tnNzZubzQvaDJscHl4SWJURzlLanZDZENvNm1GY1J0VCtvMFAyekpjTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzMwNzA5CWZpbGU6Tm90ZS1DYWxjLTAuMy4wLmFwcC50YXIuZ3oKc2s4NU9qV0ZGaHoycmloUWF4L1dPWlc4YjMrQVdwY3Yzbzhvd1h0eVFrb1MyOENrS3VWRzRHSWVnUEw1azNMdE80TkFlaGY2OXlBVnRLdUtHb3REREE9PQo=",
+      "url": "https://github.com/kvp5359-lab/updates/releases/download/note-calc-0.3.0/Note-Calc-0.3.0.app.tar.gz"
+    }
+  }
+}
