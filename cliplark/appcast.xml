@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Cliplark</title>
+    <item>
+      <title>Cliplark 0.3.0</title>
+      <pubDate>Sun, 11 Oct 2026 12:41:38 -0000</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.3.0 · 2026-10-11</h2><h3>Добавлено</h3><ul><li>Обновления сами: раз в день Cliplark проверяет новую версию и показывает, что в ней нового, а ставит только с твоего согласия. Проверить вручную — меню Cliplark → «Проверить обновления…» или Настройки → О программе; там же можно выключить автопроверку. Версия из App Store обновляется через App Store, как раньше.</li></ul><h3>Изменено</h3><ul><li>Новый значок — жаворонок в полёте на зелёном. У Shotlark такой же жаворонок, в рамке снимка.</li><li>Подсказки и тексты — на «ты», как в других моих приложениях.</li></ul>
+]]></description>
+      <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.3.0 · 2026-10-11</h2><h3>Added</h3><ul><li>Updates on their own: once a day Cliplark looks for a new version and shows what's new in it, but installs it only when you agree. To check by hand — Cliplark menu → “Check for Updates…” or Settings → About; the automatic check can be turned off there too. The App Store version keeps updating through the App Store.</li></ul><h3>Changed</h3><ul><li>A new icon — a lark in flight on green. Shotlark has the same lark, in a capture frame.</li><li>Hints and texts in Russian now speak to you informally, like my other apps.</li></ul>
+]]></description>
+      <enclosure url="https://github.com/kvp5359-lab/updates/releases/download/cliplark-0.3.0/Cliplark-0.3.0.zip" length="5918196" type="application/octet-stream" sparkle:edSignature="aZIIX2NAV0OZU+5hSKaDdR5J8W2l0PNss+eec4lP3MudeVWZcPpefGDzhRxEqJjfmAgcPbd5ot24mAfOBf24BQ=="/>
+    </item>
+  </channel>
+</rss>
