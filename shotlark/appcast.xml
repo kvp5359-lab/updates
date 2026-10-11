@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Shotlark</title>
+    <item>
+      <title>Shotlark 0.12.0</title>
+      <pubDate>Sun, 11 Oct 2026 14:54:45 -0000</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.12.0 · 2026-10-11</h2><h3>Добавлено</h3><ul><li>Обновления: раз в день Shotlark проверяет, нет ли новой версии, и показывает её вместе с новостями — ставится одной кнопкой. Во время записи экрана окно не появится, подождёт. Проверить вручную — меню значка → «Проверить обновления…» или Настройки → О программе; там же автопроверку можно выключить.</li></ul><h3>Изменено</h3><ul><li>Новое имя — <b>Shotlark</b>. История снимков, настройки и разрешения остаются как были.</li><li>Свой значок — жаворонок в рамке снимка, в одной семье с Cliplark. Такой же, одноцветный, теперь и в строке меню.</li></ul>
+]]></description>
+      <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.12.0 · 2026-10-11</h2><h3>Added</h3><ul><li>Updates: once a day Shotlark looks for a new version and shows it together with what's new — installed with one button. While the screen is being recorded the window won't appear, it waits. To check by hand — the menu bar icon → “Check for Updates…” or Settings → About; the automatic check can be turned off there too.</li></ul><h3>Changed</h3><ul><li>A new name — <b>Shotlark</b>. Capture history, settings and permissions stay as they were.</li><li>Its own icon — a lark in a capture frame, from the same family as Cliplark. The same one, monochrome, is now in the menu bar too.</li></ul>
+]]></description>
+      <enclosure url="https://github.com/kvp5359-lab/updates/releases/download/shotlark-0.12.0/Shotlark-0.12.0.zip" length="5929192" type="application/octet-stream" sparkle:edSignature="hxg4HZTLQUw1Qk1hSdeD+Hg60zqsWkgfnQnNOUXfBhEARsHAbH+RTmba12z2eST3pZANj7GV3BX9h29cyEYsBw=="/>
+    </item>
+  </channel>
+</rss>
