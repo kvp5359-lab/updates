@@ -3,6 +3,16 @@
   <channel>
     <title>Textum</title>
     <item>
+      <title>Textum 0.4.0</title>
+      <pubDate>Mon, 12 Oct 2026 05:46:37 -0000</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.4.0 · 2026-10-11</h2><h3>Добавлено</h3><ul><li>Настройки → О программе → «Лицензия»: Textum сейчас в бете, всё бесплатно. Там же — поле для лицензионного ключа на будущее и с какого дня ты с нами.</li></ul><h3>Исправлено</h3><ul><li>Отчёты об ошибках теперь доходят из любой страны, включая Россию: они идут через мой сервер. Включаются и выключаются, как раньше, в настройках.</li><li>Окно «Что нового» теперь появляется и после первого обновления — раньше, если Textum поставили недавно, оно пропускалось.</li><li>Окно проверки обновлений и вопрос про отчёты об ошибках больше не прячутся за другими окнами — сразу видны впереди.</li><li>В отчётах об ошибках больше нет имени пользователя Mac — ни в путях к файлам, ни в отчётах о падениях.</li></ul>
+]]></description>
+      <enclosure url="https://github.com/kvp5359-lab/updates/releases/download/textum-0.4.0/Textum-0.4.0.zip" length="13332420" type="application/octet-stream" sparkle:edSignature="FZR+v/w1ZjNW948yopDqzETyLQlONpGssGTfzMWKIP7YLj0fLW4GJzMQ8SRojgIOyp4Q01fpdS6kIJ/2mDBwDA=="/>
+    </item>
+    <item>
       <title>Textum 0.3.0</title>
       <pubDate>Sun, 11 Oct 2026 12:59:37 -0000</pubDate>
       <sparkle:version>54</sparkle:version>
