@@ -13,7 +13,7 @@
 ]]></description>
       <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.4.0 · 2026-10-11</h2><h3>Added</h3><ul><li>Settings → About → «License»: Cliplark is in beta now, everything is free. There's also a field for a license key for later, and the day you joined.</li></ul><h3>Fixed</h3><ul><li>Error reports now arrive from any country, including Russia: they go through my own server. You turn them on or off in Settings, as before.</li><li>The What's New window now also appears after the first update — before, if Cliplark had been installed recently, it was skipped.</li><li>The update check window and the question about error reports no longer hide behind other windows — they show up in front.</li><li>Error reports no longer contain the Mac user's name — neither in file paths nor in crash reports.</li></ul>
 ]]></description>
-      <enclosure url="https://github.com/kvp5359-lab/updates/releases/download/cliplark-0.4.0/Cliplark-0.4.0.zip" length="6069930" type="application/octet-stream" sparkle:edSignature="LNraB57ThmvTpxdh2IWxr+IVLX1BLA3gdqR3GSuPwrFljeIVc7Na8qHtk9l0JjmuOCjzgYvagoVyMx+k93qGBA=="/>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-0.4.0/Cliplark-0.4.0.zip" length="6069930" type="application/octet-stream" sparkle:edSignature="LNraB57ThmvTpxdh2IWxr+IVLX1BLA3gdqR3GSuPwrFljeIVc7Na8qHtk9l0JjmuOCjzgYvagoVyMx+k93qGBA=="/>
     </item>
     <item>
       <title>Cliplark 0.3.0</title>
@@ -25,7 +25,7 @@
 ]]></description>
       <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.3.0 · 2026-10-11</h2><h3>Added</h3><ul><li>Updates on their own: once a day Cliplark looks for a new version and shows what's new in it, but installs it only when you agree. To check by hand — Cliplark menu → “Check for Updates…” or Settings → About; the automatic check can be turned off there too. The App Store version keeps updating through the App Store.</li></ul><h3>Changed</h3><ul><li>A new icon — a lark in flight on green. Shotlark has the same lark, in a capture frame.</li><li>Hints and texts in Russian now speak to you informally, like my other apps.</li></ul>
 ]]></description>
-      <enclosure url="https://github.com/kvp5359-lab/updates/releases/download/cliplark-0.3.0/Cliplark-0.3.0.zip" length="5918196" type="application/octet-stream" sparkle:edSignature="aZIIX2NAV0OZU+5hSKaDdR5J8W2l0PNss+eec4lP3MudeVWZcPpefGDzhRxEqJjfmAgcPbd5ot24mAfOBf24BQ=="/>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-0.3.0/Cliplark-0.3.0.zip" length="5918196" type="application/octet-stream" sparkle:edSignature="aZIIX2NAV0OZU+5hSKaDdR5J8W2l0PNss+eec4lP3MudeVWZcPpefGDzhRxEqJjfmAgcPbd5ot24mAfOBf24BQ=="/>
     </item>
   </channel>
 </rss>

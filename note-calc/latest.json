@@ -6,11 +6,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbGNncEtreUUxdXVidUF0ejR6M21CS1N2OGFYYjRReUZhM0JNNUVNU3pzWkF1bm5teElhTW1oN2IxUGhrSHVQb293MWJhdG94N0VYM2tITWNYaGZhVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzY1MzQ0CWZpbGU6Tm90ZS1DYWxjLTAuNC4wLmFwcC50YXIuZ3oKOTZ3cDV4T05DMjFjTGhzOC91ZTVHVFNJUEFITG9iaHJJcTQ3Yzg0UHBsQzJ3U2F2UDl4eWZRdXFOQnJONStmdFhlU05Td0dyT1pDUDR0MmJSY2NzQWc9PQo=",
-      "url": "https://github.com/kvp5359-lab/updates/releases/download/note-calc-0.4.0/Note-Calc-0.4.0.app.tar.gz"
+      "url": "https://updates.kvp-projects.com/files/note-calc-0.4.0/Note-Calc-0.4.0.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbGNncEtreUUxdXVidUF0ejR6M21CS1N2OGFYYjRReUZhM0JNNUVNU3pzWkF1bm5teElhTW1oN2IxUGhrSHVQb293MWJhdG94N0VYM2tITWNYaGZhVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzY1MzQ0CWZpbGU6Tm90ZS1DYWxjLTAuNC4wLmFwcC50YXIuZ3oKOTZ3cDV4T05DMjFjTGhzOC91ZTVHVFNJUEFITG9iaHJJcTQ3Yzg0UHBsQzJ3U2F2UDl4eWZRdXFOQnJONStmdFhlU05Td0dyT1pDUDR0MmJSY2NzQWc9PQo=",
-      "url": "https://github.com/kvp5359-lab/updates/releases/download/note-calc-0.4.0/Note-Calc-0.4.0.app.tar.gz"
+      "url": "https://updates.kvp-projects.com/files/note-calc-0.4.0/Note-Calc-0.4.0.app.tar.gz"
     }
   }
 }
