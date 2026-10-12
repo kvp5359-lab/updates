@@ -3,6 +3,19 @@
   <channel>
     <title>Cliplark</title>
     <item>
+      <title>Cliplark 0.4.0</title>
+      <pubDate>Mon, 12 Oct 2026 05:46:33 -0000</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description xml:lang="ru"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.4.0 · 2026-10-11</h2><h3>Добавлено</h3><ul><li>Настройки → О программе → «Лицензия»: Cliplark сейчас в бете, всё бесплатно. Там же — поле для лицензионного ключа на будущее и с какого дня ты с нами.</li></ul><h3>Исправлено</h3><ul><li>Отчёты об ошибках теперь доходят из любой страны, включая Россию: они идут через мой сервер. Включаются и выключаются, как раньше, в настройках.</li><li>Окно «Что нового» теперь появляется и после первого обновления — раньше, если Cliplark поставили недавно, оно пропускалось.</li><li>Окно проверки обновлений и вопрос про отчёты об ошибках больше не прячутся за другими окнами — сразу видны впереди.</li><li>В отчётах об ошибках больше нет имени пользователя Mac — ни в путях к файлам, ни в отчётах о падениях.</li></ul>
+]]></description>
+      <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.4.0 · 2026-10-11</h2><h3>Added</h3><ul><li>Settings → About → «License»: Cliplark is in beta now, everything is free. There's also a field for a license key for later, and the day you joined.</li></ul><h3>Fixed</h3><ul><li>Error reports now arrive from any country, including Russia: they go through my own server. You turn them on or off in Settings, as before.</li><li>The What's New window now also appears after the first update — before, if Cliplark had been installed recently, it was skipped.</li><li>The update check window and the question about error reports no longer hide behind other windows — they show up in front.</li><li>Error reports no longer contain the Mac user's name — neither in file paths nor in crash reports.</li></ul>
+]]></description>
+      <enclosure url="https://github.com/kvp5359-lab/updates/releases/download/cliplark-0.4.0/Cliplark-0.4.0.zip" length="6069930" type="application/octet-stream" sparkle:edSignature="LNraB57ThmvTpxdh2IWxr+IVLX1BLA3gdqR3GSuPwrFljeIVc7Na8qHtk9l0JjmuOCjzgYvagoVyMx+k93qGBA=="/>
+    </item>
+    <item>
       <title>Cliplark 0.3.0</title>
       <pubDate>Sun, 11 Oct 2026 12:41:38 -0000</pubDate>
       <sparkle:version>40</sparkle:version>
