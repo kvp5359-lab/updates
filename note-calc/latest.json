@@ -1,16 +1,16 @@
 {
-  "version": "0.5.2",
-  "notes": "Версия 0.5.2 · 2026-10-12\nИсправлено:\n• Закреплённое окно (📌 «Поверх всех окон») видно на любом рабочем столе и поверх программ, развёрнутых на весь экран.\n• Переключение на Note Calc через ⌘Tab возвращает закрытое окно, а не оставляет пустую программу.\n• Окно заметок открывается на том рабочем столе, где ты сейчас, а не перекидывает тебя на тот, где его оставили.",
-  "notes_en": "Version 0.5.2 · 2026-10-12\nFixed:\n• The pinned window (📌 «Keep on top») shows on every desktop and over apps in full screen.\n• Switching to Note Calc with ⌘Tab brings back a closed window instead of leaving an empty app.\n• The notes window opens on the desktop you are on instead of taking you to the one where it was left.",
-  "pub_date": "2026-10-12T19:39:28Z",
+  "version": "0.5.3",
+  "notes": "Версия 0.5.3 · 2026-10-20\nДобавлено:\n• «Проверить обновления…» в меню значка Note Calc в строке меню, как у других моих приложений.\nИсправлено:\n• Кнопка «Установить и перезапустить» в окне обновления теперь действительно ставит новую версию — раньше она отвечала «Не получилось поставить обновление».",
+  "notes_en": "Version 0.5.3 · 2026-10-20\nAdded:\n• «Check for Updates…» in the menu of the Note Calc icon in the menu bar, as in my other apps.\nFixed:\n• «Install and Relaunch» in the update window now really installs the new version — it used to answer that the update couldn’t be installed.",
+  "pub_date": "2026-10-20T18:30:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbGR4UEc0d1NvMVYrdFNmWG5PMjZVejc4aTROTEdpVWFsN3FqZEhoQ3FHbHRkQ25oQzdUaDNYQ0w0ak5GT2hTVVVzMVJkS2QrWThuRnBZMitlMzRxd2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODMzOTY4CWZpbGU6Tm90ZS1DYWxjLTAuNS4yLmFwcC50YXIuZ3oKZ1djQ3ZmaGpLMTFXQnBzcmxzWmxGRnNoYmRMMTVwN0pZZGNFbDVrd2xoenA4NWpQRGRtaG5sU0xiZUx3YlQ3QWYycUUxbVNtOVRYUm00cmNmY2YrQnc9PQo=",
-      "url": "https://updates.kvp-projects.com/files/note-calc-0.5.2/Note-Calc-0.5.2.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbFY5ci9nSndUUXVwd3ZETThxS3NDQWoyazFXUG8zNytleXc4WVpyazVmVHJLaEM5WWpKcjFxNUF5RytMZ0ptM3cwaUx0SVFCbTJkSjhqdWFtK0dqcUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTIxMDU4CWZpbGU6Tm90ZS1DYWxjLTAuNS4zLmFwcC50YXIuZ3oKdDVWcU1Gb0FEMnBNc05BNjIzQW9Hc2h0blVTbFFDZmRmR3czSUhsOWd5RnI5SDN4ejRvdXFua3VCMjhFUFdPTklCWEhpYm5qSHZaVzByaEpNYjZ3QlE9PQo=",
+      "url": "https://updates.kvp-projects.com/files/note-calc-0.5.3/Note-Calc-0.5.3.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbGR4UEc0d1NvMVYrdFNmWG5PMjZVejc4aTROTEdpVWFsN3FqZEhoQ3FHbHRkQ25oQzdUaDNYQ0w0ak5GT2hTVVVzMVJkS2QrWThuRnBZMitlMzRxd2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODMzOTY4CWZpbGU6Tm90ZS1DYWxjLTAuNS4yLmFwcC50YXIuZ3oKZ1djQ3ZmaGpLMTFXQnBzcmxzWmxGRnNoYmRMMTVwN0pZZGNFbDVrd2xoenA4NWpQRGRtaG5sU0xiZUx3YlQ3QWYycUUxbVNtOVRYUm00cmNmY2YrQnc9PQo=",
-      "url": "https://updates.kvp-projects.com/files/note-calc-0.5.2/Note-Calc-0.5.2.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbFY5ci9nSndUUXVwd3ZETThxS3NDQWoyazFXUG8zNytleXc4WVpyazVmVHJLaEM5WWpKcjFxNUF5RytMZ0ptM3cwaUx0SVFCbTJkSjhqdWFtK0dqcUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTIxMDU4CWZpbGU6Tm90ZS1DYWxjLTAuNS4zLmFwcC50YXIuZ3oKdDVWcU1Gb0FEMnBNc05BNjIzQW9Hc2h0blVTbFFDZmRmR3czSUhsOWd5RnI5SDN4ejRvdXFua3VCMjhFUFdPTklCWEhpYm5qSHZaVzByaEpNYjZ3QlE9PQo=",
+      "url": "https://updates.kvp-projects.com/files/note-calc-0.5.3/Note-Calc-0.5.3.app.tar.gz"
     }
   }
 }
