@@ -3,6 +3,17 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.5.0</title>
+      <pubDate>Thu, 29 Oct 2026 09:53:18 -0000</pubDate>
+      <sparkle:version>245</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.5.0 · 2026-10-29</h2><h3>Добавлено</h3><ul><li>Запись встреч и диктофон: твой голос и собеседники из Telegram, WhatsApp, Zoom или Meet, а также длинные записи с микрофона распознаются прямо на Mac; итог, конспект и экспорт — в новом разделе «Записи» (меню Dictum → «Записать встречу» / «Диктофон»).</li><li>«Обработать» после вставки: у конца текста появляется тонкая кнопка — выбери инструкцию («Письмо», перевод…) или сделай одну основной и обрабатывай в один клик (Настройки → Инструкции).</li><li>Сценарии и инструкции вместо режимов: у диктовки, встречи и диктофона свои сценарии и клавиши, а инструкции для ИИ — отдельный раздел, их можно перетаскивать и дублировать. Твои режимы перенесены сами.</li><li>Умная первая буква и умные пробелы: продолжение фразы начинается с маленькой буквы, пробелы между диктовками ставятся сами (Настройки → Общие → Вставка текста).</li></ul><h3>Изменено</h3><ul><li>ElevenLabs и OpenAI распознают потоком: слова на плашке появляются сразу, а текст вставляется меньше чем за секунду после остановки; ElevenLabs учитывает твой словарь.</li><li>Плашка записи встаёт у курсора в Chrome, Claude, Slack, VS Code и Telegram и больше не закрывает поле ввода.</li></ul><h3>Исправлено</h3><ul><li>Надёжнее: после перезагрузки Mac диктовка не ждёт загрузки моделей, Esc и обрыв связи больше не теряют текст, клик мимо поля до диктовки открывает панель «Вставить / Скопировать»; Dictum можно удалить из самого приложения (меню Dictum → «Удалить Dictum…»).</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-0.5.0/Dictum-0.5.0.zip" length="17707357" type="application/octet-stream" sparkle:edSignature="Gs7+IDuAlWjtSO4v65Cc6CwmfYugTLeyKE4qpREwPfn8OitlziAITdpWhXebZUYkJw7fNB2XMyC5HJu2YhD/Cg=="/>
+    </item>
+    <item>
       <title>Dictum 0.4.0</title>
       <pubDate>Mon, 12 Oct 2026 05:46:38 -0000</pubDate>
       <sparkle:version>118</sparkle:version>
