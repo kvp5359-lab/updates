@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>Shotlark</title>
+    <item>
+      <title>Shotlark 0.2.0</title>
+      <pubDate>Fri, 30 Oct 2026 19:15:38 -0000</pubDate>
+      <sparkle:version>185</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0.19041</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.0 · 2026-10-30
+Добавлено:
+• Первая версия для Windows: снимки области, окна и экрана, длинные скриншоты, запись видео и GIF, редактор пометок, миниатюра после снимка, закрепление поверх окон, история и распознавание текста. Ставится обычным установщиком, лицензия — в Настройках → О программе. Обновления приходят сами: раз в день проверка, а ставится по твоей кнопке.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.0 · 2026-10-30
+Added:
+• The first version for Windows: captures of an area, a window and the screen, scrolling captures, video and GIF recording, the markup editor, a thumbnail after each capture, pinning on top of windows, history and text recognition. Comes with a regular installer; the license is in Settings → About. Updates come by themselves: a check once a day, installed when you press the button.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/shotlark-windows-0.2.0/Shotlark-0.2.0-setup.exe" length="58195335" type="application/octet-stream" sparkle:os="windows" kvp:arch="x64" kvp:sha256="8dd631bba696968543f794b9b1ee26fd928bfa90247123bc789cde0722f221ee" kvp:signature="e3ky6eq4yXel4V8H9vNihqRltBRmKIt9xDl7U4GknQClxdWZdg0bwhu3ETMcpK1ugvtCPYVS1/ZduzJZbNz+Dw=="/>
+    </item>
+  </channel>
+</rss>
