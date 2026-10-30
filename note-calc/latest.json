@@ -1,16 +1,16 @@
 {
-  "version": "0.5.3",
-  "notes": "Версия 0.5.3 · 2026-10-20\nДобавлено:\n• «Проверить обновления…» в меню значка Note Calc в строке меню, как у других моих приложений.\nИсправлено:\n• Кнопка «Установить и перезапустить» в окне обновления теперь действительно ставит новую версию — раньше она отвечала «Не получилось поставить обновление».",
-  "notes_en": "Version 0.5.3 · 2026-10-20\nAdded:\n• «Check for Updates…» in the menu of the Note Calc icon in the menu bar, as in my other apps.\nFixed:\n• «Install and Relaunch» in the update window now really installs the new version — it used to answer that the update couldn’t be installed.",
-  "pub_date": "2026-10-20T18:30:58Z",
+  "version": "0.5.4",
+  "notes": "Версия 0.5.4 · 2026-10-29\nИзменено:\n• Строка, добавленная быстрой записью в открытую заметку, появляется в тексте сразу: заметка не перезагружается, курсор и отмена ⌘Z остаются на месте.\nИсправлено:\n• Если заметку поменяли в другой программе, пока она открыта в Note Calc, правки из обоих мест теперь склеиваются — раньше набранное в Note Calc могло затереть чужое изменение.",
+  "notes_en": "Version 0.5.4 · 2026-10-29\nChanged:\n• A line added with Quick Entry to the open note shows up in the text right away: the note doesn't reload, the cursor and ⌘Z undo stay where they were.\nFixed:\n• If a note is changed in another app while it is open in Note Calc, the edits from both places are now merged — before, typing in Note Calc could overwrite the other change.",
+  "pub_date": "2026-10-29T21:52:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbFY5ci9nSndUUXVwd3ZETThxS3NDQWoyazFXUG8zNytleXc4WVpyazVmVHJLaEM5WWpKcjFxNUF5RytMZ0ptM3cwaUx0SVFCbTJkSjhqdWFtK0dqcUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTIxMDU4CWZpbGU6Tm90ZS1DYWxjLTAuNS4zLmFwcC50YXIuZ3oKdDVWcU1Gb0FEMnBNc05BNjIzQW9Hc2h0blVTbFFDZmRmR3czSUhsOWd5RnI5SDN4ejRvdXFua3VCMjhFUFdPTklCWEhpYm5qSHZaVzByaEpNYjZ3QlE9PQo=",
-      "url": "https://updates.kvp-projects.com/files/note-calc-0.5.3/Note-Calc-0.5.3.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbFhTWG4wMlZ6YmZraU9ON3RPREpxaHB4TmdZZEVXYzc4OWJNSk9PWkx0SVZSYzNaM1VaVzNMWVoxSjhsclp5dTVjR1R0bGZUK0ZpamlEN0ZvZVRXQVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzEwNzY3CWZpbGU6Tm90ZS1DYWxjLTAuNS40LmFwcC50YXIuZ3oKTS9LNDVqck9WZk43ajhQWlZybWJHSkpXWFU4YVVTaHMrQjlQRmdqL0d3TjBka0ZDeVBvWkxXUkRiRVN0UHlxWkFoQlh0elZMQW5uQ0VvNUxUR21yQVE9PQo=",
+      "url": "https://updates.kvp-projects.com/files/note-calc-0.5.4/Note-Calc-0.5.4.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbFY5ci9nSndUUXVwd3ZETThxS3NDQWoyazFXUG8zNytleXc4WVpyazVmVHJLaEM5WWpKcjFxNUF5RytMZ0ptM3cwaUx0SVFCbTJkSjhqdWFtK0dqcUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTIxMDU4CWZpbGU6Tm90ZS1DYWxjLTAuNS4zLmFwcC50YXIuZ3oKdDVWcU1Gb0FEMnBNc05BNjIzQW9Hc2h0blVTbFFDZmRmR3czSUhsOWd5RnI5SDN4ejRvdXFua3VCMjhFUFdPTklCWEhpYm5qSHZaVzByaEpNYjZ3QlE9PQo=",
-      "url": "https://updates.kvp-projects.com/files/note-calc-0.5.3/Note-Calc-0.5.3.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVEJLTThDYUhVbFhTWG4wMlZ6YmZraU9ON3RPREpxaHB4TmdZZEVXYzc4OWJNSk9PWkx0SVZSYzNaM1VaVzNMWVoxSjhsclp5dTVjR1R0bGZUK0ZpamlEN0ZvZVRXQVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzEwNzY3CWZpbGU6Tm90ZS1DYWxjLTAuNS40LmFwcC50YXIuZ3oKTS9LNDVqck9WZk43ajhQWlZybWJHSkpXWFU4YVVTaHMrQjlQRmdqL0d3TjBka0ZDeVBvWkxXUkRiRVN0UHlxWkFoQlh0elZMQW5uQ0VvNUxUR21yQVE9PQo=",
+      "url": "https://updates.kvp-projects.com/files/note-calc-0.5.4/Note-Calc-0.5.4.app.tar.gz"
     }
   }
 }
