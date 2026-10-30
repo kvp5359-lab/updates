@@ -1,6 +1,6 @@
 # updates
 
-Public downloads and update feeds for Kirill Prudnikov's Mac apps (Dictum, Textum, Cliplark, Shotlark, Note Calc).
+Public downloads and update feeds for Kirill Prudnikov's apps for Mac (Dictum, Textum, Cliplark, Shotlark, Note Calc) and Windows (Shotlark).
 No source code here — only release builds, update feeds and the signed licensing policy. The apps read everything
 from `https://updates.kvp-projects.com/`, which is served by the project's own server; this repository and its Releases
 are the public archive of the same files. The `CNAME` file is kept so GitHub Pages can serve the address again if needed.
@@ -9,13 +9,17 @@ are the public archive of the same files. The `CNAME` file is kept so GitHub Pag
 |---|---|
 | `<app>/appcast.xml` | [Sparkle](https://sparkle-project.org) update feed of a Swift app (`dictum`, `textum`, `cliplark`, `shotlark`) |
 | `note-calc/latest.json` | Note Calc's update feed (Tauri updater) |
-| `policy.json` + `policy.json.sig` | the licensing policy every app reads once a day (status of each app: beta / paid, revoked keys), signed with the shelf's Ed25519 key |
+| `<app>-windows/appcast.xml` | update feed of a Windows app (`shotlark-windows`): Sparkle's format with a checksum and a signature for each release |
+| `policy.json` + `policy.json.sig` | the licensing policy every app reads once a day (status of each app: beta / paid, revoked keys), signed with the project's Ed25519 key |
 | `CNAME`, `index.html`, `.nojekyll` | a placeholder page and GitHub Pages settings (the fallback) |
 
 Builds are downloaded from `https://updates.kvp-projects.com/files/<app>-<version>/`; copies are the **Releases** of this
-repository, tagged `<app>-<version>` (e.g. `dictum-0.3.0`): a notarized DMG and
-the update archive. Every update is signed with the apps' update key (checked by Sparkle / the Tauri updater) and
-with Apple's Developer ID, notarized by Apple.
+repository, tagged `<app>-<version>` (e.g. `dictum-0.3.0`, `shotlark-windows-0.2.0`).
+
+- **Mac:** a notarized DMG and the update archive. Every update is signed with the apps' update key (checked by Sparkle /
+  the Tauri updater) and with Apple's Developer ID, notarized by Apple.
+- **Windows:** `<App>-<version>-setup.exe`. Every release is signed with a separate Ed25519 update key; the app checks that
+  signature itself before installing. The installer has no publisher certificate yet, so Windows may warn about it on first install.
 
 `policy.json` is never edited by hand alone: any change must be signed again (`license-tool sign-policy` /
-`license-tool revoke` in the private `mac-app-kit`), otherwise the apps ignore it. Its `serial` grows with every edit; an app never goes back to a smaller one.
+`license-tool revoke` in the private `apple-kit`), otherwise the apps ignore it. Its `serial` grows with every edit; an app never goes back to a smaller one.
