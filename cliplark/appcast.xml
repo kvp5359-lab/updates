@@ -3,6 +3,19 @@
   <channel>
     <title>Cliplark</title>
     <item>
+      <title>Cliplark 0.5.0</title>
+      <pubDate>Thu, 29 Oct 2026 21:51:00 -0000</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description xml:lang="ru"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.5.0 · 2026-10-29</h2><h3>Добавлено</h3><ul><li>Если открыть Cliplark прямо из образа диска, он предложит перенести себя в «Программы», перезапустится оттуда и отключит образ — иначе разрешения macOS доставались временной копии и не работали.</li><li>Cliplark можно удалить из самого приложения — вместе с историей или оставив её; само приложение останется перетащить в Корзину (меню Cliplark → «Удалить Cliplark…»).</li></ul><h3>Исправлено</h3><ul><li>«Проверить обновления…» отвечает понятно: «У тебя последняя версия» — без загадочных номеров сборки.</li></ul>
+]]></description>
+      <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.5.0 · 2026-10-29</h2><h3>Added</h3><ul><li>Opened right from the disk image, Cliplark offers to move itself to Applications, restarts from there and ejects the image — otherwise macOS permissions went to a temporary copy and didn't work.</li><li>Cliplark can uninstall itself, with or without your history; you then drag the app to the Trash (Cliplark menu → «Uninstall Cliplark…»).</li></ul><h3>Fixed</h3><ul><li>«Check for Updates…» answers plainly: «You’re up to date» — no cryptic build numbers.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-0.5.0/Cliplark-0.5.0.zip" length="6219299" type="application/octet-stream" sparkle:edSignature="aasJWwD1KJlPxNbCfHiZbzYJA6KH7EVmo+jJ4h5ZTcIFglCtJPZgm72g+QuWjs0UZ5v2M4OO7UKLVF5K/cdkCQ=="/>
+    </item>
+    <item>
       <title>Cliplark 0.4.0</title>
       <pubDate>Mon, 12 Oct 2026 05:46:33 -0000</pubDate>
       <sparkle:version>51</sparkle:version>
