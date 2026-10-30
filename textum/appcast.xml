@@ -3,6 +3,16 @@
   <channel>
     <title>Textum</title>
     <item>
+      <title>Textum 0.5.0</title>
+      <pubDate>Thu, 29 Oct 2026 21:51:19 -0000</pubDate>
+      <sparkle:version>124</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.5.0 · 2026-10-29</h2><h3>Добавлено</h3><ul><li>Сломанный текст чинится перед отправкой ИИ: абракадабра из PDF, «кракозябры» от неверной кодировки, неверная раскладка, разрывы строк. Исправленное видно в цитате над ответом.</li><li>Новые виды панели: «Стекло», как у Cliplark (macOS 26 и новее), светлая с мягкой тенью и «карандашом», как плашка Dictum (Настройки → Панель).</li><li>После вставки сниппета можно сразу изменить его или вернуть набранное слово; закреплённые эмодзи — с булавкой в верхнем ряду, закрепить одним нажатием.</li><li>Открытый из образа диска или «Загрузок» Textum предлагает перенести себя в «Программы»; удалить его можно из самого приложения (меню Textum → «Удалить Textum…»).</li></ul><h3>Изменено</h3><ul><li>Окно действий появляется у выделенного текста везде: на веб-страницах, в письмах и чатах, в Claude, Slack и VS Code, а в Codex и ChatGPT — у места последнего щелчка.</li><li>Окно по сочетанию клавиш открывается быстрее; пока ответа нет, видно, что происходит; Esc после ответа закрывает окно (к списку действий — кнопкой ←).</li></ul><h3>Исправлено</h3><ul><li>ИИ-действия больше не возвращают текст без изменений, если в нём есть просьбы; переключатель раскладки не принимает сокращения вроде «внж» за слово; сетка эмодзи не дёргается; «Проверить обновления…» отвечает понятно.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/textum-0.5.0/Textum-0.5.0.zip" length="14064968" type="application/octet-stream" sparkle:edSignature="jWqo0gizMZvEHzx7ypd2BvJgKZ4sKZDxGMQ+Wwy8GPvYjvGwK5iTYur9K/f5wXNkcYh0Qv3jyZe+pO9qjP0xCg=="/>
+    </item>
+    <item>
       <title>Textum 0.4.0</title>
       <pubDate>Mon, 12 Oct 2026 05:46:37 -0000</pubDate>
       <sparkle:version>64</sparkle:version>
