@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>LanguageApp</title>
+    <item>
+      <title>LanguageApp 0.1.0</title>
+      <pubDate>Sun, 01 Nov 2026 14:05:39 -0000</pubDate>
+      <sparkle:version>107</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.0 · 2026-11-01
+Добавлено:
+• Запиши разговор или вставь текст: он разобьётся на предложения с переводом под каждым, прямо на телефоне и без интернета; с ключом нейросети перевод точнее.
+• Фразы и словарь с уровнями, поиском и умными повторениями: нажми на слово в тексте, и оно в словаре, а приложение само решает, что и когда спросить.
+• Слова ведутся по ступеням, от сегодня до проверки через месяц. Сколько раз отвечать верно — Профиль → Изучение → Усилия.
+• «Скажи фразу»: видишь фразу на своём языке и говоришь на изучаемом, свои фразы или новые от нейросети по выбранной теме и уровню.
+• Разговор голосом с партнёром: ситуации, твой уровень, исправления по ходу, память о тебе (её можно стереть) и разбор в конце. По своему ключу Gemini или по сервису kvp, минуты там списываются кусками по 3.
+• Плохая связь и звонок не обрывают разговор: сказанное не теряется, а пока идёт звонок, минуты не тратятся.
+• Чтение: книги и любые тексты (EPUB, FB2, TXT), нажми на слово — увидишь перевод и добавишь к себе, место в книге запоминается.
+• Облако по подписке: войди по коду из письма, и слова, фразы, тексты, разговоры и книги появятся на другом телефоне. Звук записей и ключи остаются на телефоне (Профиль → Облако).
+• Обновления прямо в приложении: раз в день оно смотрит, вышла ли новая версия, и ставит по твоей кнопке (Профиль → Обновления).
+• Два оформления: спокойное и яркое (Профиль → Вид → Оформление).
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.0 · 2026-11-01
+Added:
+• Record a conversation or paste a text: it splits into sentences with a translation under each, on the phone itself, without internet; more accurate with an AI key.
+• Phrases and vocabulary with levels, search and spaced repetition: tap a word in a text to add it, and the app decides what to ask and when.
+• Words are led through steps, from today to a check in a month. How many right answers it takes: Profile → Study → Effort.
+• «Say the phrase»: see a phrase in your language and say it in the one you're learning, your own phrases or new ones from the AI on a topic and level you choose.
+• Voice conversation with a partner: situations, your level, corrections along the way, a memory of you (you can erase it) and a review at the end. By your own Gemini key or the kvp service, whose minutes go in pieces of 3.
+• A bad connection or a phone call doesn't end a conversation: nothing said is lost, and no minutes are spent during a call.
+• Reading: books and any texts (EPUB, FB2, TXT), tap a word for its translation and add it to your lists; your place in the book is kept.
+• Cloud by subscription: sign in with a code from an email and your words, phrases, texts, conversations and books reach your other phone. Audio and keys stay on the phone (Profile → Cloud).
+• Updates inside the app: once a day it looks for a new version and installs it when you press the button (Profile → Updates).
+• Two looks: calm and bright (Profile → Look → Style).
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.0/LanguageApp-0.1.0.apk" length="79910631" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="eb455f26fc5045ada61f7dd1cecfa163dbd67518df62b8e1d08514c0e0124fbb"/>
+    </item>
+  </channel>
+</rss>
