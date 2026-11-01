@@ -3,6 +3,26 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.1</title>
+      <pubDate>Sun, 01 Nov 2026 20:25:24 -0000</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.1 · 2026-11-01
+Добавлено:
+• Вход через Google рядом со входом по коду из письма (Профиль → Облако). Появится, когда будет настроен.
+• Ключ подписки приходит сам: войди в аккаунт с той почтой, на которую оформлена подписка, и вставлять ничего не нужно. Поле для ключа осталось на случай другой почты.
+• Удаление аккаунта: Профиль → Облако → Удалить аккаунт. Данные на телефоне остаются, оплаченная подписка не отменяется.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.1 · 2026-11-01
+Added:
+• Sign in with Google next to the email code (Profile → Cloud). It appears once it is set up.
+• Your subscription key arrives by itself: sign in with the email the subscription is on, nothing to paste. The key field stays for a different email.
+• Deleting the account: Profile → Cloud → Delete account. Data on the phone stays, a paid subscription isn't cancelled.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.1/LanguageApp-0.1.1.apk" length="80295704" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="24d2616e81b57c13f6120e1cffb299f7dd1bed737c3a9d0e3c86b8d5e7a5b651"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.0</title>
       <pubDate>Sun, 01 Nov 2026 14:05:39 -0000</pubDate>
       <sparkle:version>107</sparkle:version>
