@@ -3,6 +3,34 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.2</title>
+      <pubDate>Mon, 02 Nov 2026 06:37:14 -0000</pubDate>
+      <sparkle:version>126</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.2 · 2026-11-02
+Добавлено:
+• Вход через Google работает: Профиль → Облако → «Продолжить с Google».
+• Войти другим аккаунтом на телефоне теперь можно: приложение спросит, менять ли аккаунт, и данные с телефона уйдут в новый. Вставленный ключ остаётся.
+Исправлено:
+• Проверка, распознаёт ли телефон язык, больше не зависает навсегда, если система не ответила: голосовой ответ снова становится доступен.
+• Если Google не пускает адрес, окно говорит об этом и предлагает войти по коду из письма.
+• Если при удалении аккаунта ответ потерялся, приложение прямо говорит, что результат неизвестен, а не «облако не отвечает».
+• Разговор на плохой связи: реплика, сказанная перед обрывом, больше не пропадает и не задваивается, а разговор не обрывается из-за задержки с продлением минут.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.2 · 2026-11-02
+Added:
+• Sign-in with Google works: Profile → Cloud → «Continue with Google».
+• You can now sign in with another account on this phone: the app asks first, and the phone's data goes to the new account. A pasted key stays.
+Fixed:
+• The check whether the phone recognizes a language no longer hangs for good when the system doesn't answer: the spoken answer becomes available again.
+• When Google refuses an address, the message says so and offers signing in by a code from an email.
+• When the answer to deleting an account is lost, the app says the result is unknown instead of «the cloud isn't answering».
+• Conversation on a bad connection: a line said just before a drop no longer disappears or doubles, and the talk no longer ends because renewing the minutes took a moment.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.2/LanguageApp-0.1.2.apk" length="80312092" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="f62afddbab03cc5f025cf4ff95720d6a899572f35acac321ddeec89f0ba893aa"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.1</title>
       <pubDate>Sun, 01 Nov 2026 20:25:24 -0000</pubDate>
       <sparkle:version>116</sparkle:version>
