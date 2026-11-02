@@ -3,6 +3,17 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.7.0</title>
+      <pubDate>Mon, 02 Nov 2026 12:58:47 -0000</pubDate>
+      <sparkle:version>279</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.7.0 · 2026-11-02</h2><h3>Добавлено</h3><ul><li>Синхронизация Dictum Cloud с iPhone и Android: обработки, сценарии и словарь, История — по переключателю. Вход по коду из письма: Общие → «Синхронизация (бета)».</li><li>Лицензии компонентов: какие чужие программы внутри и на каких условиях (Настройки → О программе).</li><li>Важное объявление от разработчика (например, о неудачной версии) показывается заметно: один раз, не забирая фокус и не посреди записи.</li></ul><h3>Исправлено</h3><ul><li>Растянутые звуки через дефис («э-э», «м-м-м», «а-а») убираются целиком: раньше от «э-э» в тексте оставался лишний дефис.</li><li>Если скачивание модели оборвалось из-за медленного или пропавшего интернета, Dictum так и пишет и подсказывает нажать «Скачать» ещё раз — вместо непонятной системной ошибки.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-0.7.0/Dictum-0.7.0.zip" length="17983767" type="application/octet-stream" sparkle:edSignature="sQ40bMM0aUgdG9prELWoYAaDzFHsOpgQed2hEvuTeU6lJTh2vLjqqhdrmZCpxUBCzPlNG0j8/TWJzq2QJIUhDA=="/>
+    </item>
+    <item>
       <title>Dictum 0.6.2</title>
       <pubDate>Thu, 29 Oct 2026 21:51:03 -0000</pubDate>
       <sparkle:version>261</sparkle:version>
