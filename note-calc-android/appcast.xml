@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>Note Calc</title>
+    <item>
+      <title>Note Calc 0.6.0</title>
+      <pubDate>Wed, 04 Nov 2026 10:48:00 -0000</pubDate>
+      <sparkle:version>124</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.0 · 2026-11-04
+Добавлено:
+• Первая версия для Android: заметки-калькулятор с теми же расчётами, таблицами и оформлением, что на Mac.
+• Цифровая клавиатура для расчётов: кнопка с цифрами на панели над клавиатурой, «ABC» возвращает обычную.
+• Обновления прямо в приложении: когда выходит новая версия, Note Calc предлагает её поставить. Проверить вручную — Настройки → Обновления.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.0 · 2026-11-04
+Added:
+• The first version for Android: calculator notes with the same calculations, tables and formatting as on the Mac.
+• A number pad for calculations: the button with digits on the bar above the keyboard, «ABC» brings the usual keyboard back.
+• Updates right in the app: when a new version is out, Note Calc offers to install it. To check by hand — Settings → Updates.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.6.0/Note-Calc-0.6.0.apk" length="12190886" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="8554f0a059f956b83425da82602c6dd65b7a6e599a832588edace7e6516f122c"/>
+    </item>
+  </channel>
+</rss>
