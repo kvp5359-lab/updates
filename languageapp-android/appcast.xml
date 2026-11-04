@@ -3,6 +3,22 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.3</title>
+      <pubDate>Wed, 04 Nov 2026 20:55:59 -0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.3 · 2026-11-04
+Изменено:
+• В разговоре облачко твоего хода появляется, только когда микрофон тебя слушает, и показывает твои слова, пока говоришь. «По кнопке» в нём подсказка «Нажми на микрофон». Поле ввода спрятано за значком клавиатуры.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.3 · 2026-11-04
+Changed:
+• In a conversation, your turn's bubble shows only while the microphone listens, with your words as you say them. When you answer by the button, it tells you to tap the microphone. The text field is behind the keyboard icon.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.3/LanguageApp-0.1.3.apk" length="80312092" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="2e02d275a67ae6580945c0e1306c783d8634b1aabb4e69a92caab3a61d2ddc04"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.2</title>
       <pubDate>Mon, 02 Nov 2026 06:37:14 -0000</pubDate>
       <sparkle:version>126</sparkle:version>
