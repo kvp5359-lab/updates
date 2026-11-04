@@ -3,6 +3,22 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.7.0</title>
+      <pubDate>Wed, 04 Nov 2026 12:39:13 -0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.0 · 2026-11-04
+Добавлено:
+• Синхронизация заметок с Note Calc на Mac и других устройствах (бета): Настройки → Аккаунт, вход кодом из письма. Картинки и файлы пока не синхронизируются.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.0 · 2026-11-04
+Added:
+• Syncing notes with Note Calc on the Mac and other devices (beta): Settings → Account, sign in with a code from an email. Pictures and files don’t sync yet.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.7.0/Note-Calc-0.7.0.apk" length="12778280" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="bc2589c56be35a10a4712b27095a128e685f809fbf316acc40977cf79d759a64"/>
+    </item>
+    <item>
       <title>Note Calc 0.6.0</title>
       <pubDate>Wed, 04 Nov 2026 10:48:00 -0000</pubDate>
       <sparkle:version>124</sparkle:version>
