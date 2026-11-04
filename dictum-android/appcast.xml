@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>Dictum</title>
+    <item>
+      <title>Dictum 0.1.4</title>
+      <pubDate>Wed, 04 Nov 2026 21:24:46 -0000</pubDate>
+      <sparkle:version>281</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.4 · 2026-11-04
+Добавлено:
+• Обновления прямо из приложения: Настройки → «Обновления» — новая версия скачивается и ставится сама, посреди записи ничего не прерывает.
+• Аккаунт kvp: вход по коду из письма или через Google, в Настройках можно выйти или удалить аккаунт. Появится вместе с синхронизацией.
+• Одна кнопка записи: вкладка «Запись» — выбери режим (Диктофон, Разговор или Диктовка), нажми — запись начнётся сразу. Режим можно сменить прямо во время записи: звук не прерывается, а всё уже сказанное сразу показывается в новом режиме — в разговоре прошлые фразы переводятся.
+• «После записи» — что сделать с записью после «Стоп» по последнему режиму (конспект, итог встречи, чистый текст в буфер…); то же выбирается в «Обработки → По умолчанию». В карточке записи её можно обработать заново любой обработкой.
+• Настройки → «Хранение»: звук записей удаляется сам через 7, 30 или 90 дней, текст и обработки остаются.
+• «Автоматически» в разговоре (язык собеседника определяется сам) — с облачным распознаванием или без интернета, если на телефоне скачаны оба языка (Android 14+); иначе пункт не предлагается, а во время записи видно, какой один язык слушает телефон.
+• Оформление в стиле Material 3 Expressive, как у свежих приложений Google: цвета подстраиваются под обои телефона, большой заголовок сжимается при прокрутке, строки — отдельными скруглёнными плашками, кнопки меняют форму при нажатии. Тёмная тема — вместе с системной.
+• Сценарии, как в Dictum на Mac и iPhone: диктовка с обработкой (письмо, сообщение, перевод), диктофон и разговор с переводом. Свои сценарии собираются из тех же частей: язык, быстрая обработка, обработка ИИ, когда её запускать; у сценария — свой значок и цвет.
+• Разговор с живым переводом: телефон записывает звук, показывает, что говорит собеседник, и сразу переводит каждую фразу. Без интернета переводит сам телефон, а когда связь вернётся, такие фразы переводятся заново и точнее.
+• Язык собеседника можно не выбирать: «Автоматически» определяет язык каждой фразы, а фразы на твоём языке показывает как твои ответы с переводом для собеседника.
+• Кнопка «Ответить»: скажи по-русски — телефон покажет перевод крупно и прочитает его вслух. Кнопка «Важно» отмечает фразу.
+• Запись идёт и с выключенным экраном, а после звонка продолжается сама.
+• «Записи»: разговоры, диктофон и диктовки в одной ленте, с фильтром и поиском. В записи — прослушивание с любой фразы, любые обработки (каждый результат сохраняется версией), «Поделиться» текстом или звуком.
+• Обработки — общий с Mac и iPhone список промптов, у каждого может быть своя модель ИИ.
+• Облачное распознавание и ИИ по своему ключу (OpenAI, Groq, Deepgram, ElevenLabs, Anthropic и другие). Ключи хранятся зашифрованными только на этом телефоне.
+• Запуск без захода в приложение: зажми значок Dictum — там три последних сценария; плитка в шторке быстрых настроек запускает главный сценарий; виджет «Сценарий Dictum» на экране «Домой» — свой для каждого сценария. Чужие приложения и сайты запись запустить не могут.
+• Пока идёт запись, музыка и видео в других приложениях звучат тише, а после записи — как прежде.
+• Настройки → «Без интернета»: что уже есть на телефоне для распознавания и перевода без связи, и кнопки «Скачать» для недостающего.
+• «Окей, Google, открой Письмо в Dictum» — Google Ассистент запускает сценарий по его названию.
+• Синхронизация Dictum Cloud, как на Mac и iPhone: обработки, сценарии и словарь — общие для твоих устройств, История диктовок — по переключателю. Вход — кодом из письма. Появится, когда заработает Dictum Cloud.
+• Записи, тексты и ключи не попадают в резервную копию и не переносятся на новый телефон; скопированный текст Android не показывает во всплывающем окне.
+Исправлено:
+• Растянутые звуки через дефис («э-э», «м-м-м», «а-а») убираются целиком: раньше от «э-э» в тексте оставался лишний дефис.
+• «Поделиться звуком»: запись уходит в другие приложения как m4a-аудио и с доступом к файлу — по правилам Android; раньше окно выбора приложения не могло открыть файл.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.4 · 2026-11-04
+Added:
+• Updates from inside the app: Settings → Updates; a new version downloads and installs by itself and never interrupts a recording.
+• A kvp account: sign in with an email code or Google; sign out or delete the account in Settings. It arrives together with sync.
+• One record button: choose a mode (Voice memo, Conversation or Dictation) and press; recording starts at once. Change the mode while recording: the sound goes on, and what has been said shows in the new mode right away, in a conversation the earlier phrases get translated.
+• After recording: what to do with it after Stop in each mode (notes, a meeting summary, clean text to the clipboard), also in Processings → Default.
+• Settings → Storage: recordings' sound deletes itself after 7, 30 or 90 days; the text and results stay.
+• Automatic language in a conversation, with cloud recognition or offline when both languages are downloaded (Android 14+).
+• A look in the Material 3 Expressive style: colors from your wallpaper, a large title that shrinks as you scroll, rounded rows, buttons that change shape when pressed.
+• Conversations with live translation, voice memos and dictation with processing, recordings with search and playback, processings, your own keys for cloud recognition and AI, downloads for working offline, launching from the home screen, quick settings and Google Assistant.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-android-0.1.4/Dictum-0.1.4.apk" length="54962541" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="907cf67641fca2c0318b8a33aa8536049a5113e249030a5958e5f148f3f5860e"/>
+    </item>
+  </channel>
+</rss>
