@@ -3,6 +3,26 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.8.2</title>
+      <pubDate>Sun, 08 Nov 2026 14:29:51 -0000</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.8.2 · 2026-11-08
+Добавлено:
+• Выбор, кто распознаёт речь: Настройки → Основные → «Распознавание речи» — «Нейросеть» или «Встроенное».
+Исправлено:
+• Если нейросеть не распознала запись, внизу экрана видно почему (например, нужен вход в аккаунт), а не молча остаётся текст без знаков препинания.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.8.2 · 2026-11-08
+Added:
+• Choose who recognizes speech: Settings → General → «Speech recognition» — «Neural network» or «Built-in».
+Fixed:
+• If the neural network couldn’t recognize a recording, the bottom of the screen says why (for example, you need to sign in) instead of silently keeping text without punctuation.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.8.2/Note-Calc-0.8.2.apk" length="12838208" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="1a0ad89eff05ffaa9ccb118e80a0a014eb66a84ce0fa5ec15bb73266b6f3d683"/>
+    </item>
+    <item>
       <title>Note Calc 0.8.1</title>
       <pubDate>Sun, 08 Nov 2026 08:54:55 -0000</pubDate>
       <sparkle:version>137</sparkle:version>
