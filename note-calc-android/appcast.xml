@@ -3,6 +3,28 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.8.0</title>
+      <pubDate>Sun, 08 Nov 2026 07:30:00 -0000</pubDate>
+      <sparkle:version>135</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.8.0 · 2026-11-08
+Добавлено:
+• Надиктовать в открытую заметку: кнопка с микрофоном на панели над клавиатурой. Текст и запись встают туда, где курсор, — записей в одной заметке может быть сколько угодно.
+• Голосовые заметки: «+» → «Голосовая заметка». Говори — текст появляется сразу, а сама запись остаётся в заметке, её можно прослушать.
+• Статусы заметок: «В работе», «Жду», «Готово» — долгое нажатие на заметку. Цветная метка видна в списке.
+• Новый список заметок: у каждой справа её итог, «Входящие» — карточка с полем «Добавить строку…», группы — плашки сверху, заметки по дням. Смахни вправо — закрепить, влево — в корзину.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.8.0 · 2026-11-08
+Added:
+• Dictate into the open note: the microphone button on the bar above the keyboard. The text and the recording go in at the cursor — a note can hold any number of recordings.
+• Voice notes: «+» → «Voice note». Speak and the text appears right away; the recording stays in the note and can be played back.
+• Note statuses: In progress, Waiting, Done — long-press a note. A coloured label shows in the list.
+• A new notes list: each note shows its total, the inbox is a card with «Add a line…», groups are chips at the top, notes go by day. Swipe right to pin, left to delete.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.8.0/Note-Calc-0.8.0.apk" length="12831996" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="1e9f0e3e8fa3a3b6fd467a4bdc227a8f5905d56aa484803dcb7360cd4903b831"/>
+    </item>
+    <item>
       <title>Note Calc 0.7.0</title>
       <pubDate>Wed, 04 Nov 2026 12:39:13 -0000</pubDate>
       <sparkle:version>128</sparkle:version>
