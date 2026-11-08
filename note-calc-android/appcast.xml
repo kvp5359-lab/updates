@@ -3,6 +3,22 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.8.3</title>
+      <pubDate>Sun, 08 Nov 2026 15:15:28 -0000</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.8.3 · 2026-11-08
+Изменено:
+• Новый вид: свои спокойные цвета с синим вместо цветов от обоев, тонкие значки, синяя кнопка «Новая». Над списком — плашка «Все» рядом с группами, у заметки без расчётов справа «—».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.8.3 · 2026-11-08
+Changed:
+• A new look: calm colours of its own with blue instead of the wallpaper’s, thin icons, a blue «New» button. Above the list — an «All» chip next to the groups; a note with nothing to count shows «—» on the right.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.8.3/Note-Calc-0.8.3.apk" length="12806029" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="cd926adcfaaa81ef07f03a4364b6d623859f5eec14d6f9439dcd7f3654f68da3"/>
+    </item>
+    <item>
       <title>Note Calc 0.8.2</title>
       <pubDate>Sun, 08 Nov 2026 14:29:51 -0000</pubDate>
       <sparkle:version>139</sparkle:version>
