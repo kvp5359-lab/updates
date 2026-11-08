@@ -3,6 +3,30 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.8.1</title>
+      <pubDate>Sun, 08 Nov 2026 08:54:55 -0000</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.8.1 · 2026-11-08
+Добавлено:
+• Речь распознаёт нейросеть: текст точный, со знаками препинания. Нужен вход в аккаунт (Настройки → Аккаунт) и интернет, без них — распознавание телефона, теперь тоже со знаками.
+• Запись можно убрать из заметки — крестик рядом с ней.
+• Долгое нажатие на значок Note Calc: «Новая заметка», «Новая таблица», «Голосовая заметка» — сразу в нужное.
+Изменено:
+• Кнопка «Надиктовать» теперь круглая, в левом нижнем углу заметки, а не на панели над клавиатурой.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.8.1 · 2026-11-08
+Added:
+• Speech is recognized by a neural network: accurate text with punctuation. It needs you signed in (Settings → Account) and online; otherwise the phone’s own recognition, now with punctuation too.
+• A recording can be removed from the note with the × beside it.
+• Long-press the Note Calc icon: «New note», «New table», «Voice note» — straight into it.
+Changed:
+• The «Dictate» button is now round, in the note’s bottom left corner, instead of on the bar above the keyboard.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.8.1/Note-Calc-0.8.1.apk" length="12838208" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="a56d40138e3e44733eddc949c9d3efdf18e9a371e956f3e5a6ef3b6b6086ba9a"/>
+    </item>
+    <item>
       <title>Note Calc 0.8.0</title>
       <pubDate>Sun, 08 Nov 2026 07:30:00 -0000</pubDate>
       <sparkle:version>135</sparkle:version>
