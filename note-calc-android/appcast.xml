@@ -3,6 +3,30 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.8.4</title>
+      <pubDate>Mon, 09 Nov 2026 06:18:40 -0000</pubDate>
+      <sparkle:version>159</sparkle:version>
+      <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.8.4 · 2026-11-09
+Добавлено:
+• Теги и архив вместо статусов: в листе по долгому нажатию — теги заметки и «В архив». Теги цветные (цвет тот же, что на Mac), видны в строке заметки и плашками над списком (нажатие показывает только заметки с тегом), архив — строкой в конце списка. Прежние статусы стали тегами с теми же именами.
+• Таблицы с формулами прямо в обычной заметке: кнопка с таблицей на панели форматирования, размер — нажатием на квадратик. Таблица выглядит как обычная; буквы столбцов и строка формул — по значку ⊞ в её правом верхнем углу. Ячейки считаются как в таблице (=A1*2, СУММ, итоги), цифровая клавиатура пишет в ячейку, «Отменить» отменяет и правки в таблице. Строки и столбцы — долгим нажатием на ячейку (вставить выше, ниже, слева, справа).
+Изменено:
+• Отдельных табличных заметок больше нет: таблица вставляется в любую заметку. Из «+» и из ярлыков на значке приложения ушла «Новая таблица».
+• Итог строки всегда стоит сразу после неё, колонки итогов справа больше нет. Настройка «Итоги в заметках» убрана.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.8.4 · 2026-11-09
+Added:
+• Tags and an archive instead of statuses: a long press gives the note’s tags and «Archive». Tags are coloured (the same colour as on the Mac) and show in the note’s row and as chips over the list (a tap shows only the notes with it); the archive is a row at the end of the list. Former statuses became tags of the same names.
+• Tables with formulas right inside an ordinary note: the table button on the formatting bar, the size with a tap on a square. The table looks like an ordinary one; column letters and the formula bar are under the ⊞ button in its top right corner. Cells calculate as in a spreadsheet (=A1*2, SUM, totals), the number pad types into a cell, and Undo undoes table edits too. Rows and columns — with a long press on a cell (insert above, below, left, right).
+Changed:
+• There are no separate table notes any more: a table goes into any note. «New table» is gone from «+» and from the app icon’s shortcuts.
+• A line’s result always follows it right away; the results column on the right is gone. The «Results in notes» setting is gone.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.8.4/Note-Calc-0.8.4.apk" length="12831317" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="31ee9c4cb7c0563f710ad0616a17215f8be8953a2cdeaf454df03310ee3f6c1b"/>
+    </item>
+    <item>
       <title>Note Calc 0.8.3</title>
       <pubDate>Sun, 08 Nov 2026 15:15:28 -0000</pubDate>
       <sparkle:version>141</sparkle:version>
