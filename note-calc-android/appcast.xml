@@ -3,6 +3,26 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.8.5</title>
+      <pubDate>Mon, 09 Nov 2026 08:04:15 -0000</pubDate>
+      <sparkle:version>162</sparkle:version>
+      <sparkle:shortVersionString>0.8.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.8.5 · 2026-11-09
+Изменено:
+• Список заметок компактнее: «Входящие» — узкая полоска с полем «Во входящие…», заголовок «Заметки» — одной строкой со значками, строки заметок ниже и одной высоты, с тегами и без.
+Исправлено:
+• Кнопка цифровой клавиатуры срабатывает и тогда, когда клавиатура закрыта: ставит курсор в заметку и открывает цифры. Теперь это отдельная круглая кнопка слева от панели форматирования.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.8.5 · 2026-11-09
+Changed:
+• A more compact notes list: the Inbox is a slim strip with an «Add to Inbox…» field, «Notes» sits in one row with the icons, and note rows are lower and the same height with tags or without.
+Fixed:
+• The number pad button works even when no keyboard is open: it puts the cursor in the note and brings up the digits. It’s now a round button of its own, left of the formatting bar.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.8.5/Note-Calc-0.8.5.apk" length="12831305" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="7c5ecf866e2b36cdf61f916afb922343fc8a2a375d43ea0ba18d03c50ff01635"/>
+    </item>
+    <item>
       <title>Note Calc 0.8.4</title>
       <pubDate>Mon, 09 Nov 2026 06:18:40 -0000</pubDate>
       <sparkle:version>159</sparkle:version>
