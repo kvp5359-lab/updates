@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>Dictum</title>
+    <item>
+      <title>Dictum 0.1.0</title>
+      <pubDate>Wed, 11 Nov 2026 11:02:21 -0000</pubDate>
+      <sparkle:version>342</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0.19041</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.0 · 2026-11-11
+Добавлено:
+• Без интернета: модель Whisper работает прямо на компьютере, ничего не уходит в сеть. Скачай её один раз: Настройки → Нейросети → Распознавание речи. Если Dictum Cloud недоступен, запись распознаёт скачанная модель.
+• Текст во время записи: пока говоришь, на плашке видны последние распознанные слова (Soniox и Dictum Cloud). Включается и выключается в Общих → Плашка.
+• История: все диктовки по дням, поиск, исправление текста, «Прослушать» и «Распознать заново» с другим сценарием — прежний результат остаётся версией. Сколько хранить текст и звук — в меню «…».
+• Словарь: слова и формы по группам, замены, подсказки написания для моделей.
+• Инструкции: свои указания для ИИ с примерами «как сказал → как должно стать», своя модель для каждой.
+• Сценарии: распознавание, быстрая чистка, инструкция ИИ и результат для каждого сценария, своя клавиша, выбор сценария по приложению.
+• Записи: диктофон и запись встречи (твой микрофон и звук компьютера) — расшифровка «Я / Собеседник» и итог от ИИ. Начать — из меню в трее или своей клавишей сценария.
+• Синхронизация с аккаунтом kvp: сценарии, инструкции и словарь появляются на других твоих устройствах, История — по переключателю (Общие → Режим работы).
+• Dictum Cloud: распознавание и оформление текста по подписке — ключи и модели настраивать не нужно. Войди в аккаунт kvp по коду из письма: Настройки → Общие → «Режим работы».
+• Режим работы — один выбор: Dictum Cloud, свои ключи или без интернета. Его можно выбрать при первом запуске и поменять в Настройках → Общие.
+• Soniox по своему ключу: самое быстрое облачное распознавание, текст готов почти сразу после остановки — Dictum слушает его прямо во время записи.
+• Cerebras по своему ключу: очень быстрая нейросеть для обработки текста (Нейросети → ИИ для текста).
+• Точки посреди фразы больше не мешают: если распознавание поставило точку на паузе, нейросеть соединяет такие обрывки, а в «Как есть» исправляются только знаки — слова не меняются.
+• Сценарий «Оформленный текст»: диктовка сразу выходит с абзацами и списками там, где в речи что-то перечислено, без оговорок и слов-паразитов. Нужна нейросеть (Модели → Текст); быстрее всего — Groq.
+• Лицензии компонентов: какие чужие программы внутри и на каких условиях (Настройки → О программе).
+• Важное объявление от разработчика (например, о неудачной версии) показывается заметно: один раз, не забирая фокус и не посреди записи.
+• Первая версия для Windows: диктовка в любое приложение по горячей клавише, облачное распознавание по твоему ключу, чистка текста и обработка ИИ.
+• Обновления: приложение само проверяет новую версию и ставит её с твоего согласия; проверить вручную — в меню в трее и в Настройках → О программе.
+• Лицензия: Настройки → О программе → «Лицензия».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.0 · 2026-11-11
+Added:
+• Offline: the Whisper model runs right on your computer, nothing goes online. Download it once: Settings → AI models → Speech recognition. If Dictum Cloud is unavailable, the downloaded model recognizes the recording.
+• Text while you speak: the pill shows the latest recognized words (Soniox and Dictum Cloud). Turn it on or off in General → Pill.
+• History: all dictations by day, search, editing, "Play" and "Recognize again" with another scenario — the earlier result stays as a version. How long to keep text and sound — in the "…" menu.
+• Dictionary: words and their forms in groups, replacements, spelling hints for the models.
+• Instructions: your own directions for the AI with examples "what I said → what it should become", each with its own model.
+• Scenarios: recognition, quick cleanup, an AI instruction and where the result goes for each scenario, its own key, a scenario picked by the app you're in.
+• Recordings: a voice memo and a meeting recording (your microphone and the computer's sound) — a transcript "Me / Others" and a summary by the AI. Start from the tray menu or with the scenario's own key.
+• Sync with your kvp account: scenarios, instructions and the dictionary appear on your other devices, the History too if you turn it on (General → Work mode).
+• Dictum Cloud: recognition and text formatting by subscription — no keys or models to set up. Sign in to your kvp account with a code from an email: Settings → General → "Work mode".
+• Work mode is one choice: Dictum Cloud, your own keys or offline. Pick it on the first launch and change it in Settings → General.
+• Soniox with your own key: the fastest cloud recognition, the text is ready almost as soon as you stop — Dictum listens while you speak.
+• Cerebras with your own key: a very fast AI for text (AI models → AI for text).
+• Stops in mid-sentence no longer get in the way: if recognition put a period at a pause, the AI joins the pieces, and "As is" fixes only the punctuation — the words stay.
+• The "Formatted text" scenario: a dictation comes out with paragraphs, and lists where you enumerate things, without slips and filler words. Needs an AI (Models → Text); Groq is the fastest.
+• Component licenses: which third-party parts are inside and on what terms (Settings → About).
+• An important announcement from the developer (a bad release, say) is hard to miss: shown once, without taking focus or interrupting a recording.
+• The first version for Windows: dictation into any app with a hotkey, cloud recognition with your own key, text cleanup and AI processing.
+• Updates: the app checks for a new version itself and installs it with your consent; check by hand in the tray menu and in Settings → About.
+• License: Settings → About → "License".
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-windows-0.1.0/Dictum-0.1.0-setup.exe" length="61188912" type="application/octet-stream" sparkle:os="windows" kvp:arch="x64" kvp:sha256="273e0e81c1ee87613787b581edfedb5d5e69b8ac57f2825ffc505dac37167192" kvp:signature="I1MCQBpRhf1hXPSfv9hzYT26zbSYzX1wOrz8n956QmsZEKFzpYcN5et+Z9I47ckxTtw0DQhxLQgpcxg57OhPDw=="/>
+    </item>
+  </channel>
+</rss>
