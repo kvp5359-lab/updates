@@ -3,6 +3,24 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.1.5</title>
+      <pubDate>Wed, 11 Nov 2026 13:23:43 -0000</pubDate>
+      <sparkle:version>348</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.5 · 2026-11-11
+Добавлено:
+• Dictum Cloud по подписке: распознавание и оформление без своих ключей и выбора моделей. Войди в аккаунт в Настройках и включи «Распознавание и оформление через Dictum Cloud»; там же видно, сколько минут ушло за месяц. Без интернета работает распознавание на телефоне.
+• Сценарий «Оформленный текст»: диктовка сразу выходит с абзацами и списками там, где в речи что-то перечислено, без оговорок и слов-паразитов. Нужна нейросеть (Модели → Текст); быстрее всего — Groq.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.5 · 2026-11-11
+Added:
+• Dictum Cloud by subscription: recognition and formatting with no keys of your own and no models to pick. Sign in in Settings and turn on “Recognition and formatting with Dictum Cloud”; the minutes used this month show there too. Offline, the phone recognizes by itself.
+• The “Formatted text” scenario: a dictation comes out with paragraphs and lists where you listed things, without slips of the tongue and filler words. Needs an AI model (Models → Text); Groq is the fastest.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-android-0.1.5/Dictum-0.1.5.apk" length="55306605" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="519b0cb15a5adc4e40085d21f19808cfcf536585d7c9cc14668bd3265b58da04"/>
+    </item>
+    <item>
       <title>Dictum 0.1.4</title>
       <pubDate>Wed, 04 Nov 2026 21:24:46 -0000</pubDate>
       <sparkle:version>281</sparkle:version>
