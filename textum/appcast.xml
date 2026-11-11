@@ -3,6 +3,16 @@
   <channel>
     <title>Textum</title>
     <item>
+      <title>Textum 0.6.0</title>
+      <pubDate>Wed, 11 Nov 2026 15:11:44 -0000</pubDate>
+      <sparkle:version>129</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.6.0 · 2026-11-11</h2><h3>Добавлено</h3><ul><li>Лицензии компонентов: какие чужие программы внутри и на каких условиях (Настройки → О программе).</li><li>Важное объявление от разработчика (например, о неудачной версии) показывается заметно: один раз, не забирая фокус и не посреди записи.</li><li>Если другая программа не отпускает клавиатуру (там осталось открытым поле пароля), а ты уже работаешь в другом месте, Textum через пару секунд покажет, какая это программа, и кнопкой «Перейти» откроет окно с этим полем. Та же кнопка — в меню Textum и в Настройках → Раскладка.</li><li>Сниппет срабатывает, даже если его ключевое слово набрано не в той раскладке: «;fly» на английской сработает как «;адр». Короткие ключевые слова из одних букв (например, «ок») — по-прежнему только как записаны, чтобы не путаться с обычными словами.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/textum-0.6.0/Textum-0.6.0.zip" length="14213725" type="application/octet-stream" sparkle:edSignature="fVrbuTqMLv3hN76XI0MafpQIn4roU8grg0gpsIU8nm0itDCvjyOmGKrC6IvO1Ni6V+sCMSv7IjoawFFVcn8JCA=="/>
+    </item>
+    <item>
       <title>Textum 0.5.0</title>
       <pubDate>Thu, 29 Oct 2026 21:51:19 -0000</pubDate>
       <sparkle:version>124</sparkle:version>
