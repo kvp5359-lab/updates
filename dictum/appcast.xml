@@ -3,6 +3,17 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.8.0</title>
+      <pubDate>Wed, 11 Nov 2026 15:09:27 -0000</pubDate>
+      <sparkle:version>350</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.8.0 · 2026-11-11</h2><h3>Добавлено</h3><ul><li>Dictum Cloud — распознавание и оформление по подписке, без ключей и выбора моделей: войди в аккаунт и выбери «Dictum Cloud» в Настройки → Общие → «Как работает Dictum». Там же режимы «Свои ключи» и «Офлайн» — один выбор вместо трёх страниц настроек.</li><li>Сценарий «Оформленный текст»: диктовка сразу выходит с абзацами и списками, без оговорок и слов-паразитов. Длинная диктовка оформляется, пока ты говоришь, — текст готов через полсекунды после остановки.</li><li>Диктовки подряд понимают друг друга: если следующая продолжает тему (в течение трёх минут), имена, названия и мысль не рвутся на части.</li><li>Лишние точки на паузах убираются, знаки расставляются заново по смыслу, а вопросительный знак переезжает в конец вопроса.</li><li>Новые модели по твоему ключу: Soniox — распознавание за долю секунды и словарь до 800 слов, Cerebras — оформление за треть секунды.</li></ul><h3>Изменено</h3><ul><li>Словарь стал спокойнее: слева список по группам с поиском, справа карточка слова; слово перетаскивается в другую группу, по списку можно ходить стрелками.</li></ul><h3>Исправлено</h3><ul><li>Длинная диктовка больше не теряет слова в конце, а в начале не появляются слова, «услышанные» в фоновом шуме. Смена сценария во время записи меняет и оформление. Dictum Cloud не выключается, если на секунду пропала сеть, и понятно говорит, если подписки нет.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-0.8.0/Dictum-0.8.0.zip" length="18296139" type="application/octet-stream" sparkle:edSignature="UkwghBuqI++0wJWmkb0NJ69pEcnMzCDPIHxOC3eEsTZLny2xI3WMoNol4zr8RYDgBFa16sOF/6uSMFix3DomAw=="/>
+    </item>
+    <item>
       <title>Dictum 0.7.0</title>
       <pubDate>Mon, 02 Nov 2026 12:58:47 -0000</pubDate>
       <sparkle:version>279</sparkle:version>
