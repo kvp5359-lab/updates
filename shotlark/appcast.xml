@@ -3,6 +3,19 @@
   <channel>
     <title>Shotlark</title>
     <item>
+      <title>Shotlark 0.17.0</title>
+      <pubDate>Wed, 11 Nov 2026 15:10:19 -0000</pubDate>
+      <sparkle:version>232</sparkle:version>
+      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description xml:lang="ru"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.17.0 · 2026-11-11</h2><h3>Добавлено</h3><ul><li>Оформление на выбор: Настройки → Основные → «Оформление» — тёплое светлое, серое со стеклом, как в macOS, или тёплое тёмное. Настройки, редактор и панель перед записью экрана — в новом тёплом виде.</li><li>Курсор подсказывает, что можно сделать: рука над пометкой, которую можно перетащить, стрелки на точках изменения размера, прицел на концах стрелок и линий.</li><li>Текст можно перетащить за край рамки, даже во время набора. С инструментом «Текст» перетаскивание двигает текст, а простой клик открывает правку.</li></ul><h3>Изменено</h3><ul><li>Длинный текст на скриншоте сам переносится у правого края картинки, а не растягивает холст вправо.</li><li>Настройки разложены по вкладкам, главный выбор в «Снимках» и «Записи» — крупными карточками, стиль пометок — по картинкам-примерам. Если ты переставлял инструменты в редакторе, их порядок сброшен — расставь заново.</li><li>Карандашный стиль живее и одинаков у всех пометок: острые углы, чуть выгнутые стороны, круг внахлёст, плавные линии и стрелки; хвостик счётчика шагов — плавный и острый.</li></ul>
+]]></description>
+      <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.17.0 · 2026-11-11</h2><h3>Added</h3><ul><li>Choose the look: Settings → General → “Appearance” — warm light, grey glass like macOS itself, or warm dark. Settings, the editor and the screen recording panel get the new warm look.</li><li>The cursor shows what you can do: a hand over a mark you can drag, arrows on resize handles, crosshairs on the ends of arrows and lines.</li><li>Drag a text by the edge of its frame, even while typing. With the Text tool, dragging moves the text and a plain click opens it for editing.</li></ul><h3>Changed</h3><ul><li>Long text on a screenshot wraps at the right edge of the image instead of stretching the canvas.</li><li>Settings are split into tabs; the main choice in “Screenshots” and “Recording” is shown as big cards, the annotation style as sample pictures. If you rearranged the editor's tools, their order has been reset — set it up again.</li><li>The pencil style looks livelier and the same on every mark: sharp corners, slightly curved sides, circles drawn with an overlap, smooth lines and arrows; the step counter's tail is smooth and pointed.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/shotlark-0.17.0/Shotlark-0.17.0.zip" length="6814349" type="application/octet-stream" sparkle:edSignature="9QXW5KlNgv5InIgEh9dBDJxEem9YQtPu2rpDyLYRIvaK4c6Vs9+QtUA2FZB8mvwTMZgYBZzQrb4D3ienbK3TBQ=="/>
+    </item>
+    <item>
       <title>Shotlark 0.16.0</title>
       <pubDate>Sat, 07 Nov 2026 10:24:35 -0000</pubDate>
       <sparkle:version>196</sparkle:version>
