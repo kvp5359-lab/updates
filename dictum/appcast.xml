@@ -3,6 +3,17 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.8.2</title>
+      <pubDate>Fri, 13 Nov 2026 08:37:15 -0000</pubDate>
+      <sparkle:version>358</sparkle:version>
+      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.8.2 · 2026-11-13</h2><h3>Исправлено</h3><ul><li>Dictum Cloud сразу подхватывается, когда появляется интернет: если Mac включился раньше сети, уже первая диктовка проверяет облако и, если оно на месте, распознаётся и оформляется им — а не встроенной моделью Apple без оформления.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-0.8.2/Dictum-0.8.2.zip" length="18308681" type="application/octet-stream" sparkle:edSignature="Qx+unweNrZ3o43tu18CS+fMnU92b0ys9yPsZ0V1gNHiP1EF13ZAd3ilErYVSVIO7qE0ayvF8PS1Tnzk0nQ/oBg=="/>
+    </item>
+    <item>
       <title>Dictum 0.8.1</title>
       <pubDate>Thu, 12 Nov 2026 08:14:59 -0000</pubDate>
       <sparkle:version>354</sparkle:version>
