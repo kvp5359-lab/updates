@@ -1,5 +1,7 @@
 {
   "v": 1,
+  "serial": 1,
+  "signers": ["xE+7JUCltrSJZk5o1oCUmHHN14kD7nGDwb6hBAcTaus="],
   "apps": {
     "dictum": { "status": "beta" },
     "textum": { "status": "beta" },
