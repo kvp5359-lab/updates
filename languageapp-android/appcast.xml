@@ -3,6 +3,30 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.13</title>
+      <pubDate>Sat, 14 Nov 2026 23:24:06 -0000</pubDate>
+      <sparkle:version>177</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.13 · 2026-11-15
+Изменено:
+• Чтение: название текста теперь в верхней строке, рядом со стрелкой «назад» — тексту остаётся больше места.
+Исправлено:
+• «Бластер»: длинные слова переносятся внутри плашки и не вылезают за астероид.
+• «Бластер»: после выстрела игра больше не замирает на секунду — луч и взрыв идут сразу, как надо. В «Гонке» дорога тоже больше не останавливается после ворот.
+• Игры показывают слова в начальной форме, как и «Учить»: слова, сохранённые в форме из текста, приводятся к ней при открытии «Игр».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.13 · 2026-11-15
+Changed:
+• Reading: the text's title is now in the top row, beside the back arrow — more room for the text.
+Fixed:
+• «Blaster»: long words wrap inside their plate and no longer spill past the asteroid.
+• «Blaster»: the game no longer freezes for a second after a shot — the beam and the blast come at once, as they should. In «Race» the road no longer stops after a gate either.
+• The games show words in their dictionary form, as «Learn» does: words kept in a text's form are brought to it when «Games» opens.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.13/LanguageApp-0.1.13.apk" length="80967452" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="abf7d2bd374d10742508a0153c274bee58ca22a929244f23a5c7c5d29a1ec84a"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.12</title>
       <pubDate>Sat, 14 Nov 2026 23:07:30 -0000</pubDate>
       <sparkle:version>174</sparkle:version>
