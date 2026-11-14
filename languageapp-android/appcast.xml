@@ -3,6 +3,36 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.8</title>
+      <pubDate>Sat, 14 Nov 2026 21:21:27 -0000</pubDate>
+      <sparkle:version>159</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.8 · 2026-11-14
+Добавлено:
+• Чтение: перевод виден прямо на тексте — ещё не переведённые абзацы бледнее и по ним бежит блик, а готовые плавно становятся чёткими.
+• Чтение по страницам: в настройках чтения «Листать» — «Вниз» или «По страницам». Страницы листаются влево-вправо, переворачиваются как бумажные, внизу справа номер страницы, место запоминается.
+Изменено:
+• Кнопки добавления везде называются «В словарь» — и для слова, и для фразы.
+Исправлено:
+• Чтение: фразы из словаря подсвечиваются в тексте, как слова.
+• Чтение: перевод больше не застревает на «Не удалось перевести частей»: приложение не отправляет больше запросов, чем принимает служба, и само повторяет запрос при сбое.
+• «Бластер»: астероиды со словами снова падают сверху.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.8 · 2026-11-14
+Added:
+• Reading: the translation shows on the text itself — paragraphs not yet translated are paler with a soft light running over them, and ready ones turn clear.
+• Reading page by page: «Turn» in the reading settings — «Down» or «By pages». Pages turn left and right like paper, the page number is in the bottom right corner, and the place is kept.
+Changed:
+• Add buttons are «To dictionary» everywhere — for a word and a phrase alike.
+Fixed:
+• Reading: the dictionary's phrases are highlighted in the text, like words.
+• Reading: the translation no longer gets stuck on «Couldn't translate parts»: the app sends no more requests than the service takes, and retries by itself after a slip.
+• «Blaster»: the asteroids with words fall from the top again.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.8/LanguageApp-0.1.8.apk" length="80852764" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="4ec3e8ec2c355603148d18c2fac9dabf9e2535bb0f3cc80e84229f81271c828e"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.7</title>
       <pubDate>Sat, 14 Nov 2026 21:00:54 -0000</pubDate>
       <sparkle:version>154</sparkle:version>
