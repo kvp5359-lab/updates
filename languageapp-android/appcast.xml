@@ -3,6 +3,24 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.4</title>
+      <pubDate>Sat, 14 Nov 2026 17:14:15 -0000</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.4 · 2026-11-14
+Добавлено:
+• Записи и голосовые ответы с подпиской распознаются в облаке: точнее, со знаками препинания, а твои ошибки остаются как сказаны. Нет подписки или сети — распознаёт телефон, как раньше.
+• Разговор: в настройках перед разговором — «Как слышит тебя». «Текст» — твою речь распознаёт облако, ты видишь слова, пока говоришь, и партнёр получает ровно их. Работает по подписке, пока для проверки.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.4 · 2026-11-14
+Added:
+• With the subscription, recordings and spoken answers are recognized in the cloud: more accurately, with punctuation, and your mistakes stay as said. No subscription or network — the phone recognizes them, as before.
+• Conversation: «How it hears you» in the settings before a talk. «Text» — the cloud recognizes your speech, you see your words as you speak, and the partner gets exactly them. With the subscription, for testing for now.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.4/LanguageApp-0.1.4.apk" length="80607004" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="42b1862a584ae27e04495d00a921b63918da5353405a5cf9e074d7ee0f635284"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.3</title>
       <pubDate>Wed, 04 Nov 2026 20:55:59 -0000</pubDate>
       <sparkle:version>128</sparkle:version>
