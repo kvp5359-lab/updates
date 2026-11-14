@@ -3,6 +3,36 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.11</title>
+      <pubDate>Sat, 14 Nov 2026 22:52:35 -0000</pubDate>
+      <sparkle:version>171</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.11 · 2026-11-14
+Добавлено:
+• Чтение: кнопка «Учить слова из текста» сверху — изучение только тех слов и фраз, что добавлены из этого текста. Слово теперь помнит, из какого текста оно.
+Изменено:
+• «Бластер» стал красивее: космос с летящими звёздами и туманностью, каменные астероиды с кратерами, корабль с пламенем двигателя, светящийся лазер, взрывы осколками и искрами, тряска при попадании и ошибке.
+• Чтение по страницам: листание реалистичнее — сгиб идёт наискосок, как будто страницу тянут за нижний угол, тени мягче.
+Исправлено:
+• Чтение: слово из словаря подсвечивается в тексте в любой форме — «stealing» и «stole», если в словаре «steal».
+• Чтение: уже готовый перевод подхватывается сразу при открытии текста, а не набирается заново.
+• Чтение по страницам: страница больше не прокручивается вверх-вниз — её высота считается по настоящему месту на экране, а строка о переводе перенесена в нижнюю панель.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.11 · 2026-11-14
+Added:
+• Reading: «Learn the text's words» on top — learning just the words and phrases added from this text. A word now remembers which text it came from.
+Changed:
+• «Blaster» looks much better: space with flying stars and a nebula, rocky asteroids with craters, a ship with an engine flame, a glowing laser, explosions of debris and sparks, a shake on a hit and a miss.
+• Reading by pages: turning is more lifelike — the fold runs at a slant, as if the page were taken by its lower corner, with softer shadows.
+Fixed:
+• Reading: a dictionary word is highlighted in the text in any form — «stealing» and «stole» when the dictionary has «steal».
+• Reading: a translation already prepared is there at once when a text opens, not gathered again.
+• Reading by pages: a page no longer scrolls up and down — its height is the real room on the screen, and the translation's line moved to the bottom bar.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.11/LanguageApp-0.1.11.apk" length="80934684" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="7feb9e77ac4aaa1c2c25f59ac3bdaf982f6488f59e4e9ab07be68f915664276e"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.10</title>
       <pubDate>Sat, 14 Nov 2026 22:29:47 -0000</pubDate>
       <sparkle:version>167</sparkle:version>
