@@ -3,6 +3,30 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.7</title>
+      <pubDate>Sat, 14 Nov 2026 21:00:54 -0000</pubDate>
+      <sparkle:version>154</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.7 · 2026-11-14
+Добавлено:
+• Две аркадные игры со словами: «Бластер» — сбивай астероид с нужным словом, пока он не долетел до корабля, и «Гонка» — перестраивайся в полосу с нужным словом. Три жизни, очки за серию, с каждой волной быстрее.
+• Чтение: у слова видна его начальная форма с переводом — «went» → «go — идти», «fuimos» → «ir — идти». В словарь добавляется именно она, а пример остаётся из текста.
+Изменено:
+• Слова и фразы теперь в одном «Словаре»: вкладки «Фразы» больше нет, наверху выбор «Все / Слова / Фразы». Одна кнопка «Учить» и одна лесенка повторения для всего; длинные фразы не нужно вписывать по буквам — их выбирают и говорят. Прогресс фраз сохранился.
+• Игры «Пары» и «Верно или нет» теперь и с фразами.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.7 · 2026-11-14
+Added:
+• Two arcade word games: «Blaster» — shoot the asteroid with the right word before it reaches the ship, and «Race» — switch to the lane with the right word. Three lives, points for a streak, faster with each wave.
+• Reading: a word shows its dictionary form with its translation — «went» → «go — идти», «fuimos» → «ir — идти». That form goes to the dictionary, the example stays from the text.
+Changed:
+• Words and phrases are now in one «Dictionary»: the «Phrases» tab is gone, with «All / Words / Phrases» on top. One «Learn» button and one repetition ladder for everything; long phrases aren't typed letter by letter — they are picked and said. Phrases keep their progress.
+• «Pairs» and «True or false» now include phrases.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.7/LanguageApp-0.1.7.apk" length="80787228" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="b7f1924ef2e4bec0acb9ab7e23e6c3943456fb6b194304249a091f7b82fe91e2"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.6</title>
       <pubDate>Sat, 14 Nov 2026 20:18:19 -0000</pubDate>
       <sparkle:version>150</sparkle:version>
