@@ -3,6 +3,32 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.9.0</title>
+      <pubDate>Sat, 14 Nov 2026 19:13:27 -0000</pubDate>
+      <sparkle:version>193</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.9.0 · 2026-11-14
+Изменено:
+• Голосовая запись в заметке — компактный плеер с волной звука и длиной записи, а надиктованный текст стоит под ним, отмеченный тонкой линией слева; стрелка рядом с плеером сворачивает и разворачивает текст. Стоит поправить текст — он становится обычным текстом заметки, а запись остаётся. В меню «⋯» у записи: «Распознать заново» (с тарифом Note Calc Cloud), «Отделить текст», открыть файл, убрать запись — текст при этом остаётся, а файл записи хранится рядом с заметками.
+• С тарифом Note Calc Cloud диктовка работает так же, как в Dictum: пока говоришь, в окне сразу виден текст облака со знаками препинания, а после «Готово» он встаёт в заметку почти мгновенно.
+• «Входящие» теперь называются «Быстрые записи», поле над списком — «В быстрые записи…».
+• Синхронизация и облачная диктовка теперь в тарифе Note Calc Cloud: с ним речь распознаётся точно, а текст сразу оформлен — знаки препинания, абзацы, списки, числа цифрами. Без тарифа заметки живут на телефоне, речь распознаёт сам телефон. Что включено — Настройки → Аккаунт; выбор «Нейросеть / Встроенное» больше не нужен.
+Исправлено:
+• Диктовка нейросетью снова работает: раньше вместо неё вставлялся текст телефона без знаков препинания.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.9.0 · 2026-11-14
+Changed:
+• A voice recording in a note is now a compact player with the sound’s wave and its length, and the dictated text sits under it, marked by a thin line at its left; the arrow by the player folds and unfolds the text. Edit the text and it becomes ordinary note text, the recording stays. The recording’s “⋯” menu: “Transcribe again” (with the Note Calc Cloud plan), “Detach the text”, open the file, remove the recording — its text stays, and the file is kept next to your notes.
+• With the Note Calc Cloud plan dictation works as in Dictum: while you speak the cloud’s text with punctuation shows at once, and after “Done” it lands in the note almost instantly.
+• “Inbox” is now called “Quick notes”, the field above the list — “Add to Quick notes…”.
+• Sync and cloud dictation now come with the Note Calc Cloud plan: speech is recognized accurately and the text set out at once — punctuation, paragraphs, lists, numbers as digits. Without the plan notes live on the phone and the phone recognizes speech itself. What’s on — Settings → Account; the «Neural network / Built-in» choice is gone.
+Fixed:
+• Neural dictation works again: before, the phone’s own text without punctuation was put in instead.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.9.0/Note-Calc-0.9.0.apk" length="13172157" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="106738721c2769ba5bce72380e4a735b1a4410fa2d434925e29e0d81a2970f66"/>
+    </item>
+    <item>
       <title>Note Calc 0.8.5</title>
       <pubDate>Mon, 09 Nov 2026 08:04:15 -0000</pubDate>
       <sparkle:version>162</sparkle:version>
