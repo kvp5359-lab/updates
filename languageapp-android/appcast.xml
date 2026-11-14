@@ -3,6 +3,34 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.12</title>
+      <pubDate>Sat, 14 Nov 2026 23:07:30 -0000</pubDate>
+      <sparkle:version>174</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.12 · 2026-11-15
+Добавлено:
+• «Учить»: можно выбрать задания — «Выбор», «Вписать», «Сказать» (значок сверху). Выбор запоминается.
+• «Учить слова из текста» начинается с разминки: все слова текста по разу выбором, без счёта, потом обычные задания.
+• «Бластер»: перед игрой выбирается скорость — «Спокойно», «Обычно», «Быстро», у каждой свой рекорд.
+Изменено:
+• Слова, добавленные в той форме, что стояла в тексте, приводятся к начальной: «stealing» → «steal — воровать». Пример остаётся.
+• «Бластер»: перевод теперь сверху, а выстрел больше не подтормаживает.
+• Чтение по страницам: листание прорисовано тщательнее — мягкие тени по наклону сгиба, объёмный изгиб, без резких полос. Случайное движение вверх-вниз больше не листает страницу.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.12 · 2026-11-15
+Added:
+• «Learn»: the tasks can be chosen — «Choice», «Type», «Say» (the icon on top). The choice is kept.
+• «Learn the text's words» starts with a warm-up: every word of the text once by choice, not counted, then the usual tasks.
+• «Blaster»: the speed is chosen before the game — «Calm», «Normal», «Fast», each with its own record.
+Changed:
+• Words added in the form they had in a text are brought to the dictionary form: «stealing» → «steal — воровать». The example stays.
+• «Blaster»: the translation is on top now, and a shot no longer stutters.
+• Reading by pages: the turn is drawn with more care — soft shadows along the slanted fold, a rounder bend, no hard bands. An up-and-down move no longer turns the page by accident.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.12/LanguageApp-0.1.12.apk" length="80967452" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="00dcc7e2894b0b48d4de5bb10f7cae0f843c810fbb5170939628ffb0c9bd99bd"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.11</title>
       <pubDate>Sat, 14 Nov 2026 22:52:35 -0000</pubDate>
       <sparkle:version>171</sparkle:version>
