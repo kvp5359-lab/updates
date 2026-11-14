@@ -3,6 +3,26 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.6</title>
+      <pubDate>Sat, 14 Nov 2026 20:18:19 -0000</pubDate>
+      <sparkle:version>150</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.6 · 2026-11-14
+Изменено:
+• Плитка «Текст» на Главной: вставленный текст или субтитры можно сразу «Читать» — с переводом, ролями и выражениями, как в «Чтении». «Разобрать на фразы» — как раньше.
+Исправлено:
+• Чтение: перевод короткого текста готовится заметно быстрее, а место, где читаешь, — в первую очередь, поэтому при нажатии на слово перевод виден сразу. Сверху видно, сколько готово и можно ли уже читать, а если часть не перевелась — «Ещё раз». Ремарки вроде «[музыка]» убираются, две реплики через тире в одной строке разделяются.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.6 · 2026-11-14
+Changed:
+• The «Text» tile on Home: a pasted text or subtitles can be opened with «Read» — with translation, roles and expressions, as in «Reading». «Take apart into phrases» works as before.
+Fixed:
+• Reading: a short text's translation is ready much sooner, and the place you read comes first, so a tapped word shows its translation at once. The top shows how much is ready and whether you can read yet, and «Try again» if a part failed. Stage directions like «[music]» go, and two lines of dialogue on one line by dashes are split.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.6/LanguageApp-0.1.6.apk" length="80721692" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="41cace46fe7414d90b7c22dd3e5c1a7c66c6ba4b8b66744682fee0b69c57ec2c"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.5</title>
       <pubDate>Sat, 14 Nov 2026 19:07:39 -0000</pubDate>
       <sparkle:version>146</sparkle:version>
