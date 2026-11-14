@@ -3,6 +3,26 @@
   <channel>
     <title>Note Calc</title>
     <item>
+      <title>Note Calc 0.9.1</title>
+      <pubDate>Sat, 14 Nov 2026 22:09:02 -0000</pubDate>
+      <sparkle:version>197</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.9.1 · 2026-11-14
+Изменено:
+• Новая запись в открытой заметке встаёт в самый конец текста, а не туда, где стоял курсор.
+Исправлено:
+• «Распознать заново» у записи больше не пишет «Запись не читается», а волна звука показывает настоящую запись.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.9.1 · 2026-11-14
+Changed:
+• A new recording in an open note goes to the very end of its text, not where the cursor was.
+Fixed:
+• “Transcribe again” no longer says the recording can’t be read, and the sound’s wave shows the real recording.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/note-calc-android-0.9.1/Note-Calc-0.9.1.apk" length="13172153" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="6688dfafcc62b4c55d550b46e27a42d85ae7c396c114ea4fa18124276c433237"/>
+    </item>
+    <item>
       <title>Note Calc 0.9.0</title>
       <pubDate>Sat, 14 Nov 2026 19:13:27 -0000</pubDate>
       <sparkle:version>193</sparkle:version>
