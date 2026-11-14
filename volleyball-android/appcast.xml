@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>Волейбол</title>
+    <item>
+      <title>Волейбол 0.1.0</title>
+      <pubDate>Sat, 14 Nov 2026 19:27:45 -0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.0 · 2026-11-14
+Добавлено:
+• Приложение само предлагает обновиться, когда на сайте выходит новая версия; проверить можно и вручную: «Аккаунт» → «Версия».
+• Свой значок — волейбольный мяч.
+• «Закончить» на экране счёта: матч завершается на текущем счёте — побеждает тот, кто впереди по сетам, а при равенстве — по очкам сета; поровну — ничья. Передумал — «Продолжить матч».
+• «Составы» на экране счёта: замени ушедшего игрока, поменяй людей местами или командами и поправь, кто подаёт, если подача сбилась. Ошибся — «Отменить».
+• Кто подаёт первым, теперь выбирается на экране счёта перед первым очком, прямо на площадке.
+• Вход в аккаунт kvp по коду из письма — компании, матчи и статистика хранятся на сервере и видны всем в компании.
+• Приглашения: админ даёт код, друг входит в компанию и выбирает себя из списка игроков — его прошлые очки и матчи становятся его.
+• Роли в компании: создатель, админы и участники; «Участники» на экране компании — пригласить, назначить админа, убрать.
+• Матч на другом телефоне виден вживую; если телефон ведущего сел, нажми «Вести здесь».
+• Без интернета всё работает и сохраняется, а уходит на сервер, когда связь появится.
+• В зале в решающей партии экран подсказывает смену сторон при 8 очках.
+• Конец сета — окно со счётом сета и кнопкой «Отменить последнее очко»; конец матча — победитель, счёт по сетам и «К игровому дню».
+• Первый матч дня: игроки сразу разложены по командам случайно — поправь, если нужно.
+• Кнопка «Закончить день» внизу экрана дня.
+Изменено:
+• Формат матча — «Пляж» или «Зал»; поменял правила, например один сет, — матч всё равно остаётся пляжным или зальным, варианта «Свой» больше нет.
+• Названия команд на экране счёта и в составах — крупнее, на плашке цвета команды.
+• Новый матч: игрока убирает бейдж «убрать», а не нажатие на карточку; удержи игрока и перетащи в другую команду или в «Отдыхают»; нажми на отдыхающего — выберешь команду, видя, кто в ней уже есть.
+• «Ошибка» нажимают под командой, которая ошиблась: очко получает соперник.
+• Компании: собери людей, с которыми играешь, и добавляй игроков без аккаунтов.
+• Игровой день: отметь, кто пришёл, и веди все матчи дня на одном экране с итогами.
+• Новый матч: формат «Пляж», «Зал» или свой, составы вручную или кнопкой «Случайно», повтор прошлых составов.
+• Счёт: нажатие на игрока — очко ему и команде, долгое нажатие — минус очко, «+ Команде», «Ошибка» соперника, «Отменить».
+• Подсказки: кто подаёт, сетбол и матчбол. Экран сам не разворачивается: стороны меняет кнопка ⇄, а напоминание о смене сторон можно включить в настройках формата.
+• Статистика игроков за день, месяц, год и всё время: очки, выигранные матчи и сеты.
+Исправлено:
+• Убранный из компании человек больше не может сразу вернуться по старому коду: коды компании перестают действовать, а у админа есть «Отменить все коды».
+• Личный код игрока срабатывает один раз; если игрока уже выбрал кто-то другой, экран входа объясняет это и даёт выбрать себя из списка.
+• «Это не я» в личном приглашении показывает всех свободных игроков, а не того же самого.
+• Код можно вставить вместе со всем сообщением из чата или набрать на русской раскладке — приложение его поймёт.
+• После входа в компанию кнопка «Назад» ведёт к списку компаний.
+• Срок кода в приглашении — настоящая дата, а не всегда «2 недели».
+• Если двое одновременно выбрали одного игрока, второй видит понятное объяснение и обновлённый список.
+• Понятные тексты вместо «Сервер не ответил как надо», когда человека уже нет в компании или в ней слишком много людей.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.0 · 2026-11-14
+Added:
+• The app offers to update itself when a new version is out on the site; you can also check by hand: Account → Version.
+• Its own icon: a volleyball.
+• "Finish" on the score screen: the match ends at the current score — the side ahead in sets, then in points of the set, wins; a tie is a draw. Changed your mind — "Continue the match".
+• "Lineups" on the score screen: replace a player who left, swap people or teams, fix who serves if the serve went wrong.
+• Who serves first is chosen on the score screen before the first point.
+• Sign in to a kvp account with a code from an email: groups, matches and stats are kept on the server and shared with everyone in the group.
+• Invites: an admin gives a code, a friend joins the group and picks themselves from the players — their past points and matches become theirs.
+• Roles in a group: creator, admins and members.
+• A match scored on another phone is shown live; if the scorer's phone died, press "Score here".
+• Works without the internet; changes go to the server when the connection is back.
+• The end of a set shows its score with "Undo the last point"; the end of a match shows the winner and the sets.
+Changed:
+• The format of a match is "Beach" or "Indoor"; changing a rule keeps the kind.
+• Team names on the score screen are bigger, on a badge of the team's colour.
+• New match: "remove" sends a player to rest; long-press and drag a player to the other team or to rest; tap a resting player to pick the team.
+• The screen never turns by itself: sides are swapped with the ⇄ button; a reminder can be turned on in the format settings.
+• "Error" is pressed under the team that made the mistake: the point goes to the other team.
+Fixed:
+• Someone removed from a group can no longer come straight back with an old code; an admin can cancel all codes.
+• A player's own code works once; a code typed on the Russian keyboard or pasted with the whole message is understood.
+• "Back" after joining a group leads to the list of groups.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/volleyball-android-0.1.0/Volleyball-0.1.0.apk" length="21635163" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="e41d397a5c9f2f9404caa502521e1f78cc87610d387a1271276ee50ed00b2c8e"/>
+    </item>
+  </channel>
+</rss>
