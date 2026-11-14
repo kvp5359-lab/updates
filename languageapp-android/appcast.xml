@@ -3,6 +3,22 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.9</title>
+      <pubDate>Sat, 14 Nov 2026 22:11:30 -0000</pubDate>
+      <sparkle:version>163</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.9 · 2026-11-14
+Изменено:
+• «Учить», задание «Выбор»: неверные варианты теперь похожи на правильный — та же часть речи, а на поздних ступенях и та же тема. Угадать отбрасыванием явно чужого уже не выйдет.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.9 · 2026-11-14
+Changed:
+• «Learn», the «Choice» task: the wrong options now resemble the right one — the same part of speech, and on later steps the same topic. Throwing out the plainly different no longer gives the answer away.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.9/LanguageApp-0.1.9.apk" length="80918300" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="586a5c297f031931b7af3f0c95c7fac44ca4f15af0da318ff6726a00ec641454"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.8</title>
       <pubDate>Sat, 14 Nov 2026 21:21:27 -0000</pubDate>
       <sparkle:version>159</sparkle:version>
