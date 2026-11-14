@@ -3,6 +3,34 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.10</title>
+      <pubDate>Sat, 14 Nov 2026 22:29:47 -0000</pubDate>
+      <sparkle:version>167</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.10 · 2026-11-14
+Добавлено:
+• Карточка слова: если слово уже в словаре, его можно убрать прямо из карточки — «Убрать из словаря».
+• Карточка слова: видно, откуда перевод — от нейросети с учётом контекста или от телефона, дословный.
+Изменено:
+• Начальная форма с переводом теперь у каждого существительного, глагола, прилагательного и наречия: «went» → «go — идти», «bottom» → «bottom — дно». Видна сразу, даже пока перевод текста ещё готовится, а также в карточке слова в разговоре и в разборе записи. Уже открытые тексты подготовятся заново.
+• Чтение по страницам: страница при листании изгибается как бумажная — видно дугу сгиба, обратную сторону листа и тень на следующей странице. Работает в обе стороны.
+Исправлено:
+• Чтение по страницам: страница больше не затемнена — следующая страница рисовалась поверх текущей.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.10 · 2026-11-14
+Added:
+• Word card: a word already in the dictionary can be removed right from the card — «Remove from dictionary».
+• Word card: it shows where the translation comes from — the AI, in context, or the phone, word for word.
+Changed:
+• Every noun, verb, adjective and adverb now shows its dictionary form with a translation: «went» → «go — идти», «bottom» → «bottom — дно». It shows at once, even while the text's translation is being prepared, and in the word card in a conversation and a recording's review too. Texts already opened are prepared anew.
+• Reading by pages: a page bends like paper as it turns — the curve of the fold, the back of the sheet and its shadow on the next page. Both ways.
+Fixed:
+• Reading by pages: the page is no longer dimmed — the next page was drawn over the current one.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.10/LanguageApp-0.1.10.apk" length="80918300" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="7edd2d90a34f5895d1ce583cbd11f03d52a5c002919822edf891380fa2a767ab"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.9</title>
       <pubDate>Sat, 14 Nov 2026 22:11:30 -0000</pubDate>
       <sparkle:version>163</sparkle:version>
