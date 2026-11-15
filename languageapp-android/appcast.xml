@@ -3,6 +3,32 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.17</title>
+      <pubDate>Sun, 15 Nov 2026 21:08:57 -0000</pubDate>
+      <sparkle:version>192</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.17 · 2026-11-15
+Добавлено:
+• Новая игра «Тропа» в «Играх» — настольная игра на острове. Бросай кубик, иди по тропе через пляж, лес, болото и горы к замку с кладом. На каждой клетке задание с твоими словами: выбрать перевод, узнать слово на слух или собрать его из букв. Ответил верно — звезда, ошибся — шаг назад. Мост переносит через реку, ловушка отбрасывает дальше, а у замка ждёт страж. Партия сохраняется, рекорд — за наименьшее число бросков.
+• Переводчик: на Главной плитка «Переводчик», а ещё его можно открыть долгим нажатием на значок приложения. Напиши или скажи фразу по-русски или на изучаемом языке, направление переключится само. Получишь перевод с озвучкой, другие способы сказать то же («вежливее», «разговорно») и слова фразы в начальной форме. Фразу и любое слово можно одной кнопкой добавить в словарь. Без нейросети переводит переводчик телефона, но только сам перевод.
+• «Слова по теме»: в «Словаре» напиши тему, например «у врача, болит желудок», и нейросеть подберёт к ней слова и устойчивые фразы твоего уровня. Отметь нужные, они попадут в словарь группой этой темы, и их можно сразу учить. Не понравилась подборка — «Ещё». Темы сохраняются.
+• В «Словаре» можно выбрать группу-тему: список и «Учить» — только по ней.
+Изменено:
+• На Главной больше нет кнопки «Текст»: чтобы почитать свой текст, вставь его во вкладке «Чтение».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.17 · 2026-11-15
+Added:
+• A new game in Games, Trail: a board game on an island. Roll the die and walk the path through the beach, forest, swamp and mountains to the castle with the treasure. Every cell has a task with your words: pick the translation, recognise the word by ear or put it together from letters. Right — a star; wrong — a step back. A bridge carries you over the river, a trap throws you further back, and a guard waits at the castle. The game is saved; the record is the fewest rolls.
+• Translator: a Translator tile on Home, also opened by long-pressing the app icon. Type or say a phrase in your native or learned language, and the direction switches by itself. You get the translation read aloud, other ways to say it (more polite, casual) and the phrase's words in their dictionary form. Add the phrase or any word to the dictionary with one tap. Without the AI, the phone's translator gives the translation alone.
+• Words for a topic: in the Dictionary, describe a topic, such as “at the doctor's, stomach ache”, and the AI picks words and set phrases for it at your level. Tick the ones you need: they go to the dictionary as that topic's group, and you can learn them right away. Don't like the pick? Tap More. Topics are kept.
+• The Dictionary can show one topic's group: the list and Learn cover only it.
+Changed:
+• The Text button is gone from Home: to read your own text, paste it in the Reading tab.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.17/LanguageApp-0.1.17.apk" length="81263232" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="64707a803df9ea92f07c2f09a96461051f69331374fce234461bb920f1ff40a4"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.16</title>
       <pubDate>Sun, 15 Nov 2026 07:34:32 -0000</pubDate>
       <sparkle:version>184</sparkle:version>
