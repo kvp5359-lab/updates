@@ -3,6 +3,22 @@
   <channel>
     <title>Волейбол</title>
     <item>
+      <title>Волейбол 0.1.2</title>
+      <pubDate>Sun, 15 Nov 2026 08:32:53 -0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.2 · 2026-11-15
+Изменено:
+• На экране счёта кнопки «Команде» и «Ошибка» стоят сразу под последним игроком команды, а в вертикальном виде обе команды прижаты к счёту.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.2 · 2026-11-15
+Changed:
+• On the score screen "Team" and "Error" sit right under the team's last player; upright, both teams keep close to the score.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/volleyball-android-0.1.2/Volleyball-0.1.2.apk" length="21635211" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="c1b7d5236124f8849550a61dfec88a5349b119ded3f54428d3eb61f2603a78bf"/>
+    </item>
+    <item>
       <title>Волейбол 0.1.1</title>
       <pubDate>Sun, 15 Nov 2026 07:14:53 -0000</pubDate>
       <sparkle:version>19</sparkle:version>
