@@ -3,6 +3,22 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.15</title>
+      <pubDate>Sun, 15 Nov 2026 07:07:54 -0000</pubDate>
+      <sparkle:version>181</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.15 · 2026-11-15
+Изменено:
+• В «Бластере» скорости «Спокойно» и «Обычно» стали заметно медленнее.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.15 · 2026-11-15
+Changed:
+• Blaster’s Calm and Normal speeds are noticeably slower.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.15/LanguageApp-0.1.15.apk" length="81016604" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="d9786d802f6d6cbb1338bb76a08829cb51b1ef07c0df0c281391cccb9ad1dd41"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.14</title>
       <pubDate>Sun, 15 Nov 2026 06:56:44 -0000</pubDate>
       <sparkle:version>179</sparkle:version>
