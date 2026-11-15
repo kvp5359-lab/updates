@@ -3,6 +3,32 @@
   <channel>
     <title>Волейбол</title>
     <item>
+      <title>Волейбол 0.2.0</title>
+      <pubDate>Sun, 15 Nov 2026 09:48:29 -0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.0 · 2026-11-15
+Добавлено:
+• Ошибку можно записать конкретному игроку: нажми «Ошибка» под его командой и выбери, кто ошибся, или удержи игрока → «Ошибка». Ошибки видны в статистике.
+• Удержи любого игрока на экране счёта → «Подаёт сейчас»: подача переходит к нему, дальше очередь идёт от него.
+• У игрока может быть фото — даже у того, кто не заходит в приложение: «Игроки» → нажми на игрока → «Снять» или «Из галереи».
+• Своё имя можно поменять в «Аккаунте» → «Моё имя»: оно поменяется во всех твоих компаниях.
+Изменено:
+• Удержание игрока на экране счёта открывает меню (подача, ошибка, снять очко), а не снимает очко сразу.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.0 · 2026-11-15
+Added:
+• Put an error on a particular player: tap "Error" under their team and pick who erred, or hold the player → "Error". Errors show in the stats.
+• Hold any player on the score screen → "Serves now": the serve goes to them and the turn goes on from them.
+• A player can have a photo, even one who never signs in: "Players" → tap the player → "Take" or "From gallery".
+• Change your own name in "Account" → "My name": it changes in all your companies.
+Changed:
+• Holding a player on the score screen opens a menu (serve, error, take a point back) instead of taking the point back at once.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/volleyball-android-0.2.0/Volleyball-0.2.0.apk" length="21834009" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="8af86679a6f000d48891d0a6ea4de928e932a33a9ee98a247b86950712fae6ce"/>
+    </item>
+    <item>
       <title>Волейбол 0.1.2</title>
       <pubDate>Sun, 15 Nov 2026 08:32:53 -0000</pubDate>
       <sparkle:version>21</sparkle:version>
