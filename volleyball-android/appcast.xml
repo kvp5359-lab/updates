@@ -3,6 +3,28 @@
   <channel>
     <title>Волейбол</title>
     <item>
+      <title>Волейбол 0.3.2</title>
+      <pubDate>Sun, 15 Nov 2026 18:05:11 -0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.2 · 2026-11-15
+Добавлено:
+• На экране входа есть ссылка «Войти с паролем» — для аккаунтов kvp, у которых задан пароль. Обычный вход по-прежнему по коду из письма.
+Исправлено:
+• Статистика помещается на узком телефоне: «Месяц» — в одну строку, заголовок «ошибки» — целиком.
+• Число ошибок у игрока на экране счёта отмечено той же молнией, что и кнопка «Ошибка», на любом телефоне.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.2 · 2026-11-15
+Added:
+• "Sign in with a password" on the sign-in screen, for kvp accounts that have one. The usual sign-in is still a code from an e-mail.
+Fixed:
+• Stats fit a narrow phone: the period switch on one line, the "errors" heading in full.
+• A player's error count on the score screen carries the same bolt as the "Error" button, on any phone.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/volleyball-android-0.3.2/Volleyball-0.3.2.apk" length="21949084" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="79c52fdb27528b33827118726000dbcec4cf9d57e7c8502e2d14d2637b234037"/>
+    </item>
+    <item>
       <title>Волейбол 0.3.1</title>
       <pubDate>Sun, 15 Nov 2026 17:08:26 -0000</pubDate>
       <sparkle:version>31</sparkle:version>
