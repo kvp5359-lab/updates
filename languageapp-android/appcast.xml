@@ -3,6 +3,26 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.16</title>
+      <pubDate>Sun, 15 Nov 2026 07:34:32 -0000</pubDate>
+      <sparkle:version>184</sparkle:version>
+      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.16 · 2026-11-15
+Изменено:
+• Чтение переводит не весь текст сразу, а страницу, на которой ты читаешь, и две следующие. Перелистываешь дальше — переводится ещё страница вперёд. Быстрое пролистывание перевод не запускает, так на длинную книгу не уходит лишнее. Перевод учитывает предыдущий текст, поэтому имена и термины не меняются от страницы к странице.
+Добавлено:
+• В «Гонке» перед стартом можно выбрать скорость: «Спокойно», «Обычно» или «Быстро». Выбор запоминается, у каждой скорости свой рекорд.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.16 · 2026-11-15
+Changed:
+• Reading no longer translates the whole text at once: it prepares the page you are on and the next two, and moves ahead as you turn pages. Flicking quickly through pages starts nothing, so a long book doesn’t cost more than you read. The translation follows on from the text before it, so names and terms stay the same from page to page.
+Added:
+• Race lets you choose the speed before the start: Calm, Normal or Fast. The choice is kept, and each speed has its own record.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.16/LanguageApp-0.1.16.apk" length="81000220" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="3e3b1b869419f7e2c6c00e1dd3041c38d3b8deacf8f6dd84467edf86ca86593d"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.15</title>
       <pubDate>Sun, 15 Nov 2026 07:07:54 -0000</pubDate>
       <sparkle:version>181</sparkle:version>
