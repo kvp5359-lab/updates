@@ -3,6 +3,26 @@
   <channel>
     <title>Волейбол</title>
     <item>
+      <title>Волейбол 0.3.1</title>
+      <pubDate>Sun, 15 Nov 2026 17:08:26 -0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.1 · 2026-11-15
+Добавлено:
+• Аккаунт можно удалить: «Аккаунт» → «Удалить аккаунт». Перед удалением приложение спросит и скажет, что удалится.
+Изменено:
+• Приложение для часов теперь ставится поверх прежнего и готово к установке из Google Play: оттуда оно будет обновляться само.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.1 · 2026-11-15
+Added:
+• Delete your account: "Account" → "Delete account". The app asks first and says what goes.
+Changed:
+• The watch app now installs over the previous one and is ready for Google Play, where it will update itself.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/volleyball-android-0.3.1/Volleyball-0.3.1.apk" length="21949080" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="746318d2e0fd7032038e91631be87840cc7c14e67b249ed084dd7309bcd6b4d3"/>
+    </item>
+    <item>
       <title>Волейбол 0.3.0</title>
       <pubDate>Sun, 15 Nov 2026 10:14:47 -0000</pubDate>
       <sparkle:version>25</sparkle:version>
