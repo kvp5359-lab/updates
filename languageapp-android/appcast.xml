@@ -3,6 +3,22 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.14</title>
+      <pubDate>Sun, 15 Nov 2026 06:56:44 -0000</pubDate>
+      <sparkle:version>179</sparkle:version>
+      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.14 · 2026-11-15
+Изменено:
+• «Бластер» стал одним живым полем: после попадания остальные астероиды подбрасывает вверх, они отскакивают от стен и друг от друга и падают снова, а сверху прилетает новое слово. Спросить могут любое слово на поле.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.14 · 2026-11-15
+Changed:
+• Blaster is now one living field: after a hit the other asteroids are thrown up, bounce off the walls and each other and fall again, and a new word flies in. Any word on the field may be asked next.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.14/LanguageApp-0.1.14.apk" length="81016604" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="3b6ac96f1a20908e296362fa892accb9b48f89efa047b75c3dba1df59d143633"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.13</title>
       <pubDate>Sat, 14 Nov 2026 23:24:06 -0000</pubDate>
       <sparkle:version>177</sparkle:version>
