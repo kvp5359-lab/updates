@@ -3,6 +3,22 @@
   <channel>
     <title>Волейбол</title>
     <item>
+      <title>Волейбол 0.1.1</title>
+      <pubDate>Sun, 15 Nov 2026 07:14:53 -0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.1 · 2026-11-15
+Добавлено:
+• Счёт можно вести, держа телефон вертикально: одна команда сверху у левого края, другая снизу у правого, счёт посередине. Повернул телефон — экран повернулся следом.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.1 · 2026-11-15
+Added:
+• Keep the score with the phone upright: one team on top by the left edge, the other below by the right one, the score in the middle. Turn the phone and the screen follows.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/volleyball-android-0.1.1/Volleyball-0.1.1.apk" length="21635211" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="681d058a135ef9a3da5514987a5295bb89c9d7b81fef5e129825d3e5f3083e43"/>
+    </item>
+    <item>
       <title>Волейбол 0.1.0</title>
       <pubDate>Sat, 14 Nov 2026 19:27:45 -0000</pubDate>
       <sparkle:version>16</sparkle:version>
