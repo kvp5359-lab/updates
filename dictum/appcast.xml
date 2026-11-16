@@ -3,6 +3,17 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.9.0</title>
+      <pubDate>Mon, 16 Nov 2026 16:27:32 -0000</pubDate>
+      <sparkle:version>372</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.9.0 · 2026-11-16</h2><h3>Изменено</h3><ul><li>Текст после оформления меньше похож на написанный нейросетью: вместо длинного тире «—» обычный дефис « - », после «Ну» и «Ну вот» в начале фразы нет запятой, а в Dictum Cloud одна мысль больше не дробится точками на короткие предложения.</li></ul><h3>Исправлено</h3><ul><li>Первая диктовка после сна Mac снова идёт через Dictum Cloud: раньше она распознавалась встроенной моделью Apple с сообщением «Dictum Cloud не сработала».</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-0.9.0/Dictum-0.9.0.zip" length="18326864" type="application/octet-stream" sparkle:edSignature="/tG5JuoZirfhM+04l5g1sqri1vg0TMkxNtdOcC6TtE63Oj8BYYqXZL85RUjEFqD22Uo/9COyc6tMeGFfN7lPCw=="/>
+    </item>
+    <item>
       <title>Dictum 0.8.4</title>
       <pubDate>Fri, 13 Nov 2026 12:19:46 -0000</pubDate>
       <sparkle:version>362</sparkle:version>
