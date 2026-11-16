@@ -3,6 +3,38 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.2.0</title>
+      <pubDate>Mon, 16 Nov 2026 21:50:28 -0000</pubDate>
+      <sparkle:version>375</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0.19041</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.0 · 2026-11-16
+Добавлено:
+• Музыка и видео во время записи: Настройки → Микрофон → «Музыка и видео во время записи» — ставить плееры на паузу, приглушать или выключать звук других программ. После записи всё возвращается как было; во время записи встречи звук не трогается.
+• Запись не прерывается, если отключить микрофон или надеть наушники: она продолжается с другого микрофона, всё сказанное раньше остаётся.
+• Управление ссылками dictum://: ярлыки, Stream Deck и скрипты могут начинать и останавливать запись (dictum://record, dictum://record/start?mode=Название и другие). Включается в Настройки → Общие.
+• Сценарии можно расставлять по порядку, перетаскивая их за строку.
+• Диктовки подряд понимают друг друга: если следующая продолжает тему предыдущей (сказана в течение трёх минут), оформление знает, о чём шла речь, — названия кнопок, имена и сама мысль не рвутся на части. Работает в «Оформленном» и «Чистом тексте».
+Исправлено:
+• Если во время диктовки зажать её клавишу и случайно нажать другую, запись больше не пропадает бесследно: она продолжается, а отменить её можно клавишей Esc.
+• Если итог записи не получился, это видно и в списке записей, а не только в её карточке.
+• В начале диктовки больше не появляются слова, которых не было: если после нажатия клавиши есть пауза с фоновым шумом, распознавание (Soniox, Dictum Cloud) раньше могло «услышать» в ней фразу, иногда на другом языке. Теперь звук уходит на распознавание с первого слова.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.0 · 2026-11-16
+Added:
+• Music and video while recording: Settings → Microphone → “Music and video while recording” — pause players, lower or mute other programs. Everything comes back after the recording; a meeting recording leaves the sound alone.
+• A recording goes on when you unplug the microphone or put on headphones: it continues from another microphone, and what was said stays.
+• dictum:// links: shortcuts, Stream Deck and scripts can start and stop a recording (dictum://record, dictum://record/start?mode=Name and more). Turn it on in Settings → General.
+• Scenarios can be put in order by dragging their rows.
+• Dictations in a row understand each other: when the next one goes on about the same thing (said within three minutes), the formatting knows what it was about — button names, people's names and the thought itself are not torn apart. Works in “Formatted text” and “Clean text”.
+Fixed:
+• Holding the dictation key and accidentally pressing another one no longer throws the recording away: it goes on, and Esc cancels it.
+• A recording whose summary failed says so in the recordings list too, not only in its card.
+• A dictation no longer starts with words that were never said: when a pause with background noise followed the key press, recognition (Soniox, Dictum Cloud) could “hear” a phrase in it, sometimes in another language. The sound now goes to recognition from the first word.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-windows-0.2.0/Dictum-0.2.0-setup.exe" length="61197299" type="application/octet-stream" sparkle:os="windows" kvp:arch="x64" kvp:sha256="b89d5d8a7a46b4afe09992e27b2efe9664d1442833b886b38e5bf50802fbeb8a" kvp:signature="y8XAIF3oxXnfvOXRxLDEnwudPJXFfXOw3o+uuSvLmD/aIcNMw8daKTHUA5QZtocr+tSTcaH6ZM2AfMe3IYc0DA=="/>
+    </item>
+    <item>
       <title>Dictum 0.1.0</title>
       <pubDate>Wed, 11 Nov 2026 11:02:21 -0000</pubDate>
       <sparkle:version>342</sparkle:version>
