@@ -3,6 +3,30 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.2.0</title>
+      <pubDate>Sat, 14 Nov 2026 16:02:51 -0000</pubDate>
+      <sparkle:version>368</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.0 · 2026-11-14
+Добавлено:
+• Разговор не рвёт мысль на паузах: если собеседник задумался посреди фразы, через полсекунды куски склеиваются в одну фразу и переводятся заново целиком — смысл не теряется. Нужен интернет и ИИ (Dictum Cloud или свой ключ).
+Исправлено:
+• Dictum больше не закрывается сразу после входа в аккаунт: раньше с Dictum Cloud приложение сворачивалось через пару секунд после каждого запуска.
+• «Распознать запись заново» работает с Dictum Cloud: раньше при включённом облаке кнопка просила ключ OpenAI.
+• Если Dictum Cloud не подключился в начале разговора, Dictum пишет об этом и пробует ещё раз; подключившись, облако распознаёт запись с самого начала. Раньше в режиме «Автоматически» речь на другом языке могла не распознаться вовсе.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.0 · 2026-11-14
+Added:
+• A conversation no longer splits a thought at pauses: when the other person pauses mid-sentence, the pieces are joined into one phrase within half a second and translated again as a whole, so the meaning is kept. Needs the internet and an AI (Dictum Cloud or your own key).
+Fixed:
+• Dictum no longer closes right after you sign in: with Dictum Cloud the app used to go away a couple of seconds after every launch.
+• “Recognize again” works with Dictum Cloud: with the cloud on, the button used to ask for an OpenAI key.
+• If Dictum Cloud doesn’t connect at the start of a conversation, Dictum says so and tries again; once it connects, the cloud recognizes the recording from its very start. In the “Automatic” mode, speech in another language used to go unrecognized.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-android-0.2.0/Dictum-0.2.0.apk" length="55339373" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="88afc37254b9d5beb1c6f1007acb3d12a9630177d4271f767998ea42658a7d2b"/>
+    </item>
+    <item>
       <title>Dictum 0.1.5</title>
       <pubDate>Wed, 11 Nov 2026 13:23:43 -0000</pubDate>
       <sparkle:version>348</sparkle:version>
