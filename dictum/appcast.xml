@@ -3,6 +3,17 @@
   <channel>
     <title>Dictum</title>
     <item>
+      <title>Dictum 0.10.0</title>
+      <pubDate>Mon, 16 Nov 2026 19:03:37 -0000</pubDate>
+      <sparkle:version>374</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.10.0 · 2026-11-16</h2><h3>Изменено</h3><ul><li>В Истории у записи с аудио появился проигрыватель: пауза, продолжение с того же места, перемотка и время. Пока запись играет, это видно и в свёрнутой строке.</li></ul><h3>Исправлено</h3><ul><li>Прослушивание в Истории больше не накладывается само на себя: новая запись останавливает прежнюю, а при начале диктовки звук ставится на паузу.</li><li>Если во время диктовки зажать её клавишу и случайно нажать другую, запись больше не пропадает бесследно: она продолжается, а отменить её можно клавишей Esc.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/dictum-0.10.0/Dictum-0.10.0.zip" length="18348927" type="application/octet-stream" sparkle:edSignature="BI4sut4BU8Kyw4DJN9SWUD5wsKMfdqnfWzTndawIMbnlRhVWkEeWEdp4OhN/ohhLnD9SK43d7dLfA4LJ8OFuCw=="/>
+    </item>
+    <item>
       <title>Dictum 0.9.0</title>
       <pubDate>Mon, 16 Nov 2026 16:27:32 -0000</pubDate>
       <sparkle:version>372</sparkle:version>
