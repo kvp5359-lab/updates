@@ -3,6 +3,26 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.19</title>
+      <pubDate>Wed, 18 Nov 2026 06:54:28 -0000</pubDate>
+      <sparkle:version>206</sparkle:version>
+      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.19 · 2026-11-18
+Изменено:
+• «Комикс»: после ответа весь экран становится зелёным, если ответ верный, и розово-красным при ошибке; взрыв «ВЕРНО!» тоже зелёный. «Не помню», «Закончить», «Исправить текст» и «Это было верно» стали комиксными кнопками вместо подчёркнутого текста.
+Исправлено:
+• Поле ответа в «Учить» больше не принимается за поле пароля: менеджер паролей не предлагает сохранить ответ, а клавиатура всё так же не подсказывает слово.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.19 · 2026-11-18
+Changed:
+• Comic: once answered, the whole screen turns green for a right answer and pinkish red for a mistake; the “RIGHT!” burst is green too. “Don’t remember”, “Finish”, “Fix the text” and “That was right” are comic buttons now instead of underlined text.
+Fixed:
+• The answer field in Study is no longer taken for a password field: password managers don’t offer to save the answer, and the keyboard still suggests no words.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.19/LanguageApp-0.1.19.apk" length="81312388" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="2c94cceca359e815590e35e1862ea34b7930e32a62921ecf60a5a0ebad235b40"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.18</title>
       <pubDate>Tue, 17 Nov 2026 22:50:19 -0000</pubDate>
       <sparkle:version>204</sparkle:version>
