@@ -3,6 +3,34 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.2.0</title>
+      <pubDate>Wed, 18 Nov 2026 22:22:21 -0000</pubDate>
+      <sparkle:version>208</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.0 · 2026-11-18
+Изменено:
+• Новый вид всего приложения: тёплая «бумага» днём и тёмный экран ночью, один розовый акцент, свой шрифт заголовков. Яркие цвета и наклон — только в момент ответа в «Учить»: карточка становится зелёной или красной, с наклейкой «верно!» или «ой!».
+• Внизу теперь вкладки «Речь», «Слова», «Разговор» и «Ещё». Главный экран — большая кнопка «Скажи что-нибудь», под ней «сегодня» с повторением и лента того, что выросло из твоей речи.
+• «Ещё» вместо «Профиля»: сразу видно, работает ли нейросеть и облако; там же Чтение, Игры, «Скажи фразу», Переводчик, Архив записей и Настройки.
+• «Разговор» — отдельная вкладка: «Начать разговор», история и что партнёр о тебе помнит.
+• На вкладке «Слова» все фильтры в одном ряду: «Слова и фразы ▾», группа тем и уровень.
+Удалено:
+• Выбор оформления «Спокойное / Яркое / Комикс»: у приложения теперь один вид.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.0 · 2026-11-18
+Changed:
+• A new look for the whole app: warm “paper” by day and a dark screen at night, one pink accent, its own headline font. Bright colors and a slant only at the moment of an answer in Study: the card turns green or red, with a “right!” or “oops!” sticker.
+• The tabs are now Speech, Words, Conversation and More. The main screen is one big “Say something” button, then today’s review and a feed of what grew out of your speech.
+• More replaces Profile: it shows at once whether the AI and the cloud work; Reading, Games, Say a phrase, Translator, the recordings archive and Settings are there too.
+• Conversation is a tab of its own: start one, the history, what the partner remembers about you.
+• The Words tab’s filters are in one row: “Words and phrases ▾”, the topic group and the level.
+Removed:
+• The Calm / Bright / Comic look choice: the app has one look now.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.2.0/LanguageApp-0.2.0.apk" length="81651167" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="3125897ecdad4979346aec93cc07fb12238f1e795c0dd1ff0d4da131a504b519"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.19</title>
       <pubDate>Wed, 18 Nov 2026 06:54:28 -0000</pubDate>
       <sparkle:version>206</sparkle:version>
