@@ -3,6 +3,38 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.1.18</title>
+      <pubDate>Tue, 17 Nov 2026 22:50:19 -0000</pubDate>
+      <sparkle:version>204</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.18 · 2026-11-17
+Добавлено:
+• Новое оформление «Комикс» (Профиль → Оформление): «Учить» нарисован как комикс — у каждого задания свой цвет, наклейки на карточке, взрыв «ВЕРНО!» за правильный ответ. Остальные экраны пока как в «Спокойном».
+• В «Учить» внизу есть кнопка «Закончить»: можно остановиться в любой момент, все ответы сохранятся.
+• В «Учить» у заданий «Впиши слово» и «Скажи слово» есть кнопка «Не помню»: сразу показывает верный ответ, слово считается ошибкой.
+Изменено:
+• «Учить»: в задании «Впиши слово» клавиатура открывается сразу, кнопка «Готово» на ней проверяет ответ, а подсказки клавиатуры не выдают слово. Верный ответ и ошибка ощущаются короткой вибрацией.
+• Голосовой ответ: вместо «Готово» — «Проверить», сказанное проверяется сразу, без лишнего шага. Поправить текст руками — нажми на него, пока говоришь.
+• «Тропа»: страж у замка задаёт одно задание, а не пять. Ответил верно — клад твой, ошибся — шаг назад, как на любой клетке, и снова к замку кубиком.
+Исправлено:
+• В облачном распознавании вопрос посреди фразы больше не превращается в «,?»: остаётся один знак вопроса.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.18 · 2026-11-17
+Added:
+• New “Comic” look (Profile → Look): Study is drawn as a comic — each task has its own color, stickers on the card, a “RIGHT!” burst for a correct answer. Other screens look calm for now.
+• Study has a “Finish” button at the bottom: stop any time, every answer is kept.
+• In Study, “Type the word” and “Say the word” tasks have a “Don’t remember” button: it shows the right answer at once and counts as a mistake.
+Changed:
+• Study: in “Type the word” the keyboard opens at once, its Done key checks the answer, and keyboard suggestions no longer give the word away. A right answer and a mistake each get a short buzz.
+• Voice answers: “Done” is now “Check”, and what you said is checked at once, without an extra step. To fix the text by hand, tap it while speaking.
+• Trail: the castle guard asks one task, not five. Right — the treasure is yours; wrong — a step back, as on any cell, and roll to the castle again.
+Fixed:
+• Cloud recognition no longer turns a question in the middle of a phrase into “,?”: a single question mark stays.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.1.18/LanguageApp-0.1.18.apk" length="81296004" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="d71bc403981e644a923eb248f7c91eef21fe283227d15fb5939a9fc85363f6ad"/>
+    </item>
+    <item>
       <title>LanguageApp 0.1.17</title>
       <pubDate>Sun, 15 Nov 2026 21:08:57 -0000</pubDate>
       <sparkle:version>192</sparkle:version>
