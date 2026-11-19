@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>habit-app</title>
+    <item>
+      <title>habit-app 0.1.0</title>
+      <pubDate>Wed, 18 Nov 2026 22:16:53 -0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.0 · 2026-11-18
+Добавлено:
+• Привычки на любой вкус: каждый день, по дням недели (в том числе раз в две недели), раз в несколько дней, по числам месяца, несколько раз в неделю или в месяц.
+• Привычки «не делать» (например, без сахара): каждый день без срыва засчитывается сам, отмечаешь только срывы.
+• Несколько раз в день с подписью: «8 стаканов воды», «20 страниц».
+• Время начала и длительность: привычка занимает свой блок в календаре — час, 15 минут или сколько нужно.
+• Несколько напоминаний на одну привычку, как в Google Календаре: за 10 минут, за час, в момент начала или в заданное время. Из уведомления можно сразу отметить «Сделано» или отложить на 10 минут.
+• Отметки за сегодня и прошлые дни, заметка к дню, пропуск по уважительной причине — он не рвёт серию.
+• Пауза привычки на отпуск или болезнь: дни паузы не считаются пропущенными.
+• Серии подряд, лучшая серия, сила привычки и доля выполнения за 30 дней.
+• Календарь: месяц, неделя и день по часам, вместе с событиями из Google Календаря.
+• Привычки в Google Календаре: выбери календарь в Настройках — привычки станут повторяющимися событиями.
+• Статистика: сколько раз выполнена каждая привычка за неделю, месяц, год и всё время.
+• Блокировка экрана в время привычки: окно на весь экран, как у будильника, открывается заданием — перевести иностранные слова, решить примеры, набрать свою фразу, встряхнуть телефон или отметить привычку. Аварийный выход есть всегда.
+• Свой список слов для задания и стартовый набор испанских слов.
+• Семья: родитель видит привычки и результаты ребёнка и может добавлять ему привычки.
+• Аккаунт kvp: вход по коду из письма. Привычки синхронизируются между твоими устройствами.
+• Выгрузка всех отметок в таблицу (CSV).
+• Проверка и установка обновлений прямо из приложения: Настройки → Обновления.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.0 · 2026-11-18
+Added:
+• Habits on any schedule: every day, on weekdays (also every other week), every few days, on days of the month, a number of times a week or a month.
+• "Don't do" habits (say, no sugar): every day without a slip counts by itself, you mark only the slips.
+• Several times a day with a label: "8 glasses of water", "20 pages".
+• A start time and a duration: the habit takes its own block in the calendar — an hour, 15 minutes or whatever it needs.
+• Several reminders per habit, like in Google Calendar: 10 minutes before, an hour before, at the start or at a time of your own. Mark "Done" or snooze for 10 minutes right from the notification.
+• Marks for today and past days, a note for the day, a skip for a good reason that doesn't break the streak.
+• Pause a habit for a holiday or illness: paused days don't count as missed.
+• Streaks, the best streak, habit strength and the share done over 30 days.
+• Calendar: month, week and an hour-by-hour day, together with your Google Calendar events.
+• Habits in Google Calendar: choose a calendar in Settings and habits become repeating events.
+• Statistics: how many times each habit was done this week, month, year and all time.
+• A screen lock at the habit's time: a full-screen window, like an alarm clock, opened by a task — translate foreign words, solve sums, type your own phrase, shake the phone or mark the habit. There is always an emergency exit.
+• Your own word list for the task and a starter set of Spanish words.
+• Family: a parent sees a child's habits and results and can add habits for them.
+• kvp account: sign in with a code from an email. Habits sync between your devices.
+• Export all marks to a spreadsheet (CSV).
+• Check for and install updates right in the app: Settings → Updates.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.1.0/habit-app-0.1.0.apk" length="59312698" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="f8de9f5bbdde3707909fffdc4061c95f3c070c3ad287268e3ced34f87ec03b46"/>
+    </item>
+  </channel>
+</rss>
