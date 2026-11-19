@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
   <channel>
-    <title>habit-app</title>
+    <title>Привычки</title>
+    <item>
+      <title>Привычки 0.1.1</title>
+      <pubDate>Thu, 19 Nov 2026 07:12:24 -0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.1 · 2026-11-19
+Добавлено:
+• «Сегодня» кружками: все привычки дня сеткой по утру, дню и вечеру — нажал на кружок, и привычка отмечена, у «8 стаканов» каждое нажатие прибавляет один раз. Переключатель «Список / Кружки» — над привычками.
+• Вкладка «Неделя»: каждая привычка строкой и семь кружков по дням — отметить забытый день можно одним нажатием, не открывая привычку.
+Исправлено:
+• Пустое кольцо прогресса больше не показывает точку, а названия в «Осталось» пишутся как есть.
+• Версия приложения в Настройках показывается один раз.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.1 · 2026-11-19
+Added:
+• “Today” as circles: all of the day’s habits in a grid by morning, afternoon and evening — tap a circle and the habit is done; for “8 glasses” each tap adds one. Switch “List / Circles” above the habits.
+• The “Week” tab: each habit in a row with seven circles for the days — mark a forgotten day with one tap without opening the habit.
+Fixed:
+• An empty progress ring no longer shows a dot, and names in “Left” are written as they are.
+• The app’s version shows once in Settings.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.1.1/habit-app-0.1.1.apk" length="59329078" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="c5931bf164081ac4565c69cee7bc36d9ce9302e748fcb58f887bc8e0faf7c341"/>
+    </item>
     <item>
       <title>habit-app 0.1.0</title>
       <pubDate>Wed, 18 Nov 2026 22:16:53 -0000</pubDate>
