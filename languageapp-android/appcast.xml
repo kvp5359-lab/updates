@@ -3,6 +3,38 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.4.0</title>
+      <pubDate>Thu, 19 Nov 2026 22:43:30 -0000</pubDate>
+      <sparkle:version>219</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.4.0 · 2026-11-19
+Добавлено:
+• Новое задание «Карточка»: видишь слово, нажимаешь «Показать перевод» и отвечаешь «Знаю» или «Не знаю». Им новое слово начинается в первый день. «Не знаю» — не ошибка: слово вернётся позже.
+• «Учить» на главном экране сначала спрашивает, что учим: все слова вперемешку или отмеченные группы.
+Исправлено:
+• В «Чтении» постранично номер страницы внизу больше не застревает на первой, а книга после пересчёта страниц остаётся на том же месте.
+• Когда диктуешь длинный ответ, экран сам прокручивается за текстом: его конец и кнопки под ним больше не уходят за нижний край.
+Изменено:
+• Слова, добавленные при чтении, попадают в группу с названием книги: её можно выбрать в «Что учим» и в фильтре «Слова». Отключить — Ещё → Настройки → Изучение → «Слова из книги — в группу книги».
+• Порядок заданий: Карточка → Выбор из четырёх → Собери из букв → Вписать → Сказать.
+• Слово, брошенное посередине, при следующем заходе в «Учить» начинает снова с самого лёгкого задания, набранное не теряется.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.4.0 · 2026-11-19
+Added:
+• A new task, “Card”: you see the word, tap Show translation, and answer “I know” or “I don’t know”. A new word starts with it on the first day. “I don’t know” isn’t a mistake: the word comes back later.
+• Study on the main screen first asks what to study: all words mixed or the groups you tick.
+Fixed:
+• In page-by-page reading the page number at the bottom no longer sticks at the first page, and the book stays at the same place after the pages are laid out again.
+• When you dictate a long answer, the screen scrolls along with the text: its end and the buttons under it no longer go below the bottom edge.
+Changed:
+• Words added while reading go to a group named after the book: pick it in “What to study” and in the Words filter. Turn it off — More → Settings → Study → “Words from a book go to its group”.
+• The order of tasks: Card → Choice of four → Build from letters → Type → Say.
+• A word left halfway starts again from the easiest task next time in Study; what it scored isn’t lost.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.4.0/LanguageApp-0.4.0.apk" length="81716703" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="68244d8e31e6507c68f0893c8310a423b067c8462d9bb4c47aa96b12ffd8033b"/>
+    </item>
+    <item>
       <title>LanguageApp 0.3.3</title>
       <pubDate>Thu, 19 Nov 2026 08:45:38 -0000</pubDate>
       <sparkle:version>216</sparkle:version>
