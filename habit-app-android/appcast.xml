@@ -3,6 +3,58 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.1.3</title>
+      <pubDate>Thu, 19 Nov 2026 20:46:31 -0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.3 · 2026-11-19
+Добавлено:
+• Планы для привычек «N раз в неделю»: в «Неделе» нажми на день — «Сделано» или «Запланировать» (на время или без). Запланированный раз появится на «Сегодня», напомнит, может закрыть экран и попадёт в Google Календарь.
+• «Запланируй неделю»: карточка в «Неделе» и уведомление в выбранный день (Настройки → Планы на неделю), с кнопкой «Как на прошлой неделе».
+• Пропущенный план на «Сегодня» предлагает перенести: на сегодня, на завтра или снять. Сделал в другой день — засчитано, план снимется сам.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.3 · 2026-11-19
+Added:
+• Plans for “N times a week” habits: in “Week” tap a day — “Done” or “Plan” (at a time or not). A planned time shows on “Today”, reminds you, can lock the screen and goes to Google Calendar.
+• “Plan your week”: a card in “Week” and a notification on the day you choose (Settings → Weekly plans), with a “Like last week” button.
+• A missed plan on “Today” offers to move it: to today, to tomorrow, or drop it. Done on another day — it counts, and the plan closes by itself.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.1.3/habit-app-0.1.3.apk" length="59460154" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="a7e2c371191cb52b88e4812d90b49463b00054808c10ef8a3dd3e278025aa03a"/>
+    </item>
+    <item>
+      <title>Привычки 0.1.2</title>
+      <pubDate>Thu, 19 Nov 2026 20:26:11 -0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.2 · 2026-11-19
+Добавлено:
+• Привычки «несколько раз в день» с напоминаниями: кружок с кольцом из долей и временем следующей («2/8 · 12:00»). Подержи кружок — увидишь все разы со временем и отметишь любой.
+• Напоминание знает, сколько уже сделано: «6 из 8 стаканов», а если выпил заранее, лишнее не придёт. Кнопка «+1» прямо в уведомлении.
+• «Напоминание на каждый раз»: одна кнопка расставит напоминания равномерно с утра до 22:00.
+• Настройка «Показывать каждый раз отдельно»: каждый раз — свой кружок в своё время, удобно для лекарств.
+• В календаре «День» каждый раз — отметка на своём часе.
+Изменено:
+• На «Сегодня» только то, что запланировано на сегодня; остальное — под строкой «Ещё N не на сегодня». Сделанное сверх плана остаётся в списке с пометкой «сверх плана» и считается отдельно.
+• «Неделя»: нажатие отмечает день целиком — у «8 стаканов» сразу все восемь; неполный день виден кольцом в кружке, а не выглядит пропущенным. Подержи кружок, чтобы отметить каждый раз по времени.
+• «Сегодня» компактнее: переключатель «Список / Кружки» — значок вверху справа, карточка прогресса ниже.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.2 · 2026-11-19
+Added:
+• “Several times a day” habits with reminders: a circle with a ring of portions and the next one’s time (“2/8 · 12:00”). Hold the circle to see every time and mark any of them.
+• A reminder knows how many are done: “6 of 8 glasses”, and if you drank ahead, the extra one doesn’t come. A “+1” button right in the notification.
+• “A reminder for each time”: one button spreads reminders evenly from the morning to 22:00.
+• The “Show each time separately” setting: every time is a circle of its own at its own time, handy for medicine.
+• In the “Day” calendar each time is a mark at its own hour.
+Changed:
+• “Today” shows only what’s planned for today; the rest is behind an “N more not for today” line. What you do beyond the plan stays in the list marked “beyond the plan” and counts separately.
+• “Week”: a tap marks the day whole — all eight of “8 glasses” at once; a day not done in full shows a ring in its circle instead of looking missed. Hold the circle to mark each time by the clock.
+• “Today” is more compact: the “List / Circles” switch is an icon at the top right, the progress card is slimmer.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.1.2/habit-app-0.1.2.apk" length="59361850" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="10ee11d59fa7a37417159ae96e96de39ee9afc353188b01720c05474707e9621"/>
+    </item>
+    <item>
       <title>Привычки 0.1.1</title>
       <pubDate>Thu, 19 Nov 2026 07:12:24 -0000</pubDate>
       <sparkle:version>11</sparkle:version>
