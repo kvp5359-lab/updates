@@ -3,6 +3,22 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.3.3</title>
+      <pubDate>Thu, 19 Nov 2026 08:45:38 -0000</pubDate>
+      <sparkle:version>216</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.3 · 2026-11-19
+Исправлено:
+• Вошёл в аккаунт с подпиской — нейросеть работает сразу, переключать «Свой ключ» на «Сервис kvp» не нужно. Если вставлен свой ключ, работает он.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.3 · 2026-11-19
+Fixed:
+• Signed in with a subscription, the AI works right away: no need to switch from “Own key” to “kvp Service”. If you’ve pasted your own key, it’s used.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.3.3/LanguageApp-0.3.3.apk" length="81700319" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="063ddc67ec24a7adb815660f2f5213f87519736ed0feb22e610e982d29ca891b"/>
+    </item>
+    <item>
       <title>LanguageApp 0.3.2</title>
       <pubDate>Thu, 19 Nov 2026 08:12:35 -0000</pubDate>
       <sparkle:version>214</sparkle:version>
