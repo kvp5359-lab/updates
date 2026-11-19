@@ -3,6 +3,22 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.3.1</title>
+      <pubDate>Thu, 19 Nov 2026 07:06:37 -0000</pubDate>
+      <sparkle:version>212</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.1 · 2026-11-19
+Изменено:
+• В «Учить» после ошибки «Исправить» и «Было верно» стали заметными кнопками-наклейками, а «Закончить» — овальной кнопкой с флажком.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.1 · 2026-11-19
+Changed:
+• In Study, after a mistake “Fix” and “That was right” are now visible sticker buttons, and “Finish” is an oval button with a flag.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.3.1/LanguageApp-0.3.1.apk" length="81700319" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="c92c1eaeeeef8548aae87dbd0af83a216d16ec92784e6f30e5d981dd46db49c7"/>
+    </item>
+    <item>
       <title>LanguageApp 0.3.0</title>
       <pubDate>Thu, 19 Nov 2026 06:50:51 -0000</pubDate>
       <sparkle:version>210</sparkle:version>
