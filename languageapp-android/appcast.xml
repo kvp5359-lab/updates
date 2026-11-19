@@ -3,6 +3,26 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.3.2</title>
+      <pubDate>Thu, 19 Nov 2026 08:12:35 -0000</pubDate>
+      <sparkle:version>214</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.2 · 2026-11-19
+Исправлено:
+• В «Сказать» кнопки «Написать» и «Не помню» теперь стоят рядом, наклейками, а не разбросаны по экрану.
+• Когда вместо «Сказать» пишешь руками, клавиатура обычная: с подсказками слов и своим микрофоном.
+• Во «Вписать» кнопки «Не помню» и «Подсказка» больше не прячутся под клавиатурой, а подсказка видна прямо в карточке.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.2 · 2026-11-19
+Fixed:
+• In “Say the word”, Write and Don’t remember now sit side by side as stickers instead of scattered over the screen.
+• Writing instead of saying gives an ordinary keyboard, with word suggestions and its own microphone.
+• In “Type the word”, Don’t remember and Hint no longer hide under the keyboard, and the hint shows right in the card.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.3.2/LanguageApp-0.3.2.apk" length="81700319" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="31ffac4868e1cfb520c26500974c1d9842db88d01a6dee41868b765b5e6be4fd"/>
+    </item>
+    <item>
       <title>LanguageApp 0.3.1</title>
       <pubDate>Thu, 19 Nov 2026 07:06:37 -0000</pubDate>
       <sparkle:version>212</sparkle:version>
