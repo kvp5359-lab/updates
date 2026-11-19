@@ -3,6 +3,42 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.3.0</title>
+      <pubDate>Thu, 19 Nov 2026 06:50:51 -0000</pubDate>
+      <sparkle:version>210</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.0 · 2026-11-19
+Добавлено:
+• Новое задание в «Учить» — «Собери из букв»: буквы слова вперемешку, нажимай по порядку. Оно идёт сразу после выбора из четырёх, чтобы сначала увидеть, как слово пишется. Включается и выключается там же, где остальные задания.
+• Во «Вписать» есть «Подсказка»: первая буква и места остальных. Ответ с подсказкой не засчитывается, но и ошибкой не считается.
+• Во «Вписать» под переводом — пример со словом, где на его месте пропуск.
+Изменено:
+• Каждая ступень в «Учить» теперь начинается с выбора из четырёх, а потом уже вписать и сказать. Поэтому на каждой ступени на одно задание больше.
+• Опечатка в одну букву (или две переставленные) в слове подлиннее засчитывается: покажем, как правильно.
+• Если ответ — другая форма слова или близкое слово, нейросеть отметит это как «почти»: не засчитано и не ошибка, слово вернётся.
+• На ошибке неверные буквы в правильном слове подчёркнуты.
+• Если нейросеть не подключена, «Учить» прямо об этом говорит, с кнопкой «Подключить».
+Исправлено:
+• Когда вместо «Сказать» пишешь ответ руками, у клавиатуры снова работает свой микрофон.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.0 · 2026-11-19
+Added:
+• A new task in Study — “Build from letters”: the word’s letters shuffled, tap them in order. It comes right after the choice of four, so you see how the word is spelled first. It’s switched on and off with the other tasks.
+• “Type the word” has a Hint: the first letter and places for the rest. An answer with a hint isn’t counted, but it isn’t a mistake either.
+• “Type the word” shows the example sentence with a gap where the word goes.
+Changed:
+• Every step in Study now opens with the choice of four, then typing and saying, so each step takes one more task.
+• A one-letter typo (or two swapped letters) in a longer word counts: you’ll see the right spelling.
+• Another form of the word or a close word is marked “almost” by the AI: not counted and not a mistake, the word comes back.
+• On a mistake the wrong letters in the right word are underlined.
+• Without the AI, Study says so up front, with a Connect button.
+Fixed:
+• When you write the answer instead of saying it, the keyboard’s own microphone works again.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.3.0/LanguageApp-0.3.0.apk" length="81700319" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="147eeb8cc507c5188846b9dca55729b0ed6e72f45c1852bd842aabfa4d648f4c"/>
+    </item>
+    <item>
       <title>LanguageApp 0.2.0</title>
       <pubDate>Wed, 18 Nov 2026 22:22:21 -0000</pubDate>
       <sparkle:version>208</sparkle:version>
