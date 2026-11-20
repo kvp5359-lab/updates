@@ -3,6 +3,32 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.0</title>
+      <pubDate>Fri, 20 Nov 2026 10:25:09 -0000</pubDate>
+      <sparkle:version>225</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.0 · 2026-11-20
+Добавлено:
+• План дня: собери свой урок на каждый день — сколько упражнений на свои слова, сколько слов прочитать, минут поиграть и поговорить с партнёром, сколько записей сделать. На «Речи» видно, что уже сделано; нажми на строку — откроется нужное. Есть готовые планы «Лёгкий», «Только слова», «Полный».
+• Темы стали общими: в тему можно добавить книги из «Чтения», и на странице темы есть «Учить», «Играть» и «Поговорить» — всё по её словам. Тему можно выбрать и для всего плана дня.
+• Тему можно создать без нейросети, по одному названию: её слова придут из её книг.
+• Разговор на тему: партнёр держится темы и вплетает её слова.
+Изменено:
+• «Слова по теме» теперь называются «Темы»; они есть и в «Ещё», и без нейросети.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.0 · 2026-11-20
+Added:
+• Day plan: build your own lesson for every day — how many exercises on your words, how many words to read, minutes to play and to talk with the partner, how many recordings. The Speech tab shows what's done; tap a row to go there. Ready plans: “Light”, “Words only”, “Full”.
+• Topics now gather everything: add books from Reading to a topic, and its page has “Learn”, “Play” and “Talk” — all on its words. A topic can also be chosen for the whole day plan.
+• A topic can be created without the AI, by its name alone: its words come from its books.
+• Talk on a topic: the partner keeps to it and brings in its words.
+Changed:
+• “Words by topic” is now “Topics”; it's in “More” too, and works without the AI.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.0/LanguageApp-0.6.0.apk" length="82011615" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="aa8e59c701159e1d2552e4107ba632172cb8fe24bad5220a8faf84d9439bb690"/>
+    </item>
+    <item>
       <title>LanguageApp 0.5.0</title>
       <pubDate>Fri, 20 Nov 2026 07:35:51 -0000</pubDate>
       <sparkle:version>222</sparkle:version>
