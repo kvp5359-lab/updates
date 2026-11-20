@@ -3,6 +3,24 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.2</title>
+      <pubDate>Fri, 20 Nov 2026 15:09:13 -0000</pubDate>
+      <sparkle:version>230</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.2 · 2026-11-20
+Изменено:
+• В «Учить» новые слова больше не идут пачкой подряд: они вплетаются между уже начатыми, по одному.
+• Карточка нового слова показывается один раз: после «Не знаю» слово сразу идёт учиться дальше, а не возвращается той же карточкой.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.2 · 2026-11-20
+Changed:
+• In “Learn”, new words no longer come in a row: they are woven in one by one among the ones already started.
+• A new word’s card shows once: after “Don’t know” the word goes on to be learned instead of coming back as the same card.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.2/LanguageApp-0.6.2.apk" length="82044383" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="6b46a9a4357d6165429ed175f97be850b911c8983766b02feb68552665b75f6e"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.1</title>
       <pubDate>Fri, 20 Nov 2026 13:24:44 -0000</pubDate>
       <sparkle:version>228</sparkle:version>
