@@ -3,6 +3,32 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.5.0</title>
+      <pubDate>Fri, 20 Nov 2026 07:35:51 -0000</pubDate>
+      <sparkle:version>222</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.5.0 · 2026-11-20
+Добавлено:
+• Своя книга, где после каждого абзаца уже стоит его перевод, узнаётся сама: перевод убирается из текста и показывается к абзацу, нейросеть не нужна.
+• На экране новой книги — блок «Перевод»: видно, есть ли перевод в самом тексте, и можно выбрать, кто переводит — нейросеть (сколько примерно запросов) или переводчик телефона (бесплатно).
+• Внизу книги строка «Перевод: нейросеть / телефон / из книги» — нажми, чтобы поменять.
+• В настройках чтения — «Перевод под абзацем»: перевод мелко и бледно под каждым абзацем. Берётся из книги или от переводчика телефона, нейросеть не тратится.
+• Каталог в «Чтении»: истории с готовым переводом на русский (Global Storybooks) и бесплатные книги Project Gutenberg — без скачивания файлов вручную. Нажал — книга в библиотеке и открыта.
+• Книги из каталога переводит телефон, нейросеть не тратится; для отдельного слова есть «Спросить нейросеть». У историй перевод каждой страницы уже готов. В меню книги — «Откуда» (авторы и лицензия) и переключатель «Перевод нейросетью заранее».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.5.0 · 2026-11-20
+Added:
+• A book of your own with each paragraph followed by its translation is recognized: the translation leaves the text and shows with its paragraph, no AI needed.
+• The new book screen has a “Translation” block: it shows whether the text already has a translation, and lets you pick who translates — the AI (with a rough number of requests) or the phone’s translator (free).
+• At the bottom of a book: “Translation: AI / phone / from the book” — tap to change.
+• Reading settings have “Translation under each paragraph”: small and pale under every paragraph, taken from the book or the phone’s translator, no AI spent.
+• A catalog in Reading: stories with a ready translation (Global Storybooks) and free Project Gutenberg books — no files to download by hand. One tap and it's in the library, open.
+• Catalog books are translated by the phone, no AI spent; “Ask the AI” is there for a single word. Stories come with every page already translated. The book’s menu has “Source” (authors and license) and an “AI translation ahead” switch.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.5.0/LanguageApp-0.5.0.apk" length="81880543" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="92784e32d4695cab6eace9acb2c3132865c1f5337eba7bb5bb61894f894c08c1"/>
+    </item>
+    <item>
       <title>LanguageApp 0.4.0</title>
       <pubDate>Thu, 19 Nov 2026 22:43:30 -0000</pubDate>
       <sparkle:version>219</sparkle:version>
