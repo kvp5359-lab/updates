@@ -3,6 +3,30 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.1</title>
+      <pubDate>Fri, 20 Nov 2026 13:24:44 -0000</pubDate>
+      <sparkle:version>228</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.1 · 2026-11-20
+Добавлено:
+• Урок по плану: «Начать урок» на карточке плана, и приложение ведёт само — сделал упражнения, внизу появится «Дальше: Чтение», потом игры, разговор, запись. Выйти можно в любой момент.
+• В плане дня можно выбрать книгу для чтения (или «последняя открытая») и одну-две игры: в уроке они откроются сами, одна за другой.
+Изменено:
+• «Перевод под абзацем» стоит вплотную к своему абзацу и стал светлее: видно, к чему он относится, и он не спорит с текстом.
+• В плане дня у «Чтения» понятнее подпись: считается весь прочитанный текст, а не только новые слова.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.1 · 2026-11-20
+Added:
+• Lesson by plan: “Start lesson” on the plan card, and the app leads you — finish the exercises and “Next: Reading” appears at the bottom, then games, talk, a recording. Leave whenever you like.
+• The day plan can name a book to read (or “the last opened”) and one or two games: in the lesson they open by themselves, one after another.
+Changed:
+• “Translation under paragraph” now sits right under its paragraph and is paler: it is clear what it belongs to, and it stays out of the text’s way.
+• In the day plan, Reading has a clearer hint: all the text read counts, not only new words.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.1/LanguageApp-0.6.1.apk" length="82044383" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="2d8308fde1af5bedca65db6894c11e20d4286704b0817e2f287b4ff23b4e3117"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.0</title>
       <pubDate>Fri, 20 Nov 2026 10:25:09 -0000</pubDate>
       <sparkle:version>225</sparkle:version>
