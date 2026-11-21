@@ -3,6 +3,22 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.7.1</title>
+      <pubDate>Sat, 21 Nov 2026 20:00:53 -0000</pubDate>
+      <sparkle:version>250</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.1 · 2026-11-21
+Исправлено:
+• Длинное название группы в «Словах» больше не ломает слово по буквам: группа теперь тихой строкой под словом.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.1 · 2026-11-21
+Fixed:
+• A long group name in “Words” no longer breaks the word letter by letter: the group is now a quiet line under the word.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.7.1/LanguageApp-0.7.1.apk" length="82224607" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="988bee002cf7b3d6d5cad12e2002b39331bc04bb161dadfc6d80fc901f4f58f7"/>
+    </item>
+    <item>
       <title>LanguageApp 0.7.0</title>
       <pubDate>Sat, 21 Nov 2026 18:50:53 -0000</pubDate>
       <sparkle:version>248</sparkle:version>
