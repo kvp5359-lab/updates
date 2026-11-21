@@ -3,6 +3,22 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.4.4</title>
+      <pubDate>Sat, 21 Nov 2026 22:50:22 -0000</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.4.4 · 2026-11-21
+Изменено:
+• «Сегодня»: дни недели убраны из тёмной карточки, дата стоит сразу под заголовком; соседние дни — стрелками ‹ ›.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.4.4 · 2026-11-21
+Changed:
+• “Today”: the days of the week are gone from the dark card, the date sits right under the title; other days — with the ‹ › arrows.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.4.4/habit-app-0.4.4.apk" length="61444623" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="7245b38e4e1a62d6d9dc13cf8aa1f4d8effedf97888392491594c36bc6c441f2"/>
+    </item>
+    <item>
       <title>Привычки 0.4.3</title>
       <pubDate>Sat, 21 Nov 2026 22:35:36 -0000</pubDate>
       <sparkle:version>48</sparkle:version>
