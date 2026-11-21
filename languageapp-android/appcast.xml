@@ -3,6 +3,22 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.6</title>
+      <pubDate>Sat, 21 Nov 2026 10:14:10 -0000</pubDate>
+      <sparkle:version>238</sparkle:version>
+      <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.6 · 2026-11-21
+Добавлено:
+• В каталоге видно, какие книги уже разобраны на твой язык и насколько («Есть разбор: начало книги»), а наклейка «С разбором» оставит только их. В самой книге в «Кто переводит» появился «Готовый разбор».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.6 · 2026-11-21
+Added:
+• The catalog shows which books already have a ready-made breakdown for your language and how much (“Breakdown: the beginning”), and the “With breakdown” sticker leaves only those. Inside such a book, “Who translates” shows “Ready-made breakdown”.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.6/LanguageApp-0.6.6.apk" length="82142687" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="31d64a5c5699ef5cfc6fbe95c87b1eda608cb66dbb52998049ae903f58ed24b4"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.5</title>
       <pubDate>Sat, 21 Nov 2026 09:42:40 -0000</pubDate>
       <sparkle:version>236</sparkle:version>
