@@ -3,6 +3,26 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.8</title>
+      <pubDate>Sat, 21 Nov 2026 13:44:42 -0000</pubDate>
+      <sparkle:version>243</sparkle:version>
+      <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.8 · 2026-11-21
+Изменено:
+• Первая вкладка теперь «Сегодня»: план дня, что повторить, «Продолжить» — книга и разговор, где ты остановился, и все разделы плитками внизу. Запись речи — карточкой и в своём разделе «Речь».
+• Внизу пять мест: «Сегодня», три твоих раздела и «Ещё». По умолчанию там «Слова», «Чтение» и «Разговор»; поменять — «Нижнее меню» в конце «Сегодня» или в «Ещё». Если часто открываешь другой раздел, приложение один раз предложит поставить его вниз.
+• В «Кто переводит» теперь два понятных варианта — «Телефон» и «Нейросеть». Готовый разбор книги показан над ними и используется всегда, а выбранный вариант переводит то, что ещё не разобрано.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.8 · 2026-11-21
+Changed:
+• The first tab is now “Today”: the day’s plan, what to repeat, “Continue” — the book and the conversation where you stopped, and every section as tiles at the end. Recording is a card there and its own “Speech” section.
+• Five places at the bottom: “Today”, three sections of your choice and “More”. By default “Words”, “Reading” and “Conversation”; change them in “Bottom menu” at the end of “Today” or in “More”. If you often open another section, the app offers once to put it at the bottom.
+• “Who translates” now has two clear options — “Phone” and “AI”. A book’s ready-made breakdown is shown above them and is always used; the chosen one translates what isn’t prepared yet.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.8/LanguageApp-0.6.8.apk" length="82191839" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="e48ee8dbaf02596998bb2c75275e8763243ad889ce0b763593bcfb40cf59839c"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.7</title>
       <pubDate>Sat, 21 Nov 2026 10:55:48 -0000</pubDate>
       <sparkle:version>240</sparkle:version>
