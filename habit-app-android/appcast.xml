@@ -3,6 +3,26 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.4.3</title>
+      <pubDate>Sat, 21 Nov 2026 22:35:36 -0000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.4.3 · 2026-11-21
+Изменено:
+• «Сегодня» стал короче: дата со стрелками вместо полосы дней, неделя — внутри тёмной карточки (нажми на день, чтобы открыть его). Сделанные дела и «Когда-нибудь» свёрнуты в две плашки под полем ввода.
+• Текущая вкладка внизу видна лучше: зелёная подложка и жирное название.
+• Покупки: новая добавляется кнопкой «Готово» на клавиатуре и встаёт в конец списка, текст начинается с большой буквы. Дела в быстром вводе — тоже с большой буквы.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.4.3 · 2026-11-21
+Changed:
+• “Today” is shorter: the date with arrows instead of the row of days, the week inside the dark card (tap a day to open it). Done tasks and “Someday” are folded into two chips under the input.
+• The current tab at the bottom stands out more: a green pill and a bold name.
+• Shopping: a new item is added with “Done” on the keyboard and goes to the end of the list, starting with a capital letter. Quick-add tasks start with a capital letter too.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.4.3/habit-app-0.4.3.apk" length="61444627" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="6c17b3b85077e21c171a73019ef44cbc8b206a30144b3170d519f8b3485a5ce5"/>
+    </item>
+    <item>
       <title>Привычки 0.4.2</title>
       <pubDate>Sat, 21 Nov 2026 20:43:05 -0000</pubDate>
       <sparkle:version>46</sparkle:version>
