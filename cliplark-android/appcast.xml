@@ -3,6 +3,22 @@
   <channel>
     <title>Cliplark</title>
     <item>
+      <title>Cliplark 0.1.2</title>
+      <pubDate>Sat, 21 Nov 2026 18:03:21 -0000</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.2 · 2026-11-21
+Добавлено:
+• Подключить Mac теперь можно по QR-коду: на Mac — Настройки → Синхронизация → «Показать QR-код», здесь — Настройки → «Подключить Mac».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.2 · 2026-11-21
+Added:
+• Connect a Mac with a QR code: on the Mac — Settings → Sync → «Show QR Code», here — Settings → «Connect a Mac».
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-android-0.1.2/Cliplark-0.1.2.apk" length="2943243" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="b4bbc5a47838452b92290e842cf5296911236341a0ba7b6f4de627176d9fce63"/>
+    </item>
+    <item>
       <title>Cliplark 0.1.1</title>
       <pubDate>Sat, 21 Nov 2026 15:16:39 -0000</pubDate>
       <sparkle:version>77</sparkle:version>
