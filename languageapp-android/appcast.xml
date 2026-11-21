@@ -3,6 +3,26 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.9</title>
+      <pubDate>Sat, 21 Nov 2026 17:00:39 -0000</pubDate>
+      <sparkle:version>245</sparkle:version>
+      <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.9 · 2026-11-21
+Изменено:
+• План дня на «Сегодня» стал компактнее: блоки идут шагами в ряд и заливаются по мере выполнения, а кнопка «Дальше» сразу открывает следующий шаг урока.
+• Разделы на «Сегодня» теперь отдельные плашки со значком на цветном квадратике.
+• Нижнее меню больше не пропадает в каталоге, списках, темах и настройках — из них можно сразу перейти в другой раздел. Убирается только там, где ты читаешь книгу, учишь слова, играешь или говоришь.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.9 · 2026-11-21
+Changed:
+• The day’s plan on “Today” is more compact: its blocks are steps in a row that fill as you go, and “Next” opens the lesson’s next step straight away.
+• Sections on “Today” are now tiles of their own, each icon on a coloured square.
+• The bottom menu no longer disappears in the catalog, lists, topics and settings, so you can go to another section from there. It hides only while you read a book, learn words, play or talk.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.9/LanguageApp-0.6.9.apk" length="82191839" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="79eb60c880bdb804ca41dde4b626b4cf02882242ef45eae46a46f47cdb44f7e1"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.8</title>
       <pubDate>Sat, 21 Nov 2026 13:44:42 -0000</pubDate>
       <sparkle:version>243</sparkle:version>
