@@ -3,6 +3,30 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.7.0</title>
+      <pubDate>Sat, 21 Nov 2026 18:50:53 -0000</pubDate>
+      <sparkle:version>248</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.0 · 2026-11-21
+Изменено:
+• «Слова» обновлены: сверху видно, сколько слов новых, в изучении и выученных, а плитки с числами сразу фильтруют список. Слова идут плотным списком, кнопка «Учить» больше не закрывает слова, а нажатие на слово открывает его карточку со всеми действиями.
+• «Что учим» стал нагляднее: «Всё вперемешку» и группы — отдельными плашками со значками, и экран запоминает твой последний выбор.
+• «План дня» обновлён: каждый блок — своя карточка, все игры видны сразу, тема выбирается из списка. Нажми на число, чтобы ввести любое, а не только кратное шагу кнопок.
+Исправлено:
+• Снова пишется «2 слова», «3 слова» — с прошлой версии вместо этого было «2 Слова:».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.0 · 2026-11-21
+Changed:
+• “Words” has a fresh look: you see at once how many words are new, in progress and known, and the tiles with the numbers filter the list. Words sit in a compact list, “Learn” no longer covers them, and tapping a word opens its card with everything you can do with it.
+• “What to learn” is clearer: “All mixed” and the groups are tiles with icons, and the screen remembers your last choice.
+• “Day plan” has a fresh look: each block is its own card, all games are visible at once, and the topic is picked from a list. Tap a number to type any value, not only the buttons’ steps.
+Fixed:
+• Russian word counts read right again («2 слова») — since the last version they showed «2 Слова:».
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.7.0/LanguageApp-0.7.0.apk" length="82224607" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="35151ee08b53e7b015669c120f1521392db9d28550557539f43121a319785e61"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.9</title>
       <pubDate>Sat, 21 Nov 2026 17:00:39 -0000</pubDate>
       <sparkle:version>245</sparkle:version>
