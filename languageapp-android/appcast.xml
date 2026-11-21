@@ -3,6 +3,30 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.4</title>
+      <pubDate>Sat, 21 Nov 2026 08:29:21 -0000</pubDate>
+      <sparkle:version>234</sparkle:version>
+      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.4 · 2026-11-21
+Добавлено:
+• Перевод можно показывать под каждым предложением: настройки чтения → «Перевод под текстом» → «Под предложением». Бесплатно, переводит телефон или берётся готовый перевод книги.
+• Книги из каталога приходят уже разобранными, если их кто-то разобрал раньше: при нажатии на слово — начальная форма, выражения и перевод предложения, без трат подписки и даже без нейросети.
+• В панели слова у книг, которые переводит телефон, — «Разобрать предложение»: нейросеть разбирает одно предложение целиком одним коротким запросом.
+Изменено:
+• Новые книги по умолчанию переводит телефон, а нейросеть включается по выбору. Кнопка «Спросить нейросеть» теперь называется «Что значит здесь».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.4 · 2026-11-21
+Added:
+• A translation can now stand under each sentence: reading settings → “Translation under the text” → “Under each sentence”. Free: the phone translates, or the book’s own translation is used.
+• Catalog books come already prepared if someone prepared them before: tap a word to see its dictionary form, expressions and the sentence’s translation, with no subscription spent and even with no AI.
+• In the word panel of books the phone translates — “Break down the sentence”: the AI explains a whole sentence in one short request.
+Changed:
+• New books are translated by the phone by default; the AI is turned on by choice. “Ask the AI” is now called “What it means here”.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.4/LanguageApp-0.6.4.apk" length="82109919" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="226f95da93376627e676a4521504e5db418388338a01a4a327618cefefc66475"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.3</title>
       <pubDate>Sat, 21 Nov 2026 07:25:50 -0000</pubDate>
       <sparkle:version>232</sparkle:version>
