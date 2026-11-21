@@ -3,6 +3,34 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.3</title>
+      <pubDate>Sat, 21 Nov 2026 07:25:50 -0000</pubDate>
+      <sparkle:version>232</sparkle:version>
+      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.3 · 2026-11-21
+Добавлено:
+• В каталоге у историй появились картинки и уровень, а сверху — выбор уровня. Картинки есть и на каждой странице истории.
+• У книг в каталоге — обложки и примерный объём в страницах, а наклейка «Детские и простые» оставит только лёгкие книги.
+• Уже добавленная история или книга помечена «в библиотеке» и открывается, а не добавляется второй раз. В библиотеке у книг из каталога — обложки.
+Исправлено:
+• Книги в каталоге снова загружаются: список теперь приходит с нашего сервера, а сама книга, если сайт Gutenberg закрыт, скачивается с его зеркала.
+• Если учишь английский, у историй без русского перевода больше не пишется «перевод: английский» — честно написано «без перевода».
+• Для языков, на которых историй нет, каталог так и говорит, а не «Источник не отвечает».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.3 · 2026-11-21
+Added:
+• Stories in the catalog have pictures and a level, with a level picker on top. Each page of a story has its picture too.
+• Books in the catalog have covers and an approximate length in pages; the “Children’s and easy” sticker leaves only easy books.
+• A story or book you already added is marked “in library” and opens instead of being added twice. Catalog books show their covers in the library.
+Fixed:
+• Books in the catalog load again: the list now comes from our server, and a book is downloaded from Gutenberg’s mirror when its site is down.
+• When learning English, stories without a Russian translation no longer say “translation: English” — they honestly say “no translation”.
+• For languages with no stories, the catalog says so instead of “The source isn’t answering”.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.3/LanguageApp-0.6.3.apk" length="82077151" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="fff08a6b177b81519a894e94ed23809b7388d04091efc28088cf67af0f1263a8"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.2</title>
       <pubDate>Fri, 20 Nov 2026 15:09:13 -0000</pubDate>
       <sparkle:version>230</sparkle:version>
