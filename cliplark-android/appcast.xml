@@ -3,6 +3,22 @@
   <channel>
     <title>Cliplark</title>
     <item>
+      <title>Cliplark 0.1.1</title>
+      <pubDate>Sat, 21 Nov 2026 15:16:39 -0000</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.1 · 2026-11-21
+Добавлено:
+• Вход через Google: Настройки → «Аккаунт kvp» → «Продолжить с Google». Код из письма тоже работает.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.1 · 2026-11-21
+Added:
+• Sign in with Google: Settings → «kvp Account» → «Continue with Google». A code from an email works too.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-android-0.1.1/Cliplark-0.1.1.apk" length="2943243" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="b88c56c6cd6f502b38fb41c5809b2da9d9d2ba6db9e741c25581ab861f612b6f"/>
+    </item>
+    <item>
       <title>Cliplark 0.1.0</title>
       <pubDate>Sat, 21 Nov 2026 14:44:10 -0000</pubDate>
       <sparkle:version>74</sparkle:version>
