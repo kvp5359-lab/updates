@@ -3,6 +3,60 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.2.0</title>
+      <pubDate>Sat, 21 Nov 2026 12:13:53 -0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.0 · 2026-11-21
+Добавлено:
+• Дела: на «Сегодня» под привычками — блок «Дела». Квадратик — сделано, нажатие — открыть, долгое нажатие — «На завтра», «В Когда-нибудь», «Пропустить этот раз».
+• Быстрое дело: внизу блока набери текст и нажми Enter — оно сразу на сегодня.
+• Не успел — дело само переедет на следующий день с пометкой «перенесено».
+• Повторяющиеся дела («Оплатить квартиру каждое 1-е»): следующий раз появляется, когда отметишь этот. Срок можно считать по расписанию или от дня, когда сделал.
+• «Когда-нибудь» — дела без дня: ссылка под блоком «Дела», оттуда одним нажатием на сегодня или завтра.
+• У дела есть время, длительность, напоминания с кнопкой «Сделано», цвет, заметка и событие в Google Календаре.
+• Кнопка «Добавить» спрашивает: привычка или дело.
+• Дела видны в «Неделе» (строка «сделано / всего» по дням), в календаре и в статистике.
+• Семья: родитель может дать ребёнку поручение — оно появится у ребёнка в «Сегодня», а родитель увидит, сделано ли.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.0 · 2026-11-21
+Added:
+• Tasks: a “Tasks” block under the habits on “Today”. The box marks done, a tap opens, a long press — “Tomorrow”, “Someday”, “Skip this time”.
+• Quick task: type at the bottom of the block and press Enter — it is on today at once.
+• Not done — a task moves to the next day by itself, marked “moved”.
+• Repeating tasks (“Pay the rent on the 1st”): the next time appears when you mark this one, counted by the schedule or from the day you did it.
+• “Someday” — tasks with no day: a link under “Tasks”, one tap puts one on today or tomorrow.
+• A task has a time, a length, reminders with a “Done” button, a colour, a note and an event in Google Calendar.
+• The “Add” button asks: a habit or a task.
+• Tasks show in “Week” (done / all per day), in the calendar and in statistics.
+• Family: a parent can give a child a chore — it appears on the child’s “Today”, and the parent sees whether it is done.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.2.0/habit-app-0.2.0.apk" length="59841342" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="3f1817b799c9c6217a4236ff9c3106e38f9596e9a1856e4b63ef4a87b0d8c0e1"/>
+    </item>
+    <item>
+      <title>Привычки 0.1.4</title>
+      <pubDate>Sat, 21 Nov 2026 11:38:03 -0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.4 · 2026-11-21
+Добавлено:
+• «Настройки привычки» в меню, которое открывается долгим нажатием — на «Сегодня», в «Неделе» и в календаре привычки.
+Изменено:
+• «Назад» на любой вкладке сначала возвращает на «Сегодня», и только оттуда закрывает приложение.
+• Приложение запоминает выбранный вид: «Месяц», «Неделя» или «День» в календаре и период в статистике.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.4 · 2026-11-21
+Added:
+• “Habit settings” in the menu a long press opens — on “Today”, in “Week” and in a habit’s calendar.
+Changed:
+• “Back” on any tab first returns to “Today”, and only there closes the app.
+• The app remembers the view you chose: “Month”, “Week” or “Day” in the calendar and the period in statistics.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.1.4/habit-app-0.1.4.apk" length="59476538" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="5d7038d9eb1f7bcb990456136a2eee5199f8b13a173a27894e560ad49c2a311a"/>
+    </item>
+    <item>
       <title>Привычки 0.1.3</title>
       <pubDate>Thu, 19 Nov 2026 20:46:31 -0000</pubDate>
       <sparkle:version>19</sparkle:version>
