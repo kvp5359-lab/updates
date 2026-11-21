@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>Cliplark</title>
+    <item>
+      <title>Cliplark 0.1.0</title>
+      <pubDate>Sat, 21 Nov 2026 14:44:10 -0000</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.0 · 2026-11-21
+Добавлено:
+• История буфера обмена на телефоне: тексты, ссылки, цвета и картинки, поиск, списки с Mac. Нажми на карточку — она снова в буфере.
+• Сохранить копию можно четырьмя способами: открыть Cliplark, плитка «Сохранить буфер» в шторке, «Поделиться» → Cliplark или пункт «Cliplark» в меню выделенного текста. Android не даёт приложениям читать буфер в фоне.
+• Синхронизация с Mac через аккаунт kvp (вход по коду из письма). Телефон подключается к Mac по QR-коду; всё шифруется на твоих устройствах — прочитать историю не можем даже мы.
+• Скопировал на Mac — на телефоне можно сразу вставлять, пока Cliplark открыт (Настройки → «Копии с Mac — сразу в буфер»).
+• Новые версии приходят сами: Cliplark предложит обновиться и покажет, что нового. Проверить вручную — Настройки → «Обновления».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.0 · 2026-11-21
+Added:
+• Clipboard history on the phone: texts, links, colors and pictures, search, lists from the Mac. Tap a card to put it back on the clipboard.
+• Four ways to save a copy: open Cliplark, the «Save clipboard» tile in the quick settings, Share → Cliplark, or «Cliplark» in the menu of selected text. Android doesn't let apps read the clipboard in the background.
+• Sync with the Mac through the kvp account (sign in with a code from an email). The phone connects to the Mac with a QR code; everything is encrypted on your devices — not even we can read your history.
+• Copy on the Mac, paste on the phone right away while Cliplark is open (Settings → «Copies from the Mac to the clipboard»).
+• New versions come by themselves: Cliplark offers to update and shows what's new. To check by hand — Settings → «Updates».
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-android-0.1.0/Cliplark-0.1.0.apk" length="2943243" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="d1e0c4fe9dca21198d601946e08d807bda69fdf326bf3b5515ed5ef9675dca84"/>
+    </item>
+  </channel>
+</rss>
