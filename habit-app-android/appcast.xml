@@ -3,6 +3,54 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.4.0</title>
+      <pubDate>Sat, 21 Nov 2026 18:35:18 -0000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.4.0 · 2026-11-21
+Изменено:
+• «Неделя» и «Календарь» теперь одна вкладка «План»: вверху переключатель «Неделя · Месяц · День». Подсказка, как отмечать кружки, — под знаком «?».
+• Заголовки вкладок стали компактнее — на экран влезает больше.
+• Статистика показывает серии и рекорды: текущая серия и лучшая у каждой привычки.
+• На «Неделе» длинные названия привычек больше не обрезаются, и можно листать вперёд, чтобы спланировать следующую неделю.
+• На «Сегодня» сначала дела, под ними привычки. Общей кнопки «Добавить» больше нет: дело пишешь прямо в строке «Дело на сегодня», привычку добавляешь кнопкой «+ Привычка» у заголовка «Привычки».
+Исправлено:
+• Клавиатура больше не закрывает поле, в которое пишешь: заметку к дню, желание, быстрое дело внизу списка.
+Добавлено:
+• Виджет на экран телефона «Привычки на сегодня»: дела и привычки дня, нажми на строку — отмечено. Добавь его, удержав пустое место на экране → «Виджеты».
+• Готовые привычки: на экране новой привычки — «Вода», «Зарядка», «Чтение», «Без сладкого» и другие в одно касание.
+• Пункты в деле: например «Собрать в поездку» — паспорт, зарядка, билеты. Под делом видно, сколько отмечено.
+• Общий список покупок семьи на вкладке «Семья»: добавил — видят все, купил — отметь, и купленное само уберётся на следующий день.
+• Дежурства по очереди: в общем деле выбери «По очереди» — каждый раз оно достаётся следующему, например «Вынести мусор».
+• Дни рождения: удержи кружок человека в «Семье» → «День рождения». За неделю до праздника на «Сегодня» появится напоминание со ссылкой на его вишлист.
+• Итоги недели: в воскресенье и понедельник на «Сегодня» — как прошла неделя, лучшая привычка, самая длинная серия, сколько дел сделано.
+• Название семьи можно поменять: карандаш вверху вкладки «Семья» (это могут только взрослые).
+• Удержи кружок человека в «Семье» — там «Переименовать» и «Сделать взрослым» / «Сделать ребёнком». Своё имя может поменять каждый.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.4.0 · 2026-11-21
+Changed:
+• “Week” and “Calendar” are one tab now, “Plan”: “Week · Month · Day” at the top. How to mark the circles — under the “?”.
+• Tab titles are more compact — more fits on the screen.
+• Statistics show series and records: each habit’s current series and its best.
+• Long habit names no longer get cut on “Week”, and you can go forward to plan the next week.
+• “Today” shows tasks first, habits under them. No shared “Add” button: type a task right in “Task for today”, add a habit with “+ Habit” by the “Habits” heading.
+Fixed:
+• The keyboard no longer covers the field you type in: a day’s note, a wish, a quick task at the bottom of the list.
+Added:
+• A home-screen widget, “Habits for today”: the day’s tasks and habits, tap a line to mark it. Add it by holding an empty spot of the home screen → “Widgets”.
+• Ready habits: “Water”, “Morning exercise”, “Reading”, “No sweets” and more, in one tap on the new habit screen.
+• A checklist in a task: “Pack for the trip” — passport, charger, tickets. The task shows how many are ticked.
+• The family’s shopping list on “Family”: add — everyone sees it, bought — tick it, and bought items go away the next day.
+• Duties in turn: in a family task pick “In turn” — each time it goes to the next person, like “Take out the trash”.
+• Birthdays: hold a person’s circle in “Family” → “Birthday”. A week before, “Today” reminds you, with a link to their wish list.
+• The week’s summary: on Sunday and Monday “Today” shows how the week went, the best habit, the longest series, the tasks done.
+• Rename the family: the pencil at the top of “Family” (adults only).
+• Hold a person’s circle in “Family” for “Rename” and “Make an adult” / “Make a child”. Anyone can change their own name.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.4.0/habit-app-0.4.0.apk" length="60680254" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="baf1e0348258c40c2a18c71c7b4d17d91a8f4a8bb640f67c190c659443d27217"/>
+    </item>
+    <item>
       <title>Привычки 0.3.1</title>
       <pubDate>Sat, 21 Nov 2026 15:34:03 -0000</pubDate>
       <sparkle:version>34</sparkle:version>
