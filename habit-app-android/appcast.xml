@@ -3,6 +3,26 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.4.2</title>
+      <pubDate>Sat, 21 Nov 2026 20:43:05 -0000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.4.2 · 2026-11-21
+Добавлено:
+• Уровни за звёзды: Новичок → Помощник → Мастер → Герой → Легенда. Уровень растёт от всех заработанных звёзд, траты его не уменьшают; видно, сколько осталось до следующего.
+• «Коплю на…»: в «Мои звёзды» нажми 🎯 у награды — вверху «Сегодня» появится полоска, сколько звёзд ещё нужно.
+• Значки: «Неделя подряд», «Помощник семьи», «Мечта сбылась» и другие — коллекция в «Мои звёзды». Новый уровень или значок встречает «Ура!».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.4.2 · 2026-11-21
+Added:
+• Levels for stars: Beginner → Helper → Master → Hero → Legend. A level grows with all stars ever earned, spending doesn’t lower it; you see how many are left to the next one.
+• “Saving for…”: tap 🎯 by a reward in “My stars” — “Today” shows a bar of how many stars are still needed.
+• Badges: “A week in a row”, “Family helper”, “Dream came true” and more — a collection in “My stars”. A new level or badge is met with a “Hooray!”.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.4.2/habit-app-0.4.2.apk" length="61428239" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="f2798e0d45e9927005a12987048e952bd646044adbb3c658fbec020defb0a752"/>
+    </item>
+    <item>
       <title>Привычки 0.4.1</title>
       <pubDate>Sat, 21 Nov 2026 19:41:00 -0000</pubDate>
       <sparkle:version>44</sparkle:version>
