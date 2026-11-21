@@ -3,6 +3,24 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.3.1</title>
+      <pubDate>Sat, 21 Nov 2026 15:34:03 -0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.1 · 2026-11-21
+Изменено:
+• Позвать в семью теперь можно по QR: «Семья» → «Пригласить» → имя → QR. Ребёнку и жене не нужна ни почта, ни пароль — наведи камеру их телефона, и они сразу в семье.
+• Новый телефон или планшет у ребёнка: удержи его кружок в «Семье» → «Подключить ещё телефон».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.1 · 2026-11-21
+Changed:
+• Inviting to the family is a QR now: “Family” → “Invite” → a name → a QR. A child or a partner needs no mail and no password — point their phone’s camera, and they are in.
+• A child’s new phone or tablet: hold their circle in “Family” → “Connect one more phone”.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.3.1/habit-app-0.3.1.apk" length="60319584" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="e180591e71bd5ed616aea334eaf439838b79750c8bdce7a6f2880e076f6b9635"/>
+    </item>
+    <item>
       <title>Привычки 0.3.0</title>
       <pubDate>Sat, 21 Nov 2026 15:09:40 -0000</pubDate>
       <sparkle:version>31</sparkle:version>
