@@ -3,6 +3,26 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.2.2</title>
+      <pubDate>Sat, 21 Nov 2026 13:39:32 -0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.2 · 2026-11-21
+Добавлено:
+• Длительность — «Без длительности» или своя («Другая…»: часы и минуты) у дел и привычек, в меню «В план» тоже. Время больше не ставит 30 минут само.
+• Настройка привычки «Календарь»: «Не показывать», «В приложении» или «В приложении и Google». Воду или зубы можно убрать из календаря — на «Сегодня» и в «Неделе» они остаются.
+• Пока скачивается обновление, в окне виден список изменений, а полоса загрузки — новая, волнистая, с процентами.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.2 · 2026-11-21
+Added:
+• Length — “No length” or your own (“Other…”: hours and minutes) for tasks and habits, in the “Plan” menu too. Picking a time no longer sets 30 minutes by itself.
+• A habit’s “Calendar” setting: “Don’t show”, “In the app” or “In the app and Google”. Water or teeth can leave the calendar — they stay on “Today” and in “Week”.
+• While an update downloads, the window keeps showing what is new, with a new wavy progress line and the percent.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.2.2/habit-app-0.2.2.apk" length="59857726" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="bbb6a7873601712f365196b3198408dddbeeb0175dc2131327fdf81be9a61946"/>
+    </item>
+    <item>
       <title>Привычки 0.2.1</title>
       <pubDate>Sat, 21 Nov 2026 12:50:37 -0000</pubDate>
       <sparkle:version>25</sparkle:version>
