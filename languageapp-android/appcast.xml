@@ -3,6 +3,26 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.7</title>
+      <pubDate>Sat, 21 Nov 2026 10:55:48 -0000</pubDate>
+      <sparkle:version>240</sparkle:version>
+      <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.7 · 2026-11-21
+Изменено:
+• Внизу книги теперь одна узкая строка: состояние перевода, шкала и значок настроек. Все настройки книги — кто переводит, перевод под текстом, листание, шрифт — собраны в одном окне.
+Исправлено:
+• Перевод под предложением больше не повторяется дважды, когда нейросеть считает несколько коротких предложений одним.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.7 · 2026-11-21
+Changed:
+• The bottom of a book is now one thin line: the translation’s state, the progress bar and the settings icon. All of a book’s settings — who translates, translation under the text, turning pages, the font — are in one sheet.
+Fixed:
+• The translation under sentences no longer shows twice when the AI takes several short sentences as one.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.7/LanguageApp-0.6.7.apk" length="82142687" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="6c8a1913f603083deaf427b1490a386b86c51d1364c1d1dff390417fd7dac7f4"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.6</title>
       <pubDate>Sat, 21 Nov 2026 10:14:10 -0000</pubDate>
       <sparkle:version>238</sparkle:version>
