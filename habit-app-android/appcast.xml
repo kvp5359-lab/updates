@@ -3,6 +3,22 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.4.1</title>
+      <pubDate>Sat, 21 Nov 2026 19:41:00 -0000</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.4.1 · 2026-11-21
+Исправлено:
+• Версия 0.4.0 закрывалась сразу при запуске. Теперь открывается как обычно.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.4.1 · 2026-11-21
+Fixed:
+• Version 0.4.0 closed right at launch. It opens as usual now.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.4.1/habit-app-0.4.1.apk" length="61395471" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="2b2ca6ea19388810dd74222307ae7610b8f9e317d75f7411631d57b45ddec6fa"/>
+    </item>
+    <item>
       <title>Привычки 0.4.0</title>
       <pubDate>Sat, 21 Nov 2026 18:35:18 -0000</pubDate>
       <sparkle:version>42</sparkle:version>
