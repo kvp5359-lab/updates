@@ -3,6 +3,34 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.3.0</title>
+      <pubDate>Sat, 21 Nov 2026 15:09:40 -0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.0 · 2026-11-21
+Добавлено:
+• Семья — отдельная вкладка: создай семью, позови взрослых и детей кодом из 6 цифр. Настройки — шестерёнка на «Сегодня».
+• Общие дела: в деле «Кому» — себе, кому-то из семьи или всем; «кто-нибудь» или «каждый». У назначенных дело на «Сегодня», все видят, кто сделал.
+• Звёзды: взрослый ставит звёзды привычкам и делам, за сделанное они начисляются сами (неделя подряд — бонус), можно начислить или списать вручную.
+• Награды за звёзды: взрослый задаёт награду ребёнку («30 минут мультиков — 20 ⭐»), ребёнок получает её, когда накопит. Баланс — в шапке «Сегодня».
+• Вишлисты: свой список желаний со ссылкой, ценой и поводом; у чужого — «Я подарю», а хозяин не видит, кто и что дарит.
+Исправлено:
+• У взрослого в «Сегодня» больше не могут появиться привычки ребёнка.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.0 · 2026-11-21
+Added:
+• Family — a tab of its own: create a family, invite adults and children with a 6-digit code. Settings — the gear on “Today”.
+• Family tasks: a task’s “For” — yourself, someone of the family or everyone; “anyone” or “each”. It is on their “Today”, everyone sees who did it.
+• Stars: an adult gives habits and tasks stars, they come by themselves for what is done (a week in a row — a bonus), or by hand.
+• Rewards for stars: an adult sets a reward for a child (“30 minutes of cartoons — 20 ⭐”), the child takes it when there are enough. The balance is on “Today”.
+• Wish lists: your own wishes with a link, a price and an occasion; on someone else’s — “I’ll give it”, hidden from the list’s owner.
+Fixed:
+• An adult’s “Today” no longer can show a child’s habits.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.3.0/habit-app-0.3.0.apk" length="60037954" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="9fce36eee38e37f828a563ed9a817b662cbd43a7c6f70af956b9c47a07ed1096"/>
+    </item>
+    <item>
       <title>Привычки 0.2.2</title>
       <pubDate>Sat, 21 Nov 2026 13:39:32 -0000</pubDate>
       <sparkle:version>28</sparkle:version>
