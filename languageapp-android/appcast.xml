@@ -3,6 +3,28 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.6.5</title>
+      <pubDate>Sat, 21 Nov 2026 09:42:40 -0000</pubDate>
+      <sparkle:version>236</sparkle:version>
+      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.5 · 2026-11-21
+Добавлено:
+• Внизу книги — две кнопки: «Кто переводит» и «Перевод под текстом». В каждой видно, что даёт каждый вариант и сколько стоит, а то, что для этой книги включить нельзя, стоит серым с объяснением.
+• Новый режим «По нажатию»: текст остаётся чистым, а нажмёшь на слово — сразу увидишь перевод всего предложения.
+• Перевод под абзацем и под предложением теперь работает и при чтении по страницам.
+• Над шкалой видно, что сейчас с переводом: «Готовый разбор книги · бесплатно» или «Готовлю перевод этого места…».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.5 · 2026-11-21
+Added:
+• Two buttons at the bottom of a book: “Who translates” and “Translation under the text”. Each option says what it gives and what it costs, and what can’t be turned on for this book is grey with the reason.
+• New “On tap” mode: the text stays clean, and tapping a word shows the whole sentence’s translation at once.
+• Translation under paragraphs and sentences now works when reading page by page too.
+• A line above the progress bar says what’s happening with the translation: “Ready-made breakdown · free” or “Preparing the translation of this place…”.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.6.5/LanguageApp-0.6.5.apk" length="82126303" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="1ec12d155ddec6209daa525655db0d84d105a021bda862d4bad9e29a4b8fd861"/>
+    </item>
+    <item>
       <title>LanguageApp 0.6.4</title>
       <pubDate>Sat, 21 Nov 2026 08:29:21 -0000</pubDate>
       <sparkle:version>234</sparkle:version>
