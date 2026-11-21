@@ -3,6 +3,24 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.2.1</title>
+      <pubDate>Sat, 21 Nov 2026 12:50:37 -0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.1 · 2026-11-21
+Изменено:
+• «Когда-нибудь»: у каждого дела кнопка «В план» — выбери день, потом время и сколько займёт, всё в одном меню.
+• На «Сегодня» у дела значок календаря — так же быстро перенести на другой день и время.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.1 · 2026-11-21
+Changed:
+• “Someday”: each task has a “Plan” button — pick a day, then a time and how long, all in one small menu.
+• On “Today” a task has a calendar icon — move it to another day and time just as fast.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.2.1/habit-app-0.2.1.apk" length="59841342" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="02662b58410c48e8910743c4265d2ef344583045a822fd06290ad9401e90bc68"/>
+    </item>
+    <item>
       <title>Привычки 0.2.0</title>
       <pubDate>Sat, 21 Nov 2026 12:13:53 -0000</pubDate>
       <sparkle:version>23</sparkle:version>
