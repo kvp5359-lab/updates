@@ -3,6 +3,26 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.7.0</title>
+      <pubDate>Sun, 22 Nov 2026 21:48:37 -0000</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.0 · 2026-11-22
+Изменено:
+• «Сегодня» — один список дел, привычек и покупок. Сверху выбираешь, как его сложить: списком по времени, по видам, по времени суток (утро, день, вечер) или по людям.
+• У привычки вместо пустого кружка — её значок в кольце: кольцо заполняется, а значок становится ярче с каждым разом. Покупка — оранжевый квадрат с корзинкой, дело — серый квадрат.
+• Сделанное уходит вниз в свёрнутое «Сделано», рядом — «Когда-нибудь». Вид «кружками» остался как был.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.0 · 2026-11-22
+Changed:
+• “Today” is one list of tasks, habits and purchases. Choose on top how to lay it out: by time, by kind, by part of the day (morning, day, evening) or by person.
+• A habit shows its own icon in a ring instead of an empty circle: the ring fills and the icon brightens with each time. A purchase is an orange square with a cart, a task a grey square.
+• What's done goes down into a folded “Done”, next to “Someday”. The “circles” view stays as it was.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.7.0/habit-app-0.7.0.apk" length="61493775" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="e62d31c4a280b1a92a02dd481c5206349db3c2956e4a8824d0890bb93089e127"/>
+    </item>
+    <item>
       <title>Привычки 0.6.0</title>
       <pubDate>Sun, 22 Nov 2026 11:43:56 -0000</pubDate>
       <sparkle:version>55</sparkle:version>
