@@ -3,6 +3,24 @@
   <channel>
     <title>LanguageApp</title>
     <item>
+      <title>LanguageApp 0.7.2</title>
+      <pubDate>Sun, 22 Nov 2026 22:01:10 -0000</pubDate>
+      <sparkle:version>252</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.2 · 2026-11-22
+Исправлено:
+• Уже разобранный текст в читалке больше не бледнеет и не мигает при листании, будто разбирается заново: он сразу чёткий.
+• Страницы в читалке заполняются до низа: абзац, который не помещается, продолжается на следующей странице, а не уходит туда целиком.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.2 · 2026-11-22
+Fixed:
+• Text in the reader that's already prepared no longer turns pale and flickers when you turn pages, as if it were being prepared again: it's clear at once.
+• Reader pages are filled to the bottom: a paragraph that doesn't fit goes on to the next page instead of moving there whole.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/languageapp-android-0.7.2/LanguageApp-0.7.2.apk" length="82224607" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="2818d5db265a9b20a80ce844f2baf73c1ff119a701b88aafbf79021688c22aad"/>
+    </item>
+    <item>
       <title>LanguageApp 0.7.1</title>
       <pubDate>Sat, 21 Nov 2026 20:00:53 -0000</pubDate>
       <sparkle:version>250</sparkle:version>
