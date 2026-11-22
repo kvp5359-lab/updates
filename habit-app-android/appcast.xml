@@ -3,6 +3,26 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.6.0</title>
+      <pubDate>Sun, 22 Nov 2026 11:43:56 -0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.0 · 2026-11-22
+Добавлено:
+• Одна форма «Новое» для привычки, дела и покупки: кнопка «Новое» на «Сегодня». Сразу можно выбрать, кому и когда; время, напоминания и звёзды — по «Подробнее».
+• «Сегодня» в семье: сверху «Мне · Семье · Всё» — свои дела, дела всей семьи или всё вместе. Там же покупки, которые нужно сделать тебе или к сегодняшнему дню.
+• Покупки: удержи строку — кому купить, к какому дню и «покупать каждую неделю». Купленная еженедельная покупка на следующий день возвращается в список сама.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.0 · 2026-11-22
+Added:
+• One “New” form for a habit, a task and a purchase: the “New” button on “Today”. Choose whom and when right away; time, reminders and stars — under “More”.
+• “Today” in a family: “Me · Family · All” on top — your tasks, the whole family’s, or everything. Purchases due for you or by today are there too.
+• Shopping: hold a line — whom to buy it, by when, and “buy every week”. A weekly purchase comes back to the list by itself the next day.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.6.0/habit-app-0.6.0.apk" length="61461007" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="6ae60b61e5eeec59fd806f4fc3c51dadbc5878b96ac7931e7d53b38db98b08c3"/>
+    </item>
+    <item>
       <title>Привычки 0.5.0</title>
       <pubDate>Sun, 22 Nov 2026 10:44:09 -0000</pubDate>
       <sparkle:version>53</sparkle:version>
