@@ -3,6 +3,22 @@
   <channel>
     <title>Привычки</title>
     <item>
+      <title>Привычки 0.5.0</title>
+      <pubDate>Sun, 22 Nov 2026 10:44:09 -0000</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.5.0 · 2026-11-22
+Изменено:
+• Привычки, дела, семейные дела и покупки теперь хранятся вместе — основа для общих возможностей у всех них. Записи переезжают сами при первом запуске; обнови приложение на всех телефонах семьи, иначе старая версия не увидит новых изменений.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.5.0 · 2026-11-22
+Changed:
+• Habits, tasks, family tasks and shopping are now stored together — the base for features shared by all of them. Records move by themselves on first launch; update the app on every phone of the family, or an older version won’t see new changes.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/habit-app-android-0.5.0/habit-app-0.5.0.apk" length="61444623" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="f2d7de7621d0174ee7971aa088db2436b2bad517eddea3b22b566a9d8ae77953"/>
+    </item>
+    <item>
       <title>Привычки 0.4.4</title>
       <pubDate>Sat, 21 Nov 2026 22:50:22 -0000</pubDate>
       <sparkle:version>51</sparkle:version>
