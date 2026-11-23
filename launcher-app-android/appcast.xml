@@ -3,6 +3,22 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.2.0</title>
+      <pubDate>Mon, 23 Nov 2026 08:07:39 -0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.0 · 2026-11-23
+Добавлено:
+• Лента — новый тип страницы, как в AIO Launcher: блоки во всю ширину идут один под другим, у каждого заголовок, нажатие сворачивает его. Добавить — режим правки → «Новая страница» → «Лента»; порядок и высота — стрелками и ⚙ над блоками.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.0 · 2026-11-23
+Added:
+• The feed — a new kind of page, like AIO Launcher: full-width blocks one under another, each with a title that folds it on tap. Add it in edit mode → New page → Feed; order and height — the arrows and ⚙ over each block.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.2.0/Blocks-0.2.0.apk" length="4101520" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="a9ecb262836de3e54975cd6fc45a461c696e44d4c3269d81219a09623a147ed9"/>
+    </item>
+    <item>
       <title>Блоки 0.1.0</title>
       <pubDate>Mon, 23 Nov 2026 07:00:15 -0000</pubDate>
       <sparkle:version>20</sparkle:version>
