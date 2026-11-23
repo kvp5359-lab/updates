@@ -3,6 +3,108 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.5.0</title>
+      <pubDate>Mon, 23 Nov 2026 13:05:12 -0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.5.0 · 2026-11-23
+Изменено:
+• Все экраны настроек стали компактнее: варианты выбираются кнопками в одну строку, значение списка видно справа в той же строке, действия с профилем и страницей — рядом маленьких кнопок, форма значков показана образцами, «Новый блок» — плитками с картинками. Пояснения короче.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.5.0 · 2026-11-23
+Changed:
+• All settings screens are more compact: choices are buttons in one row, a list's value sits on the right of its row, profile and page actions are a row of small buttons, icon shapes show as samples, "New block" is tiles with pictures. Shorter notes.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.5.0/Blocks-0.5.0.apk" length="4150672" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="58bf95e0feaf2c5c03cabf28086674e90843bf681d56dce4993156c62933e2fa"/>
+    </item>
+    <item>
+      <title>Блоки 0.4.1</title>
+      <pubDate>Mon, 23 Nov 2026 12:18:09 -0000</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.4.1 · 2026-11-23
+Изменено:
+• В меню отдельного значка на главном экране появился пункт «Убрать с экрана». «Скрыть из списка» теперь только в общем списке приложений.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.4.1 · 2026-11-23
+Changed:
+• A single icon on the home screen now has "Remove from screen" in its menu. "Hide from list" is now only in the list of all apps.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.4.1/Blocks-0.4.1.apk" length="4134288" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="1b66b8f8761a7072079d382dba0d7134cd6debffaf66f3fb1abfd83925e5ba16"/>
+    </item>
+    <item>
+      <title>Блоки 0.4.0</title>
+      <pubDate>Mon, 23 Nov 2026 12:10:11 -0000</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.4.0 · 2026-11-23
+Добавлено:
+• Приложение можно перетащить из списка всех приложений прямо на главный экран: зажми значок и веди. Отпустишь на пустом месте — появится отдельный значок; над папкой или рядом значков остальные раздвинутся и покажут, каким по счёту оно встанет. Подержи над папкой-плиткой — она откроется, и место выберешь внутри. У края экрана перелистнётся страница.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.4.0 · 2026-11-23
+Added:
+• Drag an app from the list of all apps straight onto the home screen: hold its icon and move. Let go on free space for its own icon; over a folder or a row of icons the others make room and show which place it takes. Hold over a folder tile and it opens so you pick the place inside. Near a screen edge the page turns.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.4.0/Blocks-0.4.0.apk" length="4134288" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="f1a57fb526b8e014d5ebf918c0484ea2d14a9f708a9fad24a3a4927eb1d5f055"/>
+    </item>
+    <item>
+      <title>Блоки 0.3.2</title>
+      <pubDate>Mon, 23 Nov 2026 11:40:55 -0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.2 · 2026-11-23
+Изменено:
+• В настройках страницы число клеток в ширину и в высоту меняется кнопками − и + в одной строке.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.2 · 2026-11-23
+Changed:
+• In page settings, cells across and down change with − and + in one row.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.3.2/Blocks-0.3.2.apk" length="4117904" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="5e5649d1bcf7a3fb65d7f4323c370626f97c4d020d70205aeedcfc925cb40f83"/>
+    </item>
+    <item>
+      <title>Блоки 0.3.1</title>
+      <pubDate>Mon, 23 Nov 2026 11:16:47 -0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.1 · 2026-11-23
+Исправлено:
+• Ползунки в настройках блока и страницы начинаются на одной линии.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.1 · 2026-11-23
+Fixed:
+• Sliders in block and page settings now start on one line.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.3.1/Blocks-0.3.1.apk" length="4117904" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="c3aa925e38b7700f8319a872041541cea58305710a7d61314c3d3946e51ea45d"/>
+    </item>
+    <item>
+      <title>Блоки 0.3.0</title>
+      <pubDate>Mon, 23 Nov 2026 11:11:40 -0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.3.0 · 2026-11-23
+Добавлено:
+• Подписи под значками включаются для всей страницы сразу: правка → настройки страницы → «Подписи под значками». У отдельного блока можно выбрать иначе: настройки блока → «Больше» → «Подписи под значками».
+Изменено:
+• Высота блоков теперь меняется шагом в треть клетки, как и ширина: ⅔, 1, 1⅓, 1⅔… Блоки разной высоты ровнее складываются друг с другом. Самый низкий блок — ⅔ клетки. Твоя раскладка пересчитается сама; блоки высотой в полклетки могут стать чуть выше или ниже.
+• В узком столбце значков подписи прячутся сами, если им не хватает места.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.3.0 · 2026-11-23
+Added:
+• Names under icons are set for the whole page at once: edit mode → page settings → "Names under icons". A single block can differ: block settings → "More" → "Names under icons".
+Changed:
+• Block height now changes in thirds of a cell, like the width: ⅔, 1, 1⅓, 1⅔… Blocks of different heights line up better. The lowest block is ⅔ of a cell. Your layout is converted on its own; blocks half a cell tall may get slightly taller or shorter.
+• In a narrow column of icons, the names hide by themselves when there's no room for them.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.3.0/Blocks-0.3.0.apk" length="4117904" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="9f0285581d0c0dcc93b9628abb14cd6746bc658f11477e427137d0c49df58e87"/>
+    </item>
+    <item>
       <title>Блоки 0.2.1</title>
       <pubDate>Mon, 23 Nov 2026 10:58:23 -0000</pubDate>
       <sparkle:version>27</sparkle:version>
