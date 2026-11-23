@@ -3,6 +3,42 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.0</title>
+      <pubDate>Mon, 23 Nov 2026 16:42:18 -0000</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.0 · 2026-11-23
+Добавлено:
+• После удаления блока или страницы внизу появляется «Отменить» — всё вернётся как было.
+• Цвет текста на главном экране сам подстраивается под обои: тёмный на светлых, светлый на тёмных. Выбрать вручную можно в «Настройки → Оформление → Текст».
+Изменено:
+• Настройки стали чище. Сверху — «Оформление»: форма и стиль значков, текст, точки страниц. Профили и вход в облако переехали вниз.
+• Окна блока и страницы открываются на половину экрана, главный экран под ними почти не затемняется — изменения видно сразу. Название блока или страницы — сам заголовок окна, его можно сразу переименовать.
+• В окне блока сначала то, что в нём и как он выглядит. Размер, подписи, счётчики и свой вид значков — под «Ещё». Раскладка показана картинками, у ползунков видно число, лишние настройки (углы без фона, заголовок у часов) больше не показываются.
+• «Новый блок» и «Новая страница» — с пояснением к каждому варианту. Столбец значков и папка-плитка теперь выбираются в настройках папки.
+• На панели правки у кнопок появились подписи: «Блок», «Страница», «Новая», «Настройки».
+• Профиль: «Включить сейчас», «Сделать основным», «Копия» и «Удалить» — понятными строками; порядок профилей меняется стрелками прямо в их списке.
+• Кружки с числом уведомлений теперь называются «счётчики», чтобы не путать их со значками приложений.
+• Включённые переключатели больше не подсвечивают всю строку.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.0 · 2026-11-23
+Added:
+• After removing a block or a page, "Undo" shows at the bottom and puts everything back.
+• Home screen text follows the wallpaper: dark on light ones, light on dark ones. Choose by hand in Settings → Look → Text.
+Changed:
+• Cleaner settings. "Look" comes first: icon shape and style, text, page dots. Profiles and cloud sign-in moved down.
+• Block and page sheets open half-way and barely dim the home screen, so changes show at once. The block's or page's name is the sheet's title and can be renamed in place.
+• A block's sheet starts with what it holds and how it looks; size, labels, counters and its own icon style are under "More". Layouts are shown as pictures, sliders show their value, settings that change nothing (corners without a background, a title on the clock) are hidden.
+• "New block" and "New page" explain each choice. A column of icons and the tile folder are now chosen in a folder's settings.
+• The edit bar's buttons are labelled: Block, Page, New, Settings.
+• Profile: "Turn on now", "Make main", "Copy" and "Delete" as clear rows; profiles are reordered with arrows right in their list.
+• Notification dots are now called "counters", so they aren't mixed up with app icons.
+• Switches that are on no longer highlight the whole row.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.0/Blocks-0.6.0.apk" length="4150672" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="6d27a39bb5c4f9ced5c1f36ee43b4477f9fa02fbb489ab1dcdb8dd4e622d0482"/>
+    </item>
+    <item>
       <title>Блоки 0.5.0</title>
       <pubDate>Mon, 23 Nov 2026 13:05:12 -0000</pubDate>
       <sparkle:version>39</sparkle:version>
