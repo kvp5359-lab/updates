@@ -3,6 +3,28 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.4</title>
+      <pubDate>Mon, 23 Nov 2026 21:30:50 -0000</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.4 · 2026-11-23
+Добавлено:
+• Часы с тремя неделями рядом: эта неделя и две следующие, сегодня в кружке, выходные — светлой полосой. Нажатие на число открывает календарь на этом дне. Включается в настройках блока «Часы» → «Три недели рядом».
+Изменено:
+• Плашки блоков той же формы, что значки, только крупнее: у круглых значков — капсула, у скруглённых — такой же скруглённый прямоугольник. Настройка «Углы» больше не нужна и убрана.
+• Названия над блоками пока убраны вместе с переключателем «Заголовок над блоком».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.4 · 2026-11-23
+Added:
+• Clock with three weeks beside it: this week and the next two, today circled, weekends on a faint band. Tap a day to open the calendar on it. Turn it on in the "Clock" block's settings → "Three weeks beside".
+Changed:
+• Block plates have the same shape as the icons, only bigger: round icons make a capsule, rounded ones a rounded rectangle alike. The "Corners" setting is gone.
+• Names above blocks are gone for now, along with the "Title above the block" switch.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.4/Blocks-0.6.4.apk" length="4167056" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="60aacb325e2272906c33664999e07779b2f8ba84f2265bda5d94ad139ebcd544"/>
+    </item>
+    <item>
       <title>Блоки 0.6.3</title>
       <pubDate>Mon, 23 Nov 2026 18:41:14 -0000</pubDate>
       <sparkle:version>53</sparkle:version>
