@@ -3,6 +3,26 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.5</title>
+      <pubDate>Mon, 23 Nov 2026 21:42:13 -0000</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.5 · 2026-11-23
+Исправлено:
+• Папка-плитка больше не обрезается по углам и тоже повторяет форму значков.
+• В рядах значков крайний значок стоит от края так же, как от верха, поэтому скругление идёт ровно вокруг него.
+• Большие папки с круглыми значками — скруглённые квадраты, а не круги, срезающие значки.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.5 · 2026-11-23
+Fixed:
+• The folder tile no longer has cut corners and follows the icons' shape too.
+• In rows of icons the end icon sits as far from the side as from the top, so the rounding goes evenly round it.
+• Big folders of round icons are rounded squares, not circles cutting the icons.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.5/Blocks-0.6.5.apk" length="4183440" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="2d8822670b9bfaa1b20e818acef55d8177bc7c2ed24a7ed99d11a8de3ff88b14"/>
+    </item>
+    <item>
       <title>Блоки 0.6.4</title>
       <pubDate>Mon, 23 Nov 2026 21:30:50 -0000</pubDate>
       <sparkle:version>59</sparkle:version>
