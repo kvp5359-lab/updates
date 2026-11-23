@@ -3,6 +3,24 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.3</title>
+      <pubDate>Mon, 23 Nov 2026 18:41:14 -0000</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.3 · 2026-11-23
+Изменено:
+• «Недавние» в ряд стали каруселью: первые значки почти одинаковые, а у правого края они уменьшаются, темнеют и заходят друг под друга. Ряд листается пальцем, сколько показывать — больше не нужно выбирать: в нём все недавние. Обводка — пунктиром.
+• В «Новый блок» вернулась «Папка-плитка» — классическая папка, которая открывается поверх экрана, добавляется в одно нажатие.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.3 · 2026-11-23
+Changed:
+• "Recent" in a row is now a carousel: the first icons are about the same, near the right edge they get smaller, darker and tuck under each other. Scroll it with a finger; no count to choose, it holds all recent apps. Dashed outline.
+• "Folder tile" is back in "New block": the classic folder that opens over the screen is one tap away.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.3/Blocks-0.6.3.apk" length="4167056" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="3d03e4ed2aacf7b6861af7cc862a600b963dd8438d35f45235799b9834f59f6b"/>
+    </item>
+    <item>
       <title>Блоки 0.6.2</title>
       <pubDate>Mon, 23 Nov 2026 18:23:36 -0000</pubDate>
       <sparkle:version>49</sparkle:version>
