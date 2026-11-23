@@ -3,6 +3,28 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.2.1</title>
+      <pubDate>Mon, 23 Nov 2026 10:58:23 -0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.2.1 · 2026-11-23
+Изменено:
+• Настройки блока стали компактнее: приложения видны значками, раскладка, размер значков и фон выбираются кнопками в одну строку, ширина и высота — в одной строке, редкие настройки спрятаны в «Больше».
+• При выборе приложений отмеченные собираются на полке над поиском — список больше не сдвигается, когда отмечаешь первое.
+Исправлено:
+• Смахивание снизу (или кнопка «Домой») теперь всегда возвращает на главный экран: закрывает список приложений, поиск, открытую папку и режим правки.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.2.1 · 2026-11-23
+Changed:
+• Block settings are more compact: apps show as icons, layout, icon size and background are buttons in one row, width and height share a row, the rarer settings sit under "More".
+• When choosing apps, the ticked ones gather on a shelf above the search — the list no longer jumps when you tick the first one.
+Fixed:
+• A swipe up from the bottom (or the Home button) now always brings you back to the home screen: it closes the app list, search, an open folder and edit mode.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.2.1/Blocks-0.2.1.apk" length="4117904" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="c5fc8505c8fc8e2a1bd90d8c7d24bb4c19b22bfb4284a8952b07614bf8835657"/>
+    </item>
+    <item>
       <title>Блоки 0.2.0</title>
       <pubDate>Mon, 23 Nov 2026 08:07:39 -0000</pubDate>
       <sparkle:version>24</sparkle:version>
