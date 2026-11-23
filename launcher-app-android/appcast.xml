@@ -3,6 +3,28 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.1</title>
+      <pubDate>Mon, 23 Nov 2026 17:37:26 -0000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.1 · 2026-11-23
+Изменено:
+• Вид блоков теперь задаётся один раз для всего профиля: размер значков, фон блоков, прозрачность и углы — в «Настройки → Оформление» (и в настройках профиля). Поменял — изменились все блоки сразу.
+• В настройках блока остались его приложения, раскладка, размер и заголовок. Если нужно, чтобы блок выглядел иначе, — включи «Свой вид»: там фон, углы, размер и форма значков, подписи и счётчики только для него. Блоки, которые уже выглядели по-своему, получили «Свой вид» сами и не изменились.
+• Панель правки внизу стала спокойнее: обычные значки с подписями без цветных подложек.
+• Когда открываешь настройки блока внизу экрана, страница сама приподнимается, чтобы блок было видно над окном настроек. Панель правки при этом остаётся внизу. Закроешь окно — страница вернётся на место.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.1 · 2026-11-23
+Changed:
+• Blocks' look is now set once for the whole profile: icon size, block background, see-through and corners are in Settings → Look (and in the profile's settings). Change it and every block follows.
+• A block's settings keep its apps, layout, size and title. For a block that should look different, turn on "Own look": background, corners, icon size and shape, labels and counters just for it. Blocks that already looked different got "Own look" by themselves and haven't changed.
+• The edit bar is calmer: plain icons with labels, no colored backgrounds.
+• Opening the settings of a block low on the screen lifts the page so the block stays visible above the sheet (the edit bar stays at the bottom); it comes back down when the sheet closes.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.1/Blocks-0.6.1.apk" length="4167056" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="4268f076689e89eac35518b0890978573982962c14cc2db169ca816622c3ba30"/>
+    </item>
+    <item>
       <title>Блоки 0.6.0</title>
       <pubDate>Mon, 23 Nov 2026 16:42:18 -0000</pubDate>
       <sparkle:version>41</sparkle:version>
