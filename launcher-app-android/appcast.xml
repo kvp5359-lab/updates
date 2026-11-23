@@ -3,6 +3,24 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.2</title>
+      <pubDate>Mon, 23 Nov 2026 18:23:36 -0000</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.2 · 2026-11-23
+Добавлено:
+• «Недавние» теперь легко отличить от папок: вместо заливки — тонкая обводка, а значки бледнеют от самого свежего к старому. С «Своим видом» блок выглядит как настроишь.
+• Поле поиска можно сделать в том же стиле, что и блоки: в его настройках «Как выглядит → Как блоки» — тот же фон и прозрачность, что у блоков профиля.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.2 · 2026-11-23
+Added:
+• "Recent" is easy to tell from folders: an outline instead of a fill, and icons fade from the latest to the oldest. With "Own look" the block looks as you set it.
+• The search field can match the blocks: in its settings, Look → "Like blocks" gives it the same background and see-through as the profile's blocks.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.2/Blocks-0.6.2.apk" length="4167056" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="161e6d6321fbc4df89079df4da91f9c8ccfe95f3515fec53bcbbb0bea7e9ee55"/>
+    </item>
+    <item>
       <title>Блоки 0.6.1</title>
       <pubDate>Mon, 23 Nov 2026 17:37:26 -0000</pubDate>
       <sparkle:version>46</sparkle:version>
