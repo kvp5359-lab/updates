@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:kvp="https://kvp-projects.com/xmlns/updates">
+  <channel>
+    <title>Блоки</title>
+    <item>
+      <title>Блоки 0.1.0</title>
+      <pubDate>Mon, 23 Nov 2026 07:00:15 -0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.0 · 2026-11-23
+Добавлено:
+• Главный экран из блоков на гибкой сетке: папки приложений любой формы (сетка, строка, столбец), классические папки, которые открываются по нажатию, отдельные значки, умная папка с недавними приложениями, мини-значки, поиск, часы и виджеты Android.
+• Блоки ставятся и меняются прямо на экране: долгое нажатие выделяет блок — тяни его или стороны рамки, ⚙ открывает настройки. Новый блок можно «нарисовать» пальцем по свободным клеткам.
+• Ряды значков по горизонтали и вертикали: прижать к краю или к центру, фон облегает значки, длина ряда может подстраиваться под число приложений. Порядок значков меняется перетаскиванием.
+• Форма и цвет значков для всего профиля или отдельного блока: круг, сквиркл, квадрат, капля; оригинальные, одноцветные или серые.
+• Профили со своими страницами: переключаются кнопкой внизу экрана или сами по расписанию — например, рабочий профиль по будням без уведомлений и без списка приложений. Есть и минималистичная страница.
+• Поиск по приложениям, контактам, настройкам телефона, интернету и Play Маркету.
+• Список всех приложений свайпом вверх: значками или списком, с сортировкой; приложение можно скрыть или вынести на главный экран.
+• Значки уведомлений на иконках — точкой или числом.
+• Вход по почте: профили и настройки хранятся в облаке и появляются на новом телефоне. Аккаунт можно удалить в настройках.
+• Жесты на выбор: свайп вниз открывает шторку, свайп вверх и двойное касание.
+• Обновления по интернету: раз в день приложение проверяет новую версию и показывает, что нового. Вручную — «Настройки» → «О приложении» → «Проверить обновления».
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.0 · 2026-11-23
+Added:
+• A home screen made of blocks on a flexible grid: app folders of any shape (grid, row, column), classic folders that open on tap, single icons, a smart folder of recent apps, mini icons, search, a clock and Android widgets.
+• Blocks are placed and changed right on the screen: a long press selects a block — drag it or the sides of its frame, ⚙ opens its settings. A new block can be drawn with a finger over free cells.
+• Rows of icons, across or down: pressed to an edge or the middle, the background hugging the icons, the row's length fitting the number of apps. Icons are reordered by dragging.
+• Icon shape and color for a whole profile or a single block: circle, squircle, square, teardrop; original, one-color or gray.
+• Profiles with their own pages: switched with the button at the bottom of the screen or on a schedule — say, a work profile on weekdays without notification dots and without the app list. There's a minimal page too.
+• Search through apps, contacts, phone settings, the web and Play Store.
+• The list of all apps with a swipe up: icons or a list, sorted your way; an app can be hidden or put on the home screen.
+• Notification dots on icons — a dot or a number.
+• Sign-in with email: profiles and settings live in the cloud and come to a new phone. The account can be deleted in settings.
+• Gestures of your choice: swipe down opens the notification shade, swipe up and double tap.
+• Updates over the internet: once a day the app looks for a new version and shows what's new. By hand — Settings → About → Check for updates.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.1.0/Blocks-0.1.0.apk" length="4085136" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="d10b51c12c18a669972e85ef3f5e286d6328ccf54a6803b753b16ad3f823c0fa"/>
+    </item>
+  </channel>
+</rss>
