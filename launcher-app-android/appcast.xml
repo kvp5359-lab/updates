@@ -3,6 +3,44 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.7</title>
+      <pubDate>Tue, 24 Nov 2026 07:44:15 -0000</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.7 · 2026-11-24
+Добавлено:
+• «Без счётчика» в «Настройки → Счётчики уведомлений»: приложения, на значках которых счётчика не будет нигде.
+Изменено:
+• Настроек стало меньше, лишнее подбирается само:
+• подписи под значками решает страница, в том числе под папками-плитками;
+• цвет текста всегда подбирается по обоям;
+• плотность фона блоков подбирается сама;
+• промежутки и поля сетки подбираются сами;
+• точки страниц показываются, когда страниц больше одной;
+• часы выравниваются по краю, у которого стоит блок;
+• список всех приложений сразу открывается с поиском, а Enter в поиске открывает найденное приложение.
+• «Свой вид» у блока — только фон и значки.
+• У минималистичной страницы вместо четырёх настроек один выбор «Стиль»: обычный, крупный или строчный.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.7 · 2026-11-24
+Added:
+• «Без счётчика» in «Settings → Notification counts»: apps that never get a count on their icons.
+Changed:
+• Fewer settings, the rest chosen by itself:
+• names under icons are the page's, folder tiles included;
+• the text color always follows the wallpaper;
+• how solid block backgrounds are is chosen by itself;
+• the grid's spacing and margins are chosen by themselves;
+• page dots show when there's more than one page;
+• a clock aligns to the edge its block stands at;
+• the list of all apps opens with search right away, and Enter in search opens the app found.
+• A block's «Свой вид» is only its background and icons.
+• A minimal page has one «Стиль» choice (plain, large or lowercase) instead of four settings.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.7/Blocks-0.6.7.apk" length="4216204" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="322680ebcfdcae63fbc7132c01fc838825855e452d54f899c332140459b984ec"/>
+    </item>
+    <item>
       <title>Блоки 0.6.6</title>
       <pubDate>Tue, 24 Nov 2026 07:20:34 -0000</pubDate>
       <sparkle:version>67</sparkle:version>
