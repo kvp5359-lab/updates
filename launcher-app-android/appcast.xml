@@ -3,6 +3,70 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.6</title>
+      <pubDate>Tue, 24 Nov 2026 07:20:34 -0000</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.6 · 2026-11-24
+Добавлено:
+• В открытой папке-плитке значки можно переставлять: зажми значок и веди. Просто зажать — как раньше, меню приложения.
+• У часов четыре вида: цифры, столбиком, стрелки и словами. Секунды в каждом показаны по-своему. Выбор — в настройках блока часов, «Вид».
+• Шрифт часов: тонкий, с засечками, моноширинный или узкий («Шрифт» в настройках часов).
+• Следующий будильник под часами, когда он заведён. Отключается переключателем «Следующий будильник».
+Изменено:
+• Ползунок «Прозрачность» фона называется «Плотность фона»: так понятнее, что 100% — самый плотный фон.
+• Кнопки «Профиль» и «Все приложения» внизу экрана легче нажать.
+• Убраны настройки, которые ничего не меняли: подписи у мини-значков; счётчики у блока и профиля, когда счётчики выключены в общих настройках.
+• В «Новом блоке» свои виджеты собраны в раздел «Виджеты» наверху. «Часы с календарём» добавляются одним нажатием.
+Исправлено:
+• Облако больше не теряет правки. Правка, сделанная без связи, не затирает более свежую с другого телефона: обе версии остаются, твоя — копией «(с этого телефона)». Удаление без связи не убирает профиль, который на другом телефоне успели поправить.
+• Телефон со старой версией больше не сбрасывает новые настройки на остальных телефонах: он просит обновиться и не перезаписывает их.
+• После удаления аккаунта или входа в другой аккаунт раскладка не теряется и доходит до облака.
+• Если сервер не принял изменение, в «Настройки → Аккаунт» видно «Не всё сохранено в облаке», а не «синхронизировано».
+• На новом телефоне профили встают в том же порядке, что и на остальных.
+• Правка не теряется, если система закрыла лаунчер сразу после неё.
+• Лаунчер меньше тратит батарею. Счётчики уведомлений больше не перебирают все уведомления, когда обновляется музыка или загрузка. Облако больше не опрашивается при каждом возврате на главный экран.
+• Перенос блока больше не сохраняет ширину рядов, подогнанную под этот телефон, и телефоны не перезаписывают раскладку друг другу.
+• На плотном и цветном фоне блоков подписи читаются при любых обоях.
+• Рабочее приложение, перенесённое на главный экран, остаётся рабочим.
+• «Отменить» после удаления страницы возвращает виджеты рабочими и не откатывает другие правки, сделанные за эти секунды.
+• Виджет не пропадает, если телефон закрыл лаунчер, пока была открыта настройка виджета.
+• Перестановка значков в папке с двумя одинаковыми приложениями больше не теряет одно из них.
+• Поиск, меню приложения и список всех приложений открываются плавнее.
+• В часах с тремя неделями числа следующего месяца теперь хорошо читаются: они лишь чуть тоньше и бледнее.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.6 · 2026-11-24
+Added:
+• Icons in an opened folder tile can be rearranged: hold one and move it. Just holding still shows the app's menu.
+• The clock comes in four kinds: digits, stacked, hands and words, each showing seconds its own way. Pick one in the clock block's settings, «Вид».
+• The clock's font: thin, serif, monospace or condensed («Шрифт» in the clock's settings).
+• The next alarm under the clock when one is set; the «Следующий будильник» switch hides it.
+Changed:
+• The background «Прозрачность» slider is now «Плотность фона»: 100% is the most solid background.
+• The «Profile» and «All apps» buttons at the bottom are easier to press.
+• Settings that changed nothing are gone: names under small icons; counts on a block and a profile while counts are off in the general settings.
+• In «New block» our own widgets have their own «Widgets» section at the top, and «Clock with calendar» is added in one tap.
+Fixed:
+• The cloud no longer loses changes. A change made offline doesn't overwrite a newer one from another phone: both stay, yours as a copy «(с этого телефона)». A deletion made offline no longer removes a profile edited meanwhile on another phone.
+• A phone with an older version no longer resets new settings on the other phones: it asks to update instead of overwriting them.
+• After deleting the account or signing into another one, the layout isn't lost and reaches the cloud.
+• When the server refuses a change, «Settings → Account» says «Не всё сохранено в облаке» instead of «synced».
+• On a new phone the profiles come in the same order as on the others.
+• A change is no longer lost if the system closes the launcher right after it.
+• The launcher uses less battery: notification counts no longer go through every notification when music or a download updates, and the cloud isn't asked on every return to the home screen.
+• Moving a block no longer saves rows' widths fitted to this phone, so phones don't overwrite each other's layout.
+• Names stay readable on solid and colored block backgrounds with any wallpaper.
+• A work app put on the home screen stays the work one.
+• «Undo» after removing a page brings its widgets back working and keeps other changes made meanwhile.
+• A widget no longer disappears if the phone closed the launcher while the widget's setup was open.
+• Rearranging icons in a folder with the same app twice no longer loses one of them.
+• Search, an app's menu and the list of all apps open more smoothly.
+• In the clock with three weeks, next month's dates are easy to read now: just a little lighter.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.6/Blocks-0.6.6.apk" length="4248976" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="91d9c293f0b6687d5a937d4dc7b9162f694cf85effe93b84d6dcec50b0fc21f3"/>
+    </item>
+    <item>
       <title>Блоки 0.6.5</title>
       <pubDate>Mon, 23 Nov 2026 21:42:13 -0000</pubDate>
       <sparkle:version>61</sparkle:version>
