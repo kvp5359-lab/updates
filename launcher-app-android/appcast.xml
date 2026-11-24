@@ -3,6 +3,26 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.2</title>
+      <pubDate>Tue, 24 Nov 2026 21:16:23 -0000</pubDate>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.2 · 2026-11-24
+Изменено:
+• Поиск открывается панелью поверх главного экрана, внизу у клавиатуры, в стиле твоих блоков (стекло или матовое стекло). Страница под ним размывается, нажатие мимо панели закрывает поиск.
+• Сразу при открытии поиск показывает приложения, которые ты запускаешь чаще всего, и недавние запросы. Долгое нажатие на запрос убирает его из списка.
+• После ввода сверху показывается лучшее совпадение: открыть его можно кнопкой поиска на клавиатуре. Ниже идут остальные приложения, контакты, настройки и поиск в интернете.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.2 · 2026-11-24
+Changed:
+• Search opens as a panel over the home screen, at the bottom by the keyboard, in the look of your blocks (glass or frosted glass). The page behind blurs; a tap outside the panel closes it.
+• Right away the search shows the apps you open most and your recent searches. Long-press a search to remove it.
+• After typing, the best match comes first — the keyboard's search key opens it — then other apps, contacts, settings and web search.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.2/Blocks-0.7.2.apk" length="4248976" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="7ecfdbff18da84c1935a80d9a36c828d392c08fcc6d92f5661966773fa982925"/>
+    </item>
+    <item>
       <title>Блоки 0.7.1</title>
       <pubDate>Tue, 24 Nov 2026 20:01:31 -0000</pubDate>
       <sparkle:version>83</sparkle:version>
