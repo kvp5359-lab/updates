@@ -3,6 +3,32 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.9</title>
+      <pubDate>Tue, 24 Nov 2026 13:21:08 -0000</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.9 · 2026-11-24
+Изменено:
+• Одиночный значок без фона занимает всю свою клетку.
+• В блоке без фона значки заполняют его от края до края по высоте и ширине; если не помещаются — наезжают друг на друга, первый сверху.
+• Вид блоков задаётся только в профиле, у блока остался один переключатель «Фон» (вместо «Своего вида»).
+• В блоках с фоном у значков больше места до края — одинаково во всех блоках.
+• Значок, брошенный на пустое место, встаёт ровно на клетку сетки; новый поиск — высотой в клетку.
+• В режиме правки сетка ярче вокруг выбранного блока и плавно гаснет вдали.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.9 · 2026-11-24
+Changed:
+• A single icon without a background fills its whole cell.
+• In a block without a background the icons fill it edge to edge; when they don't fit, they overlap, the first on top.
+• The look of blocks is set only in the profile; a block keeps just the «Фон» switch (instead of «Свой вид»).
+• Icons in blocks with a background get more room to the edge, the same in every block.
+• An icon dropped on an empty place lands exactly on a grid cell; a new search field is one cell tall.
+• While arranging, the grid is brighter around the selected block and fades away from it.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.9/Blocks-0.6.9.apk" length="4216208" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="1c705925ef9be3688737684b7a70b4b935acf9ef9a953077f9253a2157a796a3"/>
+    </item>
+    <item>
       <title>Блоки 0.6.8</title>
       <pubDate>Tue, 24 Nov 2026 09:31:28 -0000</pubDate>
       <sparkle:version>72</sparkle:version>
