@@ -3,6 +3,36 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.0</title>
+      <pubDate>Tue, 24 Nov 2026 16:10:30 -0000</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.0 · 2026-11-24
+Добавлено:
+• Новый фон блоков «Стекло» — прозрачный, со светлой кромкой и бликом, в духе iOS. Прежнее стекло теперь называется «Матовое стекло». Выбор — в оформлении профиля, «Фон блоков».
+Изменено:
+• Скруглённый квадрат у значков теперь один — по форме значков iOS, с плавными углами; «Мягкий квадрат» убран (у кого он был выбран, значки станут такими же).
+• Наложенные друг на друга значки отбрасывают лёгкую тень — видно, где кончается один и начинается другой.
+• Сетка в режиме правки заметнее, а вдали от выбранного блока гаснет быстрее.
+Исправлено:
+• Значок снова можно бросить с шагом в треть клетки — например, вровень с рядом других значков.
+• У «Недавних» отступы от значков до края одинаковые со всех сторон, как у других блоков.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.0 · 2026-11-24
+Added:
+• A new block background, «Glass»: clear, with a lit rim and sheen, in the spirit of iOS. The former glass is now «Frosted glass». Pick it in the profile's look, «Block background».
+Changed:
+• Icons have one rounded square now, shaped like iOS icons with smooth corners; «Soft square» is gone (icons that used it look the same as the new one).
+• Overlapping icons cast a light shadow on each other, so you can tell where one ends.
+• The grid in edit mode is easier to see and fades faster away from the selected block.
+Fixed:
+• An icon can again be dropped in steps of a third of a cell — for example, level with a row of other icons.
+• «Recent» keeps the same space between its icons and its edge on every side, like other blocks.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.0/Blocks-0.7.0.apk" length="4232592" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="aaab63fae6dcb62ffcf97854470cb9298d2e95712180a8968d2c4b22ea84afb7"/>
+    </item>
+    <item>
       <title>Блоки 0.6.9</title>
       <pubDate>Tue, 24 Nov 2026 13:21:08 -0000</pubDate>
       <sparkle:version>74</sparkle:version>
