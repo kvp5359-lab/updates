@@ -3,6 +3,24 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.3</title>
+      <pubDate>Tue, 24 Nov 2026 21:35:30 -0000</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.3 · 2026-11-24
+Исправлено:
+• Поиск больше не показывает одно и то же приложение дважды.
+• Контакты ищутся с первой буквы. Кнопка «Искать и в контактах — разрешить» стала заметнее.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.3 · 2026-11-24
+Fixed:
+• Search no longer shows the same app twice.
+• Contacts are found from the first letter; «Search contacts too — allow» stands out more.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.3/Blocks-0.7.3.apk" length="4248976" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="02214f5f7e8e90ca97f714e2139fd02dbb87260fd6541a983525d7f2bd619322"/>
+    </item>
+    <item>
       <title>Блоки 0.7.2</title>
       <pubDate>Tue, 24 Nov 2026 21:16:23 -0000</pubDate>
       <sparkle:version>85</sparkle:version>
