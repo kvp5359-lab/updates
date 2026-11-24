@@ -3,6 +3,22 @@
   <channel>
     <title>Cliplark</title>
     <item>
+      <title>Cliplark 0.1.6</title>
+      <pubDate>Tue, 24 Nov 2026 22:09:08 -0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.6 · 2026-11-24
+Изменено:
+• «Поделиться → Cliplark» доходит до Mac быстрее — за 1,5–2 секунды.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.6 · 2026-11-24
+Changed:
+• Share → Cliplark reaches the Mac faster — in 1.5–2 seconds.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-android-0.1.6/Cliplark-0.1.6.apk" length="4171814" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="6ecc07eadb263e240ba0af251d7678f2efd761643fbf40fd459f0f3d626dbc5f"/>
+    </item>
+    <item>
       <title>Cliplark 0.1.5</title>
       <pubDate>Tue, 24 Nov 2026 21:19:33 -0000</pubDate>
       <sparkle:version>118</sparkle:version>
