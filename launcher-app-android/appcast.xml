@@ -3,6 +3,32 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.6.8</title>
+      <pubDate>Tue, 24 Nov 2026 09:31:28 -0000</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.6.8 · 2026-11-24
+Добавлено:
+• Значок можно вытащить из блока: зажми и веди. Отпусти на другом блоке — значок переедет туда, на пустом месте — станет отдельным значком.
+• Выбор, как показывать секунды у часов («Секунды» в настройках часов): цифрами, полоской, мигающим двоеточием, а у стрелочных — стрелкой или точкой.
+Изменено:
+• В блоке без фона значки всегда распределяются на всю ширину.
+Исправлено:
+• Долгое нажатие на значок в блоке больше не включает заодно режим правки.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.6.8 · 2026-11-24
+Added:
+• An icon can be pulled out of a block: hold and move it. Let go on another block and it moves there; on an empty place it becomes an icon of its own.
+• A choice of how the clock shows seconds («Секунды» in the clock's settings): digits, a bar, a blinking colon, and for hands a hand or a dot.
+Changed:
+• In a block without a background the icons always spread over the whole width.
+Fixed:
+• A long press on an icon in a block no longer also starts arranging.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.6.8/Blocks-0.6.8.apk" length="4216208" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="7e1bda21d3ce0b1a0ac3ec6b936b6d6900752d01195c091ba0d826504118e5cd"/>
+    </item>
+    <item>
       <title>Блоки 0.6.7</title>
       <pubDate>Tue, 24 Nov 2026 07:44:15 -0000</pubDate>
       <sparkle:version>69</sparkle:version>
