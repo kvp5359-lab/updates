@@ -3,6 +3,28 @@
   <channel>
     <title>Cliplark</title>
     <item>
+      <title>Cliplark 0.1.5</title>
+      <pubDate>Tue, 24 Nov 2026 21:19:33 -0000</pubDate>
+      <sparkle:version>118</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.1.5 · 2026-11-24
+Добавлено:
+• У каждой копии мелко видно, когда она сделана: «сейчас», «12 мин» или время.
+Изменено:
+• Значок подстраивается под оболочку телефона: круглый, квадратный или в форме капли, как у остальных приложений; с темой значков — одноцветный.
+• В «Сохранять копии сами» понятнее, что будет: включено — каждая копия сразу уходит в историю и на миг мелькает окно Cliplark; выключено — только то, что отправишь сам.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.1.5 · 2026-11-24
+Added:
+• Each copy quietly shows when it was made: "now", "12 min" or the time.
+Changed:
+• The icon follows your launcher: round, square or a drop, like the other apps; monochrome with themed icons.
+• "Save copies by themselves" says plainly what it does: on — every copy goes to the history at once and Cliplark flashes for a moment; off — only what you send yourself.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-android-0.1.5/Cliplark-0.1.5.apk" length="4171814" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="1e89a22be90e2073350d4b86c0ddc9cb1ba734daccc87f5e528bbb8b9cfa4cb9"/>
+    </item>
+    <item>
       <title>Cliplark 0.1.4</title>
       <pubDate>Sat, 21 Nov 2026 23:00:09 -0000</pubDate>
       <sparkle:version>109</sparkle:version>
