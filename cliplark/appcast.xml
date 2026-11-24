@@ -3,6 +3,19 @@
   <channel>
     <title>Cliplark</title>
     <item>
+      <title>Cliplark 0.7.0</title>
+      <pubDate>Tue, 24 Nov 2026 21:23:42 -0000</pubDate>
+      <sparkle:version>118</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description xml:lang="ru"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.7.0 · 2026-11-24</h2><h3>Добавлено</h3><ul><li>Синхронизация с телефоном на Android: войди в аккаунт kvp (Настройки → Синхронизация), а если на телефоне аккаунт уже есть — подключи Mac по QR-коду. История и списки — на обоих устройствах, всё шифруется у тебя: прочитать историю не можем даже мы.</li><li>Скопировал на телефоне — через 2–4 секунды можно вставлять на Mac: копия сама попадает в буфер (выключается там же, в Синхронизации).</li><li>Отправил с телефона («Поделиться → Cliplark» или плитка) — в левом нижнем углу появляется карточка с картинкой целиком: перетащи её куда нужно или нажми, чтобы вставить; на ней же «Скопировать», «Удалить», «Закрыть». Несколько отправок копятся стопкой, каждая висит минуту.</li></ul>
+]]></description>
+      <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.7.0 · 2026-11-24</h2><h3>Added</h3><ul><li>Sync with an Android phone: sign in to the kvp account (Settings → Sync), or, if the phone already has it, connect the Mac with a QR code. History and lists on both devices, everything encrypted on your side: not even we can read your history.</li><li>Copy on the phone and paste on the Mac 2–4 seconds later: the copy goes onto the clipboard by itself (it can be turned off in Sync).</li><li>Sent from the phone (Share → Cliplark or its tile) — a card with the whole picture appears in the lower left corner: drag it where you need it or click to paste; it also has Copy, Delete and Close. Several sends stack up, each staying a minute.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-0.7.0/Cliplark-0.7.0.zip" length="6592235" type="application/octet-stream" sparkle:edSignature="ATdllHXAIVxx8+etfKURBkRgp6LOqss+rhXzkTAkcLPfjBsDbqm6gTSXXH6bxQPOVYj71Bx9+neZe17YxuoTCw=="/>
+    </item>
+    <item>
       <title>Cliplark 0.6.0</title>
       <pubDate>Wed, 11 Nov 2026 15:10:35 -0000</pubDate>
       <sparkle:version>66</sparkle:version>
