@@ -3,6 +3,50 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.1</title>
+      <pubDate>Tue, 24 Nov 2026 20:01:31 -0000</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.1 · 2026-11-24
+Добавлено:
+• Подписи под значками настраиваются по видам — в блоках, отдельные значки и папки, внутри папок, «Недавние»: режим правки → «Настройки» → «Подписи под значками». Действуют на весь профиль.
+• У блока снова можно включить «Свой вид»: свой фон, форма и цвет значков, их размер — только у этого блока.
+• Блок с мелкими значками, по которым легко промахнуться, по нажатию открывается как папка.
+• Под открытой папкой страница размывается, как под стеклом.
+Изменено:
+• Открытая папка и плитки папок на экране — в том же стиле, что и блоки профиля (стекло, матовое стекло, плотный или цвет).
+• Папка раскрывается рядом со своим блоком, а не посередине экрана.
+• Блик на кромке «Стекла» у каждого блока свой, а не одинаковый слева.
+• Сетка в режиме правки — белая и бледнее, на светлых обоях не выглядит серыми пятнами.
+• Оформление профиля и настройки страницы — в одном листе: в режиме правки нажми «Настройки». Отдельной кнопки «Страница» больше нет, остальные настройки — по строке «Все настройки».
+Исправлено:
+• Блок-сетка без фона тоже заполняется значками: они растут до размера своих ячеек, а не остаются размером из профиля. Если значки выстроились в один ряд, они встают во всю высоту блока и при нехватке места наезжают друг на друга — как в ряду.
+• С включёнными подписями отдельные значки, плитки папок и ряды без фона почти не уменьшаются: подпись уходит в промежуток под блоком, ряды страницы остаются на месте.
+• Отдельный значок без фона занимает свою клетку целиком, край в край по сетке.
+• Отдельный значок можно перетащить с шагом в треть клетки и без режима правки — его старое место больше не мешает.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.1 · 2026-11-24
+Added:
+• Names under icons can be set by kind — in blocks, lone icons and folders, inside folders, «Recent»: arranging → «Settings» → «Names under icons». They apply to the whole profile.
+• A block can have «Its own look» again: its own background, icon shape, colors and size.
+• A block of small icons that are easy to miss opens like a folder when tapped.
+• The page blurs under an open folder, as under glass.
+Changed:
+• The open folder and folder tiles follow the profile's block style (glass, frosted glass, solid or color).
+• A folder opens next to its block, not in the middle of the screen.
+• Each «Glass» block catches the light its own way instead of always brightest on the left.
+• The grid in edit mode is white and fainter, no gray stains on light wallpapers.
+• The profile's look and the page settings are one sheet: tap «Settings» while arranging. The separate «Page» button is gone; the rest is under «All settings».
+Fixed:
+• A grid block without a background fills with icons too: they grow to their cells instead of keeping the profile's size. Icons that line up in one row take the block's full height and overlap when short of room — as in a row.
+• With names on, lone icons, folder tiles and rows without a background barely shrink: the name goes into the gap under the block, the page keeps all its rows.
+• A lone icon without a background fills its cell edge to edge, exactly on the grid.
+• A lone icon can be dragged in thirds of a cell without arranging mode too — its old place no longer gets in the way.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.1/Blocks-0.7.1.apk" length="4232592" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="2483996980cf05b645bb65b35db444bb8f6945315e6957df191db28f9c3aa1a2"/>
+    </item>
+    <item>
       <title>Блоки 0.7.0</title>
       <pubDate>Tue, 24 Nov 2026 16:10:30 -0000</pubDate>
       <sparkle:version>76</sparkle:version>
