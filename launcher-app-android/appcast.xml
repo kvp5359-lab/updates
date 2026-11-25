@@ -3,6 +3,22 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.5</title>
+      <pubDate>Wed, 25 Nov 2026 21:16:36 -0000</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.5 · 2026-11-25
+Изменено:
+• В блоке с мелкими значками точное нажатие на значок сразу открывает приложение. Как папка блок открывается, только если нажатие пришлось между значками или туда, где они наезжают друг на друга.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.5 · 2026-11-25
+Changed:
+• In a block with small icons, a sure tap on an icon opens the app right away. The block opens like a folder only when the tap lands between icons or where they overlap.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.5/Blocks-0.7.5.apk" length="4298128" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="6fec4800e0c226c6d39f8e4d02dadbd311379b247691e40a8a9c7e4235dda37e"/>
+    </item>
+    <item>
       <title>Блоки 0.7.4</title>
       <pubDate>Wed, 25 Nov 2026 07:08:57 -0000</pubDate>
       <sparkle:version>91</sparkle:version>
