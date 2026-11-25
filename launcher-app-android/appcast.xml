@@ -3,6 +3,34 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.4</title>
+      <pubDate>Wed, 25 Nov 2026 07:08:57 -0000</pubDate>
+      <sparkle:version>91</sparkle:version>
+      <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.4 · 2026-11-25
+Добавлено:
+• У часов свои углы — от квадрата до капсулы: настройки блока часов → «Углы как у значков».
+• Рядом с часами можно показать неделю строкой, две или три недели или весь месяц: настройки блока часов → «Рядом». Часы рядом с днями — любого вида, не только цифры.
+• Новые виды часов: «Дата сверху», «День полоской», «Два города» и «Точки».
+Изменено:
+• В поиске у контактов видны их фото, а у кого фото нет — первая буква имени.
+Исправлено:
+• При обновлении из «Настроек» окно системы «Обновить / Отмена» больше не появляется второй раз.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.4 · 2026-11-25
+Added:
+• Clocks can have their own corners, from square to a capsule: the clock block's settings → “Corners like the icons”.
+• Beside a clock you can show a week in a line, two or three weeks, or the whole month: the clock block's settings → “Beside”. A clock next to the days can be of any kind, not only digits.
+• New clock faces: date on top, the day as a bar, two cities, and dots.
+Changed:
+• Search shows contacts' photos, or the first letter of the name when there is none.
+Fixed:
+• When updating from Settings, the system's “Update / Cancel” window no longer shows up a second time.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.4/Blocks-0.7.4.apk" length="4298128" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="a456ab0d88d935b2aa4e3d934aba723f76a4774cf8af0eccdfd638fbf65b01f0"/>
+    </item>
+    <item>
       <title>Блоки 0.7.3</title>
       <pubDate>Tue, 24 Nov 2026 21:35:30 -0000</pubDate>
       <sparkle:version>87</sparkle:version>
