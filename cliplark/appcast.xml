@@ -3,6 +3,19 @@
   <channel>
     <title>Cliplark</title>
     <item>
+      <title>Cliplark 0.7.2</title>
+      <pubDate>Thu, 26 Nov 2026 12:09:58 -0000</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description xml:lang="ru"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Версия 0.7.2 · 2026-11-26</h2><h3>Исправлено</h3><ul><li>Синхронизация больше не замирает, если при запуске Mac ещё не было сети (например, сразу после пробуждения): Cliplark сам пробует снова.</li></ul>
+]]></description>
+      <description xml:lang="en"><![CDATA[<!doctype html><meta charset="utf-8"><style>body{font:13px -apple-system,sans-serif;margin:12px;color:#222}@media(prefers-color-scheme:dark){body{color:#ddd;background:transparent}}h2{font-size:15px;margin:14px 0 4px}h3{font-size:13px;margin:10px 0 2px;color:#888}ul{margin:2px 0 0 18px;padding:0}li{margin:2px 0}</style><h2>Version 0.7.2 · 2026-11-26</h2><h3>Fixed</h3><ul><li>Sync no longer stalls when the Mac had no network at launch (right after waking, say): Cliplark tries again by itself.</li></ul>
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/cliplark-0.7.2/Cliplark-0.7.2.zip" length="6609901" type="application/octet-stream" sparkle:edSignature="pPINMRVm7OixfL3X/PDh/Z3p3rYLLU7cLvBzUtFuQA6X4jd4I8t0B2/MdUnYr7QCftcuX+NQvaTlt5EwroyECQ=="/>
+    </item>
+    <item>
       <title>Cliplark 0.7.1</title>
       <pubDate>Tue, 24 Nov 2026 22:09:46 -0000</pubDate>
       <sparkle:version>128</sparkle:version>
