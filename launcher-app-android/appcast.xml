@@ -3,6 +3,24 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.7</title>
+      <pubDate>Fri, 27 Nov 2026 08:25:50 -0000</pubDate>
+      <sparkle:version>99</sparkle:version>
+      <sparkle:shortVersionString>0.7.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.7 · 2026-11-27
+Изменено:
+• Папка открывается туда, где больше места: у блока в нижней части экрана — вверх, в верхней — вниз.
+• Значки, которые наезжают друг на друга, отбрасывают на соседний заметную тень — видно, какой лежит сверху.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.7 · 2026-11-27
+Changed:
+• A folder opens towards the larger room: up from a block in the lower part of the screen, down from one in the upper part.
+• Overlapping icons cast a clear shadow onto the next one, so you can see which lies on top.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.7/Blocks-0.7.7.apk" length="4298124" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="03d6e78c2d37d1d8d60cf57ce645e93e0fb3da4b72e0eadcd4eeae297bd1eafc"/>
+    </item>
+    <item>
       <title>Блоки 0.7.6</title>
       <pubDate>Fri, 27 Nov 2026 07:32:35 -0000</pubDate>
       <sparkle:version>96</sparkle:version>
