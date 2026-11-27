@@ -3,6 +3,28 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.6</title>
+      <pubDate>Fri, 27 Nov 2026 07:32:35 -0000</pubDate>
+      <sparkle:version>96</sparkle:version>
+      <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.6 · 2026-11-27
+Изменено:
+• Список всех приложений — в стиле твоих блоков (стекло, матовое стекло, цвет), главный экран под ним размывается.
+• Сверху в списке приложений — полоска из пяти приложений, которые ты открываешь чаще всего.
+• Открытая папка стала уже, как на Pixel: три столбца, название — внизу под значками.
+• У второй копии приложения («Двойные приложения» и похожие функции телефона) в углу значка метка «2», у приложений рабочего профиля — портфель.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.6 · 2026-11-27
+Changed:
+• The list of all apps follows your blocks' look (glass, frosted glass, a color), and the home screen behind it is blurred.
+• The list of apps starts with a strip of the five apps you open most.
+• An open folder is narrower, as on a Pixel: three columns, its name under the icons.
+• A second copy of an app (dual apps and the like) has a “2” in its icon's corner, a work profile's app has a briefcase.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.6/Blocks-0.7.6.apk" length="4298128" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="22ee369ee7657d4329ec5b97415f0fb3b3ec72f4a0ca522f5f43ec352df04778"/>
+    </item>
+    <item>
       <title>Блоки 0.7.5</title>
       <pubDate>Wed, 25 Nov 2026 21:16:36 -0000</pubDate>
       <sparkle:version>93</sparkle:version>
