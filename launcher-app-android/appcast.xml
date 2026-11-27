@@ -3,6 +3,26 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.8</title>
+      <pubDate>Fri, 27 Nov 2026 21:12:53 -0000</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>0.7.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.8 · 2026-11-27
+Изменено:
+• Меню по долгому нажатию на значок — в стиле твоих блоков: открывается рядом со значком туда, где больше места, ярлыки приложения показаны со своими значками, действия собраны в кнопки внизу.
+• Сетка в режиме правки стала светлее и лучше видна.
+• Настройки в новом стиле: выбор вариантов — соединёнными кнопками с выделенным пунктом, числа — компактными «капсулами» с − и +, карточки чётче отделены от фона.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.8 · 2026-11-27
+Changed:
+• The long-press menu of an icon follows your blocks' look: it opens next to the icon towards the larger room, the app's shortcuts show their icons, and the actions sit as buttons at the bottom.
+• The grid in edit mode is lighter and easier to see.
+• Settings in a fresher style: choices as connected buttons with the picked one highlighted, numbers as compact − / + capsules, cards stand out from the background.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.8/Blocks-0.7.8.apk" length="4298128" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="2fa844d96d1e135a72685aa37b8c8f6b11023500ecc28b77e3190612a7da55b5"/>
+    </item>
+    <item>
       <title>Блоки 0.7.7</title>
       <pubDate>Fri, 27 Nov 2026 08:25:50 -0000</pubDate>
       <sparkle:version>99</sparkle:version>
