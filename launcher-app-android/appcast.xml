@@ -3,6 +3,24 @@
   <channel>
     <title>Блоки</title>
     <item>
+      <title>Блоки 0.7.9</title>
+      <pubDate>Fri, 27 Nov 2026 21:31:35 -0000</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>0.7.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>33</sparkle:minimumSystemVersion>
+      <description xml:lang="ru"><![CDATA[Версия 0.7.9 · 2026-11-27
+Изменено:
+• У блока «Недавние» — выбор «Цвета»: обычные, затухающие слева направо или монохромные.
+• Сетка в режиме правки стала почти прозрачной и больше не спорит с обоями, у выбранного блока она лишь чуть заметнее.
+]]></description>
+      <description xml:lang="en"><![CDATA[Version 0.7.9 · 2026-11-27
+Changed:
+• «Recent» blocks get a «Colors» choice: as they are, fading left to right, or monochrome.
+• The grid in edit mode is nearly transparent and no longer competes with the wallpaper; around the selected block it is only slightly more visible.
+]]></description>
+      <enclosure url="https://updates.kvp-projects.com/files/launcher-app-android-0.7.9/Blocks-0.7.9.apk" length="4298128" type="application/octet-stream" sparkle:os="android" kvp:arch="arm64" kvp:sha256="9acc7eda659e96f53398f99387302b0796e7027b531e21ea5b02b794f984ee7b"/>
+    </item>
+    <item>
       <title>Блоки 0.7.8</title>
       <pubDate>Fri, 27 Nov 2026 21:12:53 -0000</pubDate>
       <sparkle:version>103</sparkle:version>
